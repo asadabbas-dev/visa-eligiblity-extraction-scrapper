@@ -1,0 +1,137 @@
+{
+  "page_title": "I need to add multiple files to my online application, but there is only one field to upload documents. What can I do?",
+  "url": "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1160&top=23",
+  "h1": "I need to add multiple files to my online application, but there is only one field to upload documents. What can I do?",
+  "headings": {
+    "h2": [
+      "How to combine documents into 1 file",
+      "Page details",
+      "Answers others found useful",
+      "Help tool",
+      "Form and guide",
+      "Glossary term"
+    ],
+    "h3": [
+      "Text documents",
+      "PDF files",
+      "Images"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "How to combine documents into 1 file",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Text documents",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Copy the text from all files into a single document.",
+        "If you’re including photos, use the “Insert picture” function instead of copying and pasting."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "PDF files",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "You can combine several PDF files into 1 PDF file."
+      ],
+      "bullets": [
+        "If you have Acrobat DC, follow the instructions on Adobe’s website .",
+        "If you don’t have Acrobat DC or similar software, there are websites and apps you can use to combine your PDF files. Make sure to read their terms of service and privacy policy before using these. We can’t guarantee the security of these third-party tools. Use them at your own risk.",
+        "Make sure to read their terms of service and privacy policy before using these.",
+        "We can’t guarantee the security of these third-party tools. Use them at your own risk."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Images",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "You can combine multiple images of your documents into a text document or a PDF file.",
+        "When you save a PDF file, select a low resolution (150 DPI or less) or a minimum size setting to keep the document under the file size limit for the online application you use."
+      ],
+      "bullets": [
+        "For example, when you select “Save as” with Microsoft Word, an “Optimize” menu appears on the panel to the left of the “Save” button. Select “Minimum size” to get the smaller file size."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Answers others found useful",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [
+        "My documents are too large to upload. How do I reduce the file size?",
+        "What file formats can I upload to my account?",
+        "How do I view the messages in my account?",
+        "Can I send a new document after I apply online?",
+        "What is GCKey?",
+        "What is Sign-in partner (SecureKey Concierge)?",
+        "How do I upload documents to my IRCC Portal account after I’ve submitted my application?"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Help tool",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Form and guide",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [
+        "Form Quick Find"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Glossary term",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Instruction guide"
+      ],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://helpx.adobe.com/ca/acrobat/using/merging-files-single-pdf.html",
+    "https://ircc.canada.ca/english/e-services/account.asp",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1124&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1213&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1624&top=38",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=326&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=576&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=794&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=851&top=23",
+    "https://ircc.canada.ca/english/helpcentre/glossary.asp#instruction_guide",
+    "https://ircc.canada.ca/english/information/applications/index.asp"
+  ]
+}

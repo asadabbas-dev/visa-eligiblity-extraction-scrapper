@@ -1,0 +1,321 @@
+{
+  "page_title": "Visit Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html",
+  "h1": "Visit Canada",
+  "headings": {
+    "h2": [
+      "Before you apply",
+      "Apply for a visitor visa or eTA",
+      "After you arrive in Canada",
+      "For Canadian business and event organizers",
+      "At the border",
+      "Page details"
+    ],
+    "h3": [
+      "Check if you need an eTA or visa",
+      "Visitor visa",
+      "Electronic travel authorization (eTA)",
+      "Visitor records: extend your stay as a visitor",
+      "Students and workers: apply for a new visitor visa",
+      "Bring foreign business guests to Canada",
+      "Border information for visitors to Canada",
+      "Explore immigration programs"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Before you apply",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "Answer a few questions and we’ll tell you what you need to travel to Canada: an electronic travel authorization (eTA) or a visa."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Check if you need an eTA or visa",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Apply for a visitor visa or eTA",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Visitor visa",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "What is a visitor visa, who can apply, how to apply and how to prepare for your arrival in Canada"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Electronic travel authorization (eTA)",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "What is an eTA, who can apply, how to apply and how to prepare for your arrival in Canada"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "After you arrive in Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Visitor records: extend your stay as a visitor",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Who can get a visitor record, what it is and how to apply"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Students and workers: apply for a new visitor visa",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Get a new visitor visa from inside Canada if yours is expired and you’re planning on leaving Canada and returning"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "For Canadian business and event organizers",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Bring foreign business guests to Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "What you need to do as a business or event organizer, how to register your event and prepare letters of invitation"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "At the border",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Border information for visitors to Canada",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Travel tips, what happens at the border and prohibited or restricted goods"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Explore immigration programs",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Answer a few questions to see different ways you might be able to come to Canada"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "Before you apply",
+      "level": "h2",
+      "items": [
+        "Answer a few questions and we’ll tell you what you need to travel to Canada: an electronic travel authorization (eTA) or a visa."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Check if you need an eTA or visa",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Before you apply"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Apply for a visitor visa or eTA",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Visitor visa",
+          "level": "h3",
+          "items": [
+            "What is a visitor visa, who can apply, how to apply and how to prepare for your arrival in Canada"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Apply for a visitor visa or eTA"
+        },
+        {
+          "heading": "Electronic travel authorization (eTA)",
+          "level": "h3",
+          "items": [
+            "What is an eTA, who can apply, how to apply and how to prepare for your arrival in Canada"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Apply for a visitor visa or eTA"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "After you arrive in Canada",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Visitor records: extend your stay as a visitor",
+          "level": "h3",
+          "items": [
+            "Who can get a visitor record, what it is and how to apply"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "After you arrive in Canada"
+        },
+        {
+          "heading": "Students and workers: apply for a new visitor visa",
+          "level": "h3",
+          "items": [
+            "Get a new visitor visa from inside Canada if yours is expired and you’re planning on leaving Canada and returning"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "After you arrive in Canada"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "For Canadian business and event organizers",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Bring foreign business guests to Canada",
+          "level": "h3",
+          "items": [
+            "What you need to do as a business or event organizer, how to register your event and prepare letters of invitation"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "For Canadian business and event organizers"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "At the border",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Border information for visitors to Canada",
+          "level": "h3",
+          "items": [
+            "Travel tips, what happens at the border and prohibited or restricted goods"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "At the border"
+        },
+        {
+          "heading": "Explore immigration programs",
+          "level": "h3",
+          "items": [
+            "Answer a few questions to see different ways you might be able to come to Canada"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "At the border"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/visit/visas.asp",
+    "https://ircc.canada.ca/explore-programs/index.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/organizers-events-conferences.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/visitors-events-conferences.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html",
+    "https://www.cbsa-asfc.gc.ca/travel-voyage/menu-eng.html"
+  ]
+}

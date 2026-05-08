@@ -1,0 +1,180 @@
+{
+  "page_title": "About government - Canada.ca",
+  "url": "https://www.canada.ca/en/government/system.html",
+  "h1": "About government",
+  "headings": {
+    "h2": [
+      "Services et renseignements",
+      "Page details"
+    ],
+    "h3": [
+      "How government works",
+      "Government priorities",
+      "Treaties, laws and regulations",
+      "Working for the Government of Canada",
+      "Government-wide reporting on spending and operations",
+      "Open Government",
+      "Doing business with government",
+      "Policies, standards, directives and guidelines",
+      "Federal properties and buildings",
+      "Government communications",
+      "Connect with government",
+      "Government in a digital age"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Services et renseignements",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "How government works",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Organizational structure, democracy, elections, intergovernmental and international relations"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Government priorities",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Mandate letters, departmental plans, Speech from the Throne"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Treaties, laws and regulations",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Acts, regulations, treaties with Indigenous peoples, international treaties, agreements"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Working for the Government of Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Job opportunities, hiring programs, rates of pay, pay, benefits and pension plans for the federal public service, the military and the RCMP"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Government-wide reporting on spending and operations",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Government spending, access to information and privacy, audit and evaluation, departmental reports"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Open Government",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Find access to information summaries, pro-active disclosures by department, consultations, and open digital records."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Doing business with government",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Selling to the federal government, buying from the government and selling to other governments"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Policies, standards, directives and guidelines",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Treasury Board policies and related instruments for organizations across the Government of Canada"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Federal properties and buildings",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Federal buildings, docks, dams and other properties"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Government communications",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Web, advertising, publishing, public opinion research, social media, use of logos, copyright"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Connect with government",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Consulting Canadians, engagement with Indigenous peoples, contact government"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Government in a digital age",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Improving digital services, online security, information technology, artificial intelligence, workplace innovation, open data"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://open.canada.ca/en",
+    "https://www.canada.ca/en/government/publicservice.html",
+    "https://www.canada.ca/en/government/system/assets.html",
+    "https://www.canada.ca/en/government/system/consultations.html",
+    "https://www.canada.ca/en/government/system/digital-government.html",
+    "https://www.canada.ca/en/government/system/government-communications.html",
+    "https://www.canada.ca/en/government/system/government-wide-reporting-spending-operations.html",
+    "https://www.canada.ca/en/government/system/how-government-works.html",
+    "https://www.canada.ca/en/government/system/laws.html",
+    "https://www.canada.ca/en/government/system/priorities.html",
+    "https://www.canada.ca/en/services/business/doing-business.html",
+    "https://www.tbs-sct.canada.ca/pol/index-eng.aspx"
+  ]
+}

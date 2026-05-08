@@ -1,0 +1,126 @@
+{
+  "page_title": "How to apply - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/minors-pr/apply.html",
+  "h1": "How to apply",
+  "headings": {
+    "h2": [
+      "Read the instruction guide",
+      "1. Check your eligibility",
+      "2. Complete your forms and gather your documents",
+      "3. Mail your application",
+      "Page details"
+    ],
+    "h3": [
+      "Photo specifications",
+      "Track your application"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Read the instruction guide",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "The instruction guide will help you complete the application correctly. It includes information about",
+        "Ask for this guide in another format"
+      ],
+      "bullets": [
+        "eligibility",
+        "how to complete your forms"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "1. Check your eligibility",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "Before you start the application, check if you're eligible ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "2. Complete your forms and gather your documents",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "Make sure you fill out all the forms and documents that are listed in your document checklist (IMM 0203) (opens in a new tab) . You must fill out and print the following documents:",
+        "Get help to open an application form or to fill one out in the Help Centre."
+      ],
+      "bullets": [
+        "Generic Application Form for Canada (IMM 0008) (opens in a new tab) Under “Program under which you are applying,” select Other Under “Category under which you are applying,” select In-Canada - Humanitarian & Compassionate Considerations",
+        "Under “Program under which you are applying,” select Other",
+        "Under “Category under which you are applying,” select In-Canada - Humanitarian & Compassionate Considerations",
+        "Schedule A - Background/Declaration (IMM 5669) (opens in a new tab)",
+        "Additional Family Information (IMM 5406) (opens in a new tab) , if applicable",
+        "attestation letter and attendance records",
+        "completed document checklist (check all the forms and documents you have included)"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Photo specifications",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "You need one photo for each person on your application.",
+        "Show the photo specifications to your photographer to make sure your photos meet our requirements."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "3. Mail your application",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "Send the complete application in a stamped envelope. If you are applying as a family , send all the documents in one envelope.",
+        "You must also write your name and address in the top left-hand corner of the envelope.",
+        "Mail the application to the following address:",
+        "Mailing address IRCC - Humanitarian Migration Vancouver FN/State Care 300-800 Burrard St Vancouver BC V6Z 0B6"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Track your application",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "If you submit a paper application, we recommend that you use a postal or courier service with a tracking number to ensure you get proof that your application was delivered to the IRCC office.",
+        "Find out how to check if your application has been received ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?amp;top=&qnum=028",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=660&top=18",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?st=4.2",
+    "https://www.canada.ca/content/canadasite/en/immigration-refugees-citizenship/services/permanent-residents/card/photos",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-0204-pathway-permanent-residence-minors-care.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm0008.html#paper",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm0203.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5406.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5475.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5476.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5669.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/minors-pr/apply.html#inline_content_modal",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/minors-pr/eligibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/learn-about-representatives.html",
+    "mailto:VancouverBRO@cic.gc.ca"
+  ]
+}

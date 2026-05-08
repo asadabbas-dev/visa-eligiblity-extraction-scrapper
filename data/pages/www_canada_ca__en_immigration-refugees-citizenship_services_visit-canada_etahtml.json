@@ -1,0 +1,268 @@
+{
+  "page_title": "Electronic travel authorization (eTA) - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html",
+  "h1": "Electronic travel authorization",
+  "headings": {
+    "h2": [
+      "Most requested",
+      "Services and information",
+      "Features",
+      "Page details"
+    ],
+    "h3": [
+      "Find out about eTAs and if you can apply",
+      "Apply online for an eTA",
+      "What to do after you apply",
+      "Dual Canadian citizens need a Canadian passport",
+      "Check your eTA status",
+      "eTA top questions",
+      "Flying to Canada?"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Most requested",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Find out what you need to travel to Canada",
+        "I’m visiting the US and want to visit Canada. Do I need an eTA?"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Find out about eTAs and if you can apply",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "العربية , 廣東話(繁體字) , 普通話(繁體字) , Български , English, Español , Filipino, Français , Deutsch , Ελληνικά , Magyarul , Italiano , 日本語 , 한국어 , Polski , Português , Português (Brasil) , ภาษาไทย"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Apply online for an eTA",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "To apply, you must have a valid passport, a credit or a debit card and an email address, and you must answer a few questions in the online application."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "What to do after you apply",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "What to expect if we need more details from you, and things to keep in mind after you receive an eTA"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Dual Canadian citizens need a Canadian passport",
+      "heading_level": "h3",
+      "category": "travel_requirements",
+      "items": [
+        "How to apply for a passport, and why you need a passport and not an eTA for travel to or through Canada"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Check your eTA status",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Get online updates on pending applications as well as information on the status of your current eTA"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "eTA top questions",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Answers to common issues when you apply for an eTA"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Flying to Canada?",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Find out how easy it is to apply online. Learn how to get your eTA before you book your flight to Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "Most requested",
+      "level": "h2",
+      "items": [],
+      "bullets": [
+        "Find out what you need to travel to Canada",
+        "I’m visiting the US and want to visit Canada. Do I need an eTA?"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Services and information",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Find out about eTAs and if you can apply",
+          "level": "h3",
+          "items": [
+            "العربية , 廣東話(繁體字) , 普通話(繁體字) , Български , English, Español , Filipino, Français , Deutsch , Ελληνικά , Magyarul , Italiano , 日本語 , 한국어 , Polski , Português , Português (Brasil) , ภาษาไทย"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Services and information"
+        },
+        {
+          "heading": "Apply online for an eTA",
+          "level": "h3",
+          "items": [
+            "To apply, you must have a valid passport, a credit or a debit card and an email address, and you must answer a few questions in the online application."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Services and information"
+        },
+        {
+          "heading": "What to do after you apply",
+          "level": "h3",
+          "items": [
+            "What to expect if we need more details from you, and things to keep in mind after you receive an eTA"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Services and information"
+        },
+        {
+          "heading": "Dual Canadian citizens need a Canadian passport",
+          "level": "h3",
+          "items": [
+            "How to apply for a passport, and why you need a passport and not an eTA for travel to or through Canada"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Services and information"
+        },
+        {
+          "heading": "Check your eTA status",
+          "level": "h3",
+          "items": [
+            "Get online updates on pending applications as well as information on the status of your current eTA"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Services and information"
+        },
+        {
+          "heading": "eTA top questions",
+          "level": "h3",
+          "items": [
+            "Answers to common issues when you apply for an eTA"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Services and information"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Features",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Flying to Canada?",
+          "level": "h3",
+          "items": [
+            "Find out how easy it is to apply online. Learn how to get your eTA before you book your flight to Canada."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Features"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://eta.onlineservices-servicesenligne.apps.cic.gc.ca/eta/applicationQuery?lang=en",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1044&top=16",
+    "https://ircc.canada.ca/english/visit/eta-form-help.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/video/electronic-travel-authorization-what-you-need-know.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/dual-canadian-citizens-visit-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts.html",
+    "https://www.ircc.canada.ca/english/visit/visas.asp"
+  ]
+}

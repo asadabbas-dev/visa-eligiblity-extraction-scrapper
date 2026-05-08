@@ -1,0 +1,338 @@
+{
+  "page_title": "Sign in to your IRCC account: Visiting Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/accounts.html",
+  "h1": "Visiting Canada",
+  "headings": {
+    "h2": [
+      "Visitor visa",
+      "Electronic travel authorization (eTA)",
+      "Visitor record (to extend your stay in Canada)",
+      "Super visa (for parents and grandparents)",
+      "Transit visa",
+      "Page details"
+    ],
+    "h3": [
+      "IRCC Portal : Option 1 of 2",
+      "IRCC secure account : Option 2 of 2",
+      "IRCC secure account : Option 1 of 2",
+      "eTA status : Option 2 of 2",
+      "IRCC secure account",
+      "IRCC Portal : Option 1 of 2",
+      "IRCC secure account : Option 2 of 2",
+      "IRCC Portal : Option 1 of 2",
+      "IRCC secure account : Option 2 of 2"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Visitor visa",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "IRCC Portal : Option 1 of 2",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "You use your email to sign in to this account."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "IRCC secure account : Option 2 of 2",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "You use your GCKey username and password or your Sign-In Partner credentials to sign in to this account."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Electronic travel authorization (eTA)",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "IRCC secure account : Option 1 of 2",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Use the IRCC secure account if we asked you to submit documents for your eTA application."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "eTA status : Option 2 of 2",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Use this tool to check if your current eTA is still valid or get updates on pending eTA applications."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Visitor record (to extend your stay in Canada)",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "IRCC secure account",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "You used the IRCC secure account to apply for a visitor record (to extend your stay in Canada)."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Super visa (for parents and grandparents)",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "IRCC Portal : Option 1 of 2",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "You use your email to sign in to this account."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "IRCC secure account : Option 2 of 2",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "You use your GCKey username and password or your Sign-In Partner credentials to sign in to this account."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Transit visa",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "IRCC Portal : Option 1 of 2",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "You use your email to sign in to this account."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "IRCC secure account : Option 2 of 2",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "You use your GCKey username and password or your Sign-In Partner credentials to sign in to this account."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "Visitor visa",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "IRCC Portal : Option 1 of 2",
+          "level": "h3",
+          "items": [
+            "You use your email to sign in to this account."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Visitor visa"
+        },
+        {
+          "heading": "IRCC secure account : Option 2 of 2",
+          "level": "h3",
+          "items": [
+            "You use your GCKey username and password or your Sign-In Partner credentials to sign in to this account."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Visitor visa"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Electronic travel authorization (eTA)",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "IRCC secure account : Option 1 of 2",
+          "level": "h3",
+          "items": [
+            "Use the IRCC secure account if we asked you to submit documents for your eTA application."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Electronic travel authorization (eTA)"
+        },
+        {
+          "heading": "eTA status : Option 2 of 2",
+          "level": "h3",
+          "items": [
+            "Use this tool to check if your current eTA is still valid or get updates on pending eTA applications."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Electronic travel authorization (eTA)"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Visitor record (to extend your stay in Canada)",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "IRCC secure account",
+          "level": "h3",
+          "items": [
+            "You used the IRCC secure account to apply for a visitor record (to extend your stay in Canada)."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Visitor record (to extend your stay in Canada)"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Super visa (for parents and grandparents)",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "IRCC Portal : Option 1 of 2",
+          "level": "h3",
+          "items": [
+            "You use your email to sign in to this account."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Super visa (for parents and grandparents)"
+        },
+        {
+          "heading": "IRCC secure account : Option 2 of 2",
+          "level": "h3",
+          "items": [
+            "You use your GCKey username and password or your Sign-In Partner credentials to sign in to this account."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Super visa (for parents and grandparents)"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Transit visa",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "IRCC Portal : Option 1 of 2",
+          "level": "h3",
+          "items": [
+            "You use your email to sign in to this account."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Transit visa"
+        },
+        {
+          "heading": "IRCC secure account : Option 2 of 2",
+          "level": "h3",
+          "items": [
+            "You use your GCKey username and password or your Sign-In Partner credentials to sign in to this account."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Transit visa"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://eta.onlineservices-servicesenligne.apps.cic.gc.ca/eta/applicationQuery?lang=en",
+    "https://ircc.canada.ca/english/visit/visas.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/portal-application-process.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/apply.html"
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "page_title": "Jobs and the workplace - Canada.ca",
+  "url": "https://www.canada.ca/en/services/jobs.html",
+  "h1": "Jobs and the workplace",
+  "headings": {
+    "h2": [
+      "Featured",
+      "Find a job",
+      "Training and the workplace",
+      "Page details"
+    ],
+    "h3": [
+      "Job Bank",
+      "Government of Canada jobs",
+      "Student employment",
+      "Jobs in national security and defence",
+      "2026 Census jobs",
+      "Jobs at Parks Canada",
+      "Moving within Canada to work",
+      "Get training",
+      "Funding for jobs and training",
+      "Employment Insurance (EI) benefits and leave",
+      "Hiring and managing employees",
+      "Start a business",
+      "Workplace standards",
+      "Pensions and retirement"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Featured",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Over 80 000 jobs posted – how to search Job Bank"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Find a job",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Job Bank",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Search jobs and apprenticeships from employers across Canada, get matched with a job."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Government of Canada jobs",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Search federal government jobs and hiring programs."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Student employment",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Job opportunities and hiring programs for students."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Jobs in national security and defence",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Jobs with the Canadian Armed Forces, RCMP, Security Intelligence, Border services, Defence and Public Safety."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "2026 Census jobs",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Full time and part time positions available."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Jobs at Parks Canada",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Apply for jobs in science, management, skilled trades, and a wide range of occupations."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Moving within Canada to work",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Learn about labour mobility between provinces and territories."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Training and the workplace",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Get training",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Find training programs, apply for student aid, support for skilled trade apprenticeships. Explore career options. Validate your foreign credentials."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Funding for jobs and training",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Find grants and contributions that helps you support jobs, training, and social development."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Employment Insurance (EI) benefits and leave",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Apply for EI, temporary benefits for workers, caregivers, sickness, fishing, maternity and parental EI. Submit your EI report."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Hiring and managing employees",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Payroll, wages, and resources on recruiting, training and managing employees."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Start a business",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Plan your business, name and register your business, apply for permits and licences, get support and financing, free tax help."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Workplace standards",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Federal and provincial labour laws, workplace standards, federal health and safety standards and labour relations programs."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Pensions and retirement",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Retirement planning, public pensions, registered retirement saving plans, social security benefits, calculator for retirement income."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://parks.canada.ca/agence-agency/emplois-jobs",
+    "https://www.canada.ca/en/employment-social-development/programs/labour-mobility.html",
+    "https://www.canada.ca/en/employment-social-development/services/funding/programs.html",
+    "https://www.canada.ca/en/services/benefits/ei.html",
+    "https://www.canada.ca/en/services/business/hire/index.html",
+    "https://www.canada.ca/en/services/business/start/index.html",
+    "https://www.canada.ca/en/services/defence/jobs.html",
+    "https://www.canada.ca/en/services/finance/pensions.html",
+    "https://www.canada.ca/en/services/jobs/opportunities/government.html",
+    "https://www.canada.ca/en/services/jobs/opportunities/student.html",
+    "https://www.canada.ca/en/services/jobs/training.html",
+    "https://www.canada.ca/en/services/jobs/workplace.html",
+    "https://www.census.gc.ca/en/jobs?utm_source=service-canada-web-page-link&utm_medium=pog&utm_campaign=statcan-statcan-2026-ee-recruitment-25-26&utm_content=federal-partners-en",
+    "https://www.jobbank.gc.ca/findajob",
+    "https://www.jobbank.gc.ca/intro/findajob#tochead"
+  ]
+}

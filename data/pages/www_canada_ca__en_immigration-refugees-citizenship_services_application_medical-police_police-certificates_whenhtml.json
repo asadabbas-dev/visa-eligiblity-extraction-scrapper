@@ -1,0 +1,94 @@
+{
+  "page_title": "Police certificate: When to get a police certificate - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/when.html",
+  "h1": "When to get a police certificate",
+  "headings": {
+    "h2": [
+      "If you need a request letter",
+      "How long your police certificate is valid",
+      "Submit scanned copies of the original certificates",
+      "Page details"
+    ],
+    "h3": [
+      "For the country where you currently reside",
+      "For any other country"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "If you need a request letter",
+      "heading_level": "h2",
+      "category": "supporting_documents",
+      "items": [
+        "Some countries will give you a police certificate only if you have a request letter from us. If this applies to you",
+        "upload a document in the police certificate field in the document checklist that says “I am applying from a country that requires an official request letter from IRCC to get a police certificate.”",
+        "We’ll then review your application. If it is otherwise complete , we’ll send you more information on how to get a police certificate."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "How long your police certificate is valid",
+      "heading_level": "h2",
+      "category": "supporting_documents",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "For the country where you currently reside",
+      "heading_level": "h3",
+      "category": "supporting_documents",
+      "items": [
+        "The police certificate for the country where you currently reside must be issued no more than 6 months before the date you submit your application. As processing times may vary, we may ask you for updated certificates."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "For any other country",
+      "heading_level": "h3",
+      "category": "supporting_documents",
+      "items": [
+        "For any other country, the police certificate must be issued after the last time you resided there for 6 consecutive months or longer since the age of 18.",
+        "Some countries put expiry dates on their police certificates. If this is your situation, include the certificate. We’ll accept it if:",
+        "IRCC may require updated documentation at any time during processing.",
+        "You don’t need to give us police certificates for any period of time before you were 18 years old or for time spent in Canada."
+      ],
+      "bullets": [
+        "it was issued after the last time you stayed there for 6 consecutive months or longer",
+        "it is not for the country where you currently reside"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Submit scanned copies of the original certificates",
+      "heading_level": "h2",
+      "category": "supporting_documents",
+      "items": [
+        "Police certificates must be scanned copies of the original certificate(s) in colour. Certified true copies or unauthorized copies won’t be accepted and will result in your application being rejected."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [
+    "police certificates"
+  ],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-0301-application-resume-canadian-citizenship-under-subsection-11-1.html#police",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/apply-permanent-residence/police-certificates.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/apply-work-permit.html#police"
+  ]
+}

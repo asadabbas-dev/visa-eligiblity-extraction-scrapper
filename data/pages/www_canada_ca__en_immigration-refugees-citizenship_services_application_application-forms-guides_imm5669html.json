@@ -1,0 +1,138 @@
+{
+  "page_title": "Schedule A: Background / Declaration Form (IMM 5669) - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5669.html",
+  "h1": "Schedule A: Background / Declaration Form (IMM 5669)",
+  "headings": {
+    "h2": [
+      "Schedule A – Background/Declaration (IMM 5669)",
+      "Download the form",
+      "Complete the form",
+      "Page details"
+    ],
+    "h3": [
+      "Personal details",
+      "Authority to disclose personal information",
+      "Schedule A – Background/Declaration (IMM 5669)"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Schedule A – Background/Declaration (IMM 5669)",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "For refugee claimants in Canada: Only family members included in your application for refugee protection who are with you in Canada must be included using this form."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Personal details",
+      "heading_level": "h3",
+      "category": "travel_requirements",
+      "items": [
+        "Family name is also known as last name or surname .",
+        "Given names are also known as first name and middle name. Do not use initials.",
+        "Enter your names exactly as they appear on your passport, travel document or identity document.",
+        "If you answered “ Yes ” to one or more of these questions, you must enter an explanation in the details field.",
+        "If you didn’t earn a diploma, leave the “Type of certificate or diploma issued” field blank.",
+        "If you don’t account for all time periods, it may delay the processing of your application.",
+        "Personal history - Activity",
+        "Examples of activity types",
+        "Personal history - Status in country or territory",
+        "Examples of status",
+        "Exception: If you have not worked in the past 10 years (for example, you’re retired), you must provide details of your personal history since the age of 18. The resume or Curriculum Vitae (CV) that you provide with your application will help verify the information in this question.",
+        "Examples of organizations",
+        "Don’t use abbreviations.",
+        "Examples of government positions",
+        "Write out addresses in full without using any abbreviations. Use the apartment or unit number, if this applies.",
+        "Example: 999 Family Street, Unit #3, Ottawa, Ontario, Canada, K3J 9T5"
+      ],
+      "bullets": [
+        "employment (please specify)",
+        "unemployed",
+        "educational activity",
+        "work visa",
+        "citizen",
+        "study visa",
+        "visitor visa",
+        "political organizations",
+        "social organizations",
+        "youth or student organizations",
+        "trade unions",
+        "professional associations",
+        "civil servant",
+        "judge",
+        "police officer",
+        "employee in a security organization"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Authority to disclose personal information",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Read all of the statements in all sections carefully and type your full name into the blue field (this is your digital signature).",
+        "By signing, you certify that you fully understand the questions asked, and that the information you provided is complete, truthful, and correct."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Download the form",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Complete the form",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Schedule A – Background/Declaration (IMM 5669)",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "This form must be completed by:",
+        "For refugee claimants in Canada: Only family members included in your application for refugee protection who are with you in Canada must complete this form.",
+        "Authority to disclose personal information Declaration of applicant",
+        "Read all of the statements in all sections carefully. Sign and date in the boxes provided. By signing, you certify that you fully understand the questions asked, and that the information you have provided is complete, truthful, and correct. If you do not sign and date, the application will be returned to you."
+      ],
+      "bullets": [
+        "you, the principal applicant;",
+        "your spouse or common-law partner (whether accompanying you to Canada or not), and",
+        "your dependent children aged 18 years or older (whether accompanying you to Canada or not)."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "pdf_links": [
+    "https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/imm5669/01-05-2021/imm5669e.pdf"
+  ],
+  "related_links": [
+    "https://prson-srpel.apps.cic.gc.ca/en/login",
+    "https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/imm5669/01-05-2021/imm5669e.pdf",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides.html"
+  ]
+}

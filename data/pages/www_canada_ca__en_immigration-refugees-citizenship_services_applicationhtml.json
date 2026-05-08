@@ -1,0 +1,134 @@
+{
+  "page_title": "Your IRCC application - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application.html",
+  "h1": "Your IRCC application",
+  "headings": {
+    "h2": [
+      "Manage your application",
+      "Applying at IRCC",
+      "Get help with your application",
+      "If we approve your application",
+      "Page details"
+    ],
+    "h3": [
+      "Not sure where to start?",
+      "Get ready to apply",
+      "Complete your application",
+      "Track your application",
+      "Update or withdraw your application"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Manage your application",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Not sure where to start?",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Applying at IRCC",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "The application process can be hard, from figuring out what you need to waiting for a decision. Get to know the whole process and what you may need to do along the way."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Get ready to apply",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Complete your application",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Track your application",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Update or withdraw your application",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Get help with your application",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If we approve your application",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://ircc.canada.ca/english/helpcentre/answer.asp?qnum=052&top=3",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=052&top=3",
+    "https://ircc.canada.ca/english/helpcentre/index-featured-can.asp",
+    "https://ircc.canada.ca/english/information/fees/how-to-pay.asp",
+    "https://ircc.canada.ca/english/information/fees/refund.asp",
+    "https://ircc.canada.ca/explore-programs/index.asp?reset",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/offices/find-visa-application-centre.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account/link-paper-online.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/change-address.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/common-supporting-documents.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/medical-exams.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/withdraw-cancel.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada.html",
+    "https://www.cbsa-asfc.gc.ca/travel-voyage/menu-eng.html"
+  ]
+}

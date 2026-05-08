@@ -1,0 +1,517 @@
+{
+  "nodes": [
+    {
+      "id": "passport",
+      "type": "concept",
+      "categories": [
+        "application_steps",
+        "biometrics",
+        "eligibility_criteria",
+        "required_forms",
+        "travel_requirements"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/organizers-events-conferences.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/visitors-events-conferences.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/dual-canadian-citizens-visit-canada.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/eligibility.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/return.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/length-stay-canada.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/eligibility.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/who-needs-transit-visa.html"
+      ]
+    },
+    {
+      "id": "imm_5645",
+      "type": "concept",
+      "categories": [
+        "supporting_documents"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html"
+      ]
+    },
+    {
+      "id": "imm_5476",
+      "type": "concept",
+      "categories": [
+        "required_forms",
+        "supporting_documents"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply/alternate-format.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html"
+      ]
+    },
+    {
+      "id": "imm_5475",
+      "type": "concept",
+      "categories": [
+        "supporting_documents"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html"
+      ]
+    },
+    {
+      "id": "fees",
+      "type": "concept",
+      "categories": [
+        "application_steps",
+        "biometrics",
+        "financial_requirements",
+        "processing_information",
+        "required_forms",
+        "supporting_documents"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa/paper-application.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply/alternate-format.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/apply.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/apply.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html"
+      ]
+    },
+    {
+      "id": "biometrics",
+      "type": "concept",
+      "categories": [
+        "application_steps",
+        "biometrics",
+        "eligibility_criteria",
+        "required_forms"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa/paper-application.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/organizers-events-conferences.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/apply.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html"
+      ]
+    },
+    {
+      "id": "possible_medical_exam",
+      "type": "concept",
+      "categories": [
+        "application_steps",
+        "eligibility_criteria",
+        "medical_requirements",
+        "required_forms",
+        "supporting_documents"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa/paper-application.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/eligibility.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/after-apply-next-steps.html"
+      ]
+    },
+    {
+      "id": "invitation_letter",
+      "type": "concept",
+      "categories": [
+        "application_steps",
+        "eligibility_criteria",
+        "required_forms",
+        "supporting_documents"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/organizers-events-conferences.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/visitors-events-conferences.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/letter-invitation.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents/host-financial-support.html"
+      ]
+    },
+    {
+      "id": "good_health",
+      "type": "concept",
+      "categories": [
+        "eligibility_criteria"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html"
+      ]
+    },
+    {
+      "id": "no_criminal_convictions",
+      "type": "concept",
+      "categories": [
+        "eligibility_criteria",
+        "inadmissibility"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/minor-children-travelling-canada.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/eligibility.html"
+      ]
+    },
+    {
+      "id": "leave_canada_after_visit",
+      "type": "concept",
+      "categories": [
+        "eligibility_criteria",
+        "required_forms"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/visitors-events-conferences.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/letter-invitation.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/length-stay-canada.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html"
+      ]
+    },
+    {
+      "id": "proof_of_funds",
+      "type": "concept",
+      "categories": [
+        "eligibility_criteria"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/visitors-events-conferences.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html"
+      ]
+    },
+    {
+      "id": "police_certificates",
+      "type": "concept",
+      "categories": [
+        "application_steps",
+        "supporting_documents"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/common-supporting-documents.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa/paper-application.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/after-apply-next-steps.html"
+      ]
+    },
+    {
+      "id": "proof_of_ties",
+      "type": "concept",
+      "categories": [
+        "eligibility_criteria"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/eligibility.html"
+      ]
+    },
+    {
+      "id": "imm_5257",
+      "type": "concept",
+      "categories": [
+        "required_forms"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html"
+      ]
+    },
+    {
+      "id": "imm_5409",
+      "type": "concept",
+      "categories": [
+        "required_forms"
+      ],
+      "sources": [
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply/alternate-format.html"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "imm_5475",
+      "relation": "related_to",
+      "target": "imm_5476",
+      "weight": 1
+    },
+    {
+      "source": "imm_5475",
+      "relation": "related_to",
+      "target": "imm_5645",
+      "weight": 1
+    },
+    {
+      "source": "imm_5476",
+      "relation": "related_to",
+      "target": "imm_5645",
+      "weight": 1
+    },
+    {
+      "source": "biometrics",
+      "relation": "related_to",
+      "target": "fees",
+      "weight": 6
+    },
+    {
+      "source": "good_health",
+      "relation": "related_to",
+      "target": "invitation_letter",
+      "weight": 1
+    },
+    {
+      "source": "good_health",
+      "relation": "related_to",
+      "target": "leave_canada_after_visit",
+      "weight": 2
+    },
+    {
+      "source": "good_health",
+      "relation": "related_to",
+      "target": "no_criminal_convictions",
+      "weight": 2
+    },
+    {
+      "source": "good_health",
+      "relation": "related_to",
+      "target": "passport",
+      "weight": 2
+    },
+    {
+      "source": "good_health",
+      "relation": "related_to",
+      "target": "possible_medical_exam",
+      "weight": 1
+    },
+    {
+      "source": "good_health",
+      "relation": "related_to",
+      "target": "proof_of_funds",
+      "weight": 1
+    },
+    {
+      "source": "invitation_letter",
+      "relation": "related_to",
+      "target": "leave_canada_after_visit",
+      "weight": 2
+    },
+    {
+      "source": "invitation_letter",
+      "relation": "related_to",
+      "target": "no_criminal_convictions",
+      "weight": 1
+    },
+    {
+      "source": "invitation_letter",
+      "relation": "related_to",
+      "target": "passport",
+      "weight": 2
+    },
+    {
+      "source": "invitation_letter",
+      "relation": "related_to",
+      "target": "possible_medical_exam",
+      "weight": 2
+    },
+    {
+      "source": "invitation_letter",
+      "relation": "related_to",
+      "target": "proof_of_funds",
+      "weight": 2
+    },
+    {
+      "source": "leave_canada_after_visit",
+      "relation": "related_to",
+      "target": "no_criminal_convictions",
+      "weight": 2
+    },
+    {
+      "source": "leave_canada_after_visit",
+      "relation": "related_to",
+      "target": "passport",
+      "weight": 7
+    },
+    {
+      "source": "leave_canada_after_visit",
+      "relation": "related_to",
+      "target": "possible_medical_exam",
+      "weight": 2
+    },
+    {
+      "source": "leave_canada_after_visit",
+      "relation": "related_to",
+      "target": "proof_of_funds",
+      "weight": 2
+    },
+    {
+      "source": "no_criminal_convictions",
+      "relation": "related_to",
+      "target": "passport",
+      "weight": 2
+    },
+    {
+      "source": "no_criminal_convictions",
+      "relation": "related_to",
+      "target": "possible_medical_exam",
+      "weight": 1
+    },
+    {
+      "source": "no_criminal_convictions",
+      "relation": "related_to",
+      "target": "proof_of_funds",
+      "weight": 1
+    },
+    {
+      "source": "passport",
+      "relation": "related_to",
+      "target": "possible_medical_exam",
+      "weight": 2
+    },
+    {
+      "source": "passport",
+      "relation": "related_to",
+      "target": "proof_of_funds",
+      "weight": 3
+    },
+    {
+      "source": "possible_medical_exam",
+      "relation": "related_to",
+      "target": "proof_of_funds",
+      "weight": 1
+    },
+    {
+      "source": "police_certificates",
+      "relation": "related_to",
+      "target": "possible_medical_exam",
+      "weight": 4
+    },
+    {
+      "source": "biometrics",
+      "relation": "related_to",
+      "target": "passport",
+      "weight": 3
+    },
+    {
+      "source": "fees",
+      "relation": "related_to",
+      "target": "police_certificates",
+      "weight": 2
+    },
+    {
+      "source": "fees",
+      "relation": "related_to",
+      "target": "possible_medical_exam",
+      "weight": 2
+    },
+    {
+      "source": "biometrics",
+      "relation": "related_to",
+      "target": "leave_canada_after_visit",
+      "weight": 1
+    },
+    {
+      "source": "biometrics",
+      "relation": "related_to",
+      "target": "possible_medical_exam",
+      "weight": 1
+    },
+    {
+      "source": "fees",
+      "relation": "related_to",
+      "target": "imm_5257",
+      "weight": 1
+    },
+    {
+      "source": "fees",
+      "relation": "related_to",
+      "target": "passport",
+      "weight": 1
+    },
+    {
+      "source": "imm_5257",
+      "relation": "related_to",
+      "target": "passport",
+      "weight": 1
+    },
+    {
+      "source": "imm_5409",
+      "relation": "related_to",
+      "target": "imm_5476",
+      "weight": 1
+    }
+  ],
+  "entities": {
+    "document_requirements": [
+      "biometrics",
+      "fees",
+      "imm_5257",
+      "imm_5409",
+      "imm_5475",
+      "imm_5476",
+      "imm_5645",
+      "invitation_letter",
+      "leave_canada_after_visit",
+      "passport",
+      "police_certificates",
+      "possible_medical_exam"
+    ],
+    "eligibility_requirements": [
+      "biometrics",
+      "fees",
+      "good_health",
+      "invitation_letter",
+      "leave_canada_after_visit",
+      "no_criminal_convictions",
+      "passport",
+      "possible_medical_exam",
+      "proof_of_funds",
+      "proof_of_ties"
+    ],
+    "forms": [
+      "imm_5257",
+      "imm_5409",
+      "imm_5475",
+      "imm_5476",
+      "imm_5645"
+    ],
+    "fees": [
+      "fees"
+    ],
+    "biometrics": [
+      "biometrics"
+    ]
+  }
+}

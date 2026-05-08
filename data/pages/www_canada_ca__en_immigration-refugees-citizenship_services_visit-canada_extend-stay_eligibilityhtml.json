@@ -1,0 +1,79 @@
+{
+  "page_title": "Visitor record: Who can apply? - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/eligibility.html",
+  "h1": "Who can apply",
+  "headings": {
+    "h2": [
+      "When to apply",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "When to apply",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "If you want to extend your stay as a visitor or change your status (from international student or worker to visitor, for example), you should apply at least 30 days before your current status expires.",
+        "The expiry date for your status is on"
+      ],
+      "bullets": [
+        "the stamp in your passport (This is not the date included on your visitor visa .) If you don’t have a stamp in your passport, the expiry date is 6 months from the day you entered Canada.",
+        "If you don’t have a stamp in your passport, the expiry date is 6 months from the day you entered Canada.",
+        "your study permit",
+        "your work permit or",
+        "your visitor record (if you’ve already extended your stay)"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "When to apply",
+      "level": "h2",
+      "items": [
+        "If you want to extend your stay as a visitor or change your status (from international student or worker to visitor, for example), you should apply at least 30 days before your current status expires.",
+        "The expiry date for your status is on"
+      ],
+      "bullets": [
+        "the stamp in your passport (This is not the date included on your visitor visa .) If you don’t have a stamp in your passport, the expiry date is 6 months from the day you entered Canada.",
+        "If you don’t have a stamp in your passport, the expiry date is 6 months from the day you entered Canada.",
+        "your study permit",
+        "your work permit or",
+        "your visitor record (if you’ve already extended your stay)"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/study-permit-tool.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/need-permit.html",
+    "https://www.canada.ca/en/services/immigration-citizenship/helpcentre/glossary.html#temporary_resident_visa"
+  ]
+}

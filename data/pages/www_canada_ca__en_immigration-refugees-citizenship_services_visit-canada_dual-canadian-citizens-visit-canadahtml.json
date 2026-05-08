@@ -1,0 +1,203 @@
+{
+  "page_title": "Dual Canadian citizens need a valid Canadian passport - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/dual-canadian-citizens-visit-canada.html",
+  "h1": "Dual Canadian citizens need a valid Canadian passport",
+  "headings": {
+    "h2": [
+      "Canadian-American dual citizens",
+      "Flying in a few days or at the airport without a Canadian passport?",
+      "Apply for a Canadian passport",
+      "Not sure if you are a Canadian citizen?",
+      "Find out if you are eligible for a special authorization to board your flight to Canada",
+      "Why you must travel with a valid Canadian passport",
+      "Page details"
+    ],
+    "h3": [
+      "If you are not eligible for the special authorization"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Canadian-American dual citizens",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "To fly to Canada, you need",
+        "If you travel with just your valid U.S. passport, you",
+        "Even though you only need one of your passports to enter Canada, you should travel with both . Having both passports makes travel between Canada and the United States easier. Your passports prove"
+      ],
+      "bullets": [
+        "either your valid U.S. passport or your valid Canadian passport",
+        "to meet the basic requirements to enter Canada",
+        "will need to carry identification that shows your Canadian citizenship",
+        "may be asked to go through immigration screening",
+        "your citizenships",
+        "that you have the right to enter Canada and the U.S. without immigration screening"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Flying in a few days or at the airport without a Canadian passport?",
+      "heading_level": "h2",
+      "category": "travel_requirements",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Apply for a Canadian passport",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Not sure if you are a Canadian citizen?",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Find out if you are eligible for a special authorization to board your flight to Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If you are not eligible for the special authorization",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Why you must travel with a valid Canadian passport",
+      "heading_level": "h2",
+      "category": "travel_requirements",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "Canadian-American dual citizens",
+      "level": "h2",
+      "items": [
+        "To fly to Canada, you need",
+        "If you travel with just your valid U.S. passport, you",
+        "Even though you only need one of your passports to enter Canada, you should travel with both . Having both passports makes travel between Canada and the United States easier. Your passports prove"
+      ],
+      "bullets": [
+        "either your valid U.S. passport or your valid Canadian passport",
+        "to meet the basic requirements to enter Canada",
+        "will need to carry identification that shows your Canadian citizenship",
+        "may be asked to go through immigration screening",
+        "your citizenships",
+        "that you have the right to enter Canada and the U.S. without immigration screening"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Flying in a few days or at the airport without a Canadian passport?",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Apply for a Canadian passport",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Not sure if you are a Canadian citizen?",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Find out if you are eligible for a special authorization to board your flight to Canada",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "If you are not eligible for the special authorization",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Find out if you are eligible for a special authorization to board your flight to Canada"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Why you must travel with a valid Canadian passport",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.cbsa.gc.ca/travel-voyage/td-dv-eng.html",
+    "https://secure.cic.gc.ca/DualCitizenDoubleNationalite/en/Home",
+    "https://travel.gc.ca/assistance/embassies-consulates",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility/already-citizen.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/child-passport/apply-how.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/help-centre.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/new-adult-passport/apply-how.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/dual-canadian-citizens-visit-canada.html#background",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/dual-canadian-citizens-visit-canada.html#centred-popup",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/dual-canadian-citizens-visit-canada.html#findOut",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visaExempt"
+  ]
+}

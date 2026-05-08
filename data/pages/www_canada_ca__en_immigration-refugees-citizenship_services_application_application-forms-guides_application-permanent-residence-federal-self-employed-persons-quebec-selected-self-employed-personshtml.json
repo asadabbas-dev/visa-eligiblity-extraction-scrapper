@@ -1,0 +1,29 @@
+{
+  "page_title": "Self-Employed Persons Program - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/application-permanent-residence-federal-self-employed-persons-quebec-selected-self-employed-persons.html",
+  "h1": "Self-Employed Persons Program",
+  "headings": {
+    "h2": [
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=068&top=3",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/application-permanent-residence-federal-self-employed-persons-quebec-selected-self-employed-persons.html#questionmark-pr",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html"
+  ]
+}

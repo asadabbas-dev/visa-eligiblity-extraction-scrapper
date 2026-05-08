@@ -1,0 +1,79 @@
+{
+  "page_title": "Transit visa: Who needs a transit visa - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/who-needs-transit-visa.html",
+  "h1": "Who needs a transit visa",
+  "headings": {
+    "h2": [
+      "Make sure you need a transit visa",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Make sure you need a transit visa",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "Before you apply, find out which entry document you need to transit through Canada.",
+        "This could be a visa or an Electronic Travel Authorization (eTA).",
+        "The entry document you need depends on:"
+      ],
+      "bullets": [
+        "the type of travel document you plan to travel with",
+        "the country that issued your travel document",
+        "your nationality",
+        "your method of travel to Canada for this trip"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "Make sure you need a transit visa",
+      "level": "h2",
+      "items": [
+        "Before you apply, find out which entry document you need to transit through Canada.",
+        "This could be a visa or an Electronic Travel Authorization (eTA).",
+        "The entry document you need depends on:"
+      ],
+      "bullets": [
+        "the type of travel document you plan to travel with",
+        "the country that issued your travel document",
+        "your nationality",
+        "your method of travel to Canada for this trip"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/visit/visas.asp"
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "page_title": "Transit through Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit.html",
+  "h1": "Transit through Canada",
+  "headings": {
+    "h2": [
+      "Visitor visa",
+      "Transit visa",
+      "eTA",
+      "Transit without a visa",
+      "Page details"
+    ],
+    "h3": [
+      "Citizens and permanent residents of the United States",
+      "Passport holders of certain countries or territories"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Visitor visa",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "You need a visitor visa if you’re from a visa-required country and you plan to:",
+        "You also need a visitor visa if you’re from a visa-required country and you’re crossing the border by:",
+        "Apply for a visitor visa"
+      ],
+      "bullets": [
+        "visit Canada (even if you’re travelling by air and it’s for less than 48 hours)",
+        "stay in Canada more than 48 hours while transiting",
+        "bus",
+        "car",
+        "train",
+        "boat",
+        "cruise ship"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Transit visa",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "You need a transit visa if you’re from a visa-required country and:",
+        "Apply for a transit visa"
+      ],
+      "bullets": [
+        "your international flight stops at a Canadian airport on its way to another country",
+        "you’ll be connecting between 2 international flights at one or more Canadian airports",
+        "your transit through Canada will last 48 hours or less",
+        "you don’t have a valid visitor visa",
+        "you’re not eligible for an eTA ."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "eTA",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "You need an eTA to transit through Canada by air if you’re from an eTA-required country .",
+        "You don’t need an eTA if you’re transiting through Canada and you enter by train, bus, boat or cruise ship. You do need to bring the right travel documents .",
+        "Apply for an eTA"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Transit without a visa",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Citizens and permanent residents of the United States",
+      "heading_level": "h3",
+      "category": "travel_requirements",
+      "items": [
+        "US citizens and lawful permanent residents of the U.S. can transit through Canada without a visa by:",
+        "You just need to bring the right travel documents ."
+      ],
+      "bullets": [
+        "air",
+        "car",
+        "bus",
+        "train",
+        "boat",
+        "cruise ship"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Passport holders of certain countries or territories",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "You may be able to transit without a visa if you hold a passport from one of the following countries or territories and you meet certain conditions:",
+        "Who can transit without a visa"
+      ],
+      "bullets": [
+        "China",
+        "Indonesia",
+        "Philippines",
+        "Thailand or",
+        "Taiwan (holder of passport without an personal identification number)"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "Visitor visa",
+      "level": "h2",
+      "items": [
+        "You need a visitor visa if you’re from a visa-required country and you plan to:",
+        "You also need a visitor visa if you’re from a visa-required country and you’re crossing the border by:",
+        "Apply for a visitor visa"
+      ],
+      "bullets": [
+        "visit Canada (even if you’re travelling by air and it’s for less than 48 hours)",
+        "stay in Canada more than 48 hours while transiting",
+        "bus",
+        "car",
+        "train",
+        "boat",
+        "cruise ship"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Transit visa",
+      "level": "h2",
+      "items": [
+        "You need a transit visa if you’re from a visa-required country and:",
+        "Apply for a transit visa"
+      ],
+      "bullets": [
+        "your international flight stops at a Canadian airport on its way to another country",
+        "you’ll be connecting between 2 international flights at one or more Canadian airports",
+        "your transit through Canada will last 48 hours or less",
+        "you don’t have a valid visitor visa",
+        "you’re not eligible for an eTA ."
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "eTA",
+      "level": "h2",
+      "items": [
+        "You need an eTA to transit through Canada by air if you’re from an eTA-required country .",
+        "You don’t need an eTA if you’re transiting through Canada and you enter by train, bus, boat or cruise ship. You do need to bring the right travel documents .",
+        "Apply for an eTA"
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Transit without a visa",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Citizens and permanent residents of the United States",
+          "level": "h3",
+          "items": [
+            "US citizens and lawful permanent residents of the U.S. can transit through Canada without a visa by:",
+            "You just need to bring the right travel documents ."
+          ],
+          "bullets": [
+            "air",
+            "car",
+            "bus",
+            "train",
+            "boat",
+            "cruise ship"
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Transit without a visa"
+        },
+        {
+          "heading": "Passport holders of certain countries or territories",
+          "level": "h3",
+          "items": [
+            "You may be able to transit without a visa if you hold a passport from one of the following countries or territories and you meet certain conditions:",
+            "Who can transit without a visa"
+          ],
+          "bullets": [
+            "China",
+            "Indonesia",
+            "Philippines",
+            "Thailand or",
+            "Taiwan (holder of passport without an personal identification number)"
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Transit without a visa"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.cbsa.gc.ca/travel-voyage/td-dv-eng.html",
+    "https://ircc.canada.ca/english/visit/visas.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/who-needs-transit-visa.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa.html"
+  ]
+}

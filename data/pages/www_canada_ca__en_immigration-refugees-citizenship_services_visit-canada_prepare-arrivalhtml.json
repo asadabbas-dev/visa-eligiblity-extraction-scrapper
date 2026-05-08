@@ -1,0 +1,275 @@
+{
+  "page_title": "Visitor Visa: Prepare for your arrival - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html",
+  "h1": "Prepare for your arrival",
+  "headings": {
+    "h2": [
+      "On this page",
+      "Documents you need before you travel to Canada",
+      "Your arrival in Canada",
+      "When you enter Canada",
+      "Help us improve our services",
+      "Top questions about visiting Canada",
+      "Page details"
+    ],
+    "h3": [
+      "Situations where you may need extra documents on arrival",
+      "We determine if you meet all entry requirements"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "On this page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Documents you need before you travel to Canada",
+        "Your arrival in Canada",
+        "When you enter Canada"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Documents you need before you travel to Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "In some situations, you’ll need to bring documents with you when you travel to Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Situations where you may need extra documents on arrival",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "If either of the following situations applies to you or someone you’ll travel with, have the documents indicated in hand.",
+        "In Canada, a child under the age of 18 is considered a minor.",
+        "You may need to show",
+        "Find out more about minor children travelling to Canada",
+        "If you got a letter from a person or company that invited you to Canada, bring that letter with you. A border services officer may ask to see it.",
+        "Find out more about letters of invitation"
+      ],
+      "bullets": [
+        "a letter that authorizes the minor child to travel to Canada, and",
+        "other documents, such as adoption papers or a custody decree, depending on if the minor child travels alone or not"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Your arrival in Canada",
+      "heading_level": "h2",
+      "category": "travel_requirements",
+      "items": [
+        "A valid visa and travel document don’t guarantee that you can enter Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "We determine if you meet all entry requirements",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "When you arrive, we’ll check your identity to make sure that you’re the same person who was approved to travel to Canada."
+      ],
+      "bullets": [
+        "If you enter Canada at one of 4 major Canadian airports Your fingerprints will be checked automatically at a primary inspection kiosk . The system will check your identity against the information collected when your application was submitted.",
+        "Your fingerprints will be checked automatically at a primary inspection kiosk .",
+        "The system will check your identity against the information collected when your application was submitted.",
+        "If you enter Canada at a land port of entry Your fingerprints may be checked if we refer you to a secondary inspection , where a border services officer will use a fingerprint verification device to check your fingerprints.",
+        "Your fingerprints may be checked if we refer you to a secondary inspection , where a border services officer will use a fingerprint verification device to check your fingerprints."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "When you enter Canada",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "If you pass the identity check, health assessment, and meet the entry requirements , the border services officer may stamp your passport or let you know how long you can stay in Canada. You’re normally allowed to stay in Canada for up to 6 months.",
+        "In some cases, the officer may limit or extend your time in Canada, depending on the purpose of your visit. Ask questions if you’re not sure about something.",
+        "You won’t be allowed into Canada if you give false or incomplete information. The officer must be convinced that"
+      ],
+      "bullets": [
+        "you’re eligible for entry into Canada",
+        "you’ll leave Canada at the end of your approved length of stay"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Help us improve our services",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "We’re looking for people to try out our products. Find out how you can participate ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Top questions about visiting Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "proof applicant will leave Canada",
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "On this page",
+      "level": "h2",
+      "items": [],
+      "bullets": [
+        "Documents you need before you travel to Canada",
+        "Your arrival in Canada",
+        "When you enter Canada"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Documents you need before you travel to Canada",
+      "level": "h2",
+      "items": [
+        "In some situations, you’ll need to bring documents with you when you travel to Canada."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Situations where you may need extra documents on arrival",
+          "level": "h3",
+          "items": [
+            "If either of the following situations applies to you or someone you’ll travel with, have the documents indicated in hand.",
+            "In Canada, a child under the age of 18 is considered a minor.",
+            "You may need to show",
+            "Find out more about minor children travelling to Canada",
+            "If you got a letter from a person or company that invited you to Canada, bring that letter with you. A border services officer may ask to see it.",
+            "Find out more about letters of invitation"
+          ],
+          "bullets": [
+            "a letter that authorizes the minor child to travel to Canada, and",
+            "other documents, such as adoption papers or a custody decree, depending on if the minor child travels alone or not"
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Documents you need before you travel to Canada"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Your arrival in Canada",
+      "level": "h2",
+      "items": [
+        "A valid visa and travel document don’t guarantee that you can enter Canada."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "We determine if you meet all entry requirements",
+          "level": "h3",
+          "items": [
+            "When you arrive, we’ll check your identity to make sure that you’re the same person who was approved to travel to Canada."
+          ],
+          "bullets": [
+            "If you enter Canada at one of 4 major Canadian airports Your fingerprints will be checked automatically at a primary inspection kiosk . The system will check your identity against the information collected when your application was submitted.",
+            "Your fingerprints will be checked automatically at a primary inspection kiosk .",
+            "The system will check your identity against the information collected when your application was submitted.",
+            "If you enter Canada at a land port of entry Your fingerprints may be checked if we refer you to a secondary inspection , where a border services officer will use a fingerprint verification device to check your fingerprints.",
+            "Your fingerprints may be checked if we refer you to a secondary inspection , where a border services officer will use a fingerprint verification device to check your fingerprints."
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Your arrival in Canada"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "When you enter Canada",
+      "level": "h2",
+      "items": [
+        "If you pass the identity check, health assessment, and meet the entry requirements , the border services officer may stamp your passport or let you know how long you can stay in Canada. You’re normally allowed to stay in Canada for up to 6 months.",
+        "In some cases, the officer may limit or extend your time in Canada, depending on the purpose of your visit. Ask questions if you’re not sure about something.",
+        "You won’t be allowed into Canada if you give false or incomplete information. The officer must be convinced that"
+      ],
+      "bullets": [
+        "you’re eligible for entry into Canada",
+        "you’ll leave Canada at the end of your approved length of stay"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Help us improve our services",
+      "level": "h2",
+      "items": [
+        "We’re looking for people to try out our products. Find out how you can participate ."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Top questions about visiting Canada",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.cbsa-asfc.gc.ca/publications/pub/bsf5146-eng.html",
+    "http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1016&top=16",
+    "http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=417&top=16",
+    "http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=421&top=16",
+    "http://www.cic.gc.ca/english/helpcentre/results-by-topic.asp?top=16",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/improve-services.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/letter-invitation.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/minor-children-travelling-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html#entry-requirements",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html#sec3",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html#sec4",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html#sec5",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html#stay-in-canada",
+    "https://www.cbsa-asfc.gc.ca/services/border-tech-frontiere/pik-bip-eng.html"
+  ]
+}

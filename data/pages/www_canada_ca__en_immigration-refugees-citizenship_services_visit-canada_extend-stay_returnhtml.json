@@ -1,0 +1,195 @@
+{
+  "page_title": "Visitor record: Travelling outside Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/return.html",
+  "h1": "Travelling outside Canada",
+  "headings": {
+    "h2": [
+      "Visa-required travellers",
+      "Visa-exempt travellers",
+      "US citizens",
+      "Page details"
+    ],
+    "h3": [
+      "Students and workers",
+      "Flying to a Canadian airport",
+      "Arriving in Canada by bus, train or boat (including a cruise ship)"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Visa-required travellers",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "You need a valid visitor visa every time you want to enter Canada, unless you’re returning directly from a visit to the United States or Saint Pierre and Miquelon.",
+        "If you’re not sure if you’re a visa-required traveller, find out if you need a visa ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Students and workers",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "You can apply for a new visitor visa from within Canada if you meet all the conditions below:",
+        "Apply for a visitor visa from within Canada ."
+      ],
+      "bullets": [
+        "You’re already in Canada.",
+        "You already hold a valid study or work permit.",
+        "You want to leave and return to Canada .",
+        "Your existing visitor visa is expired or was valid for only one entry."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Visa-exempt travellers",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "The documents you need to re-enter Canada depend on how you’ll travel to Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Flying to a Canadian airport",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Arriving in Canada by bus, train or boat (including a cruise ship)",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "US citizens",
+      "heading_level": "h2",
+      "category": "travel_requirements",
+      "items": [
+        "You normally need a valid passport or travel document.",
+        "NEXUS members can use their membership card when they fly to a Canadian airport or arrive by car, train, bus or boat.",
+        "FAST members can use their membership card when travelling by car, train, bus or boat only.",
+        "For more information, visit the Canada Border Services Agency website ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "Visa-required travellers",
+      "level": "h2",
+      "items": [
+        "You need a valid visitor visa every time you want to enter Canada, unless you’re returning directly from a visit to the United States or Saint Pierre and Miquelon.",
+        "If you’re not sure if you’re a visa-required traveller, find out if you need a visa ."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Students and workers",
+          "level": "h3",
+          "items": [
+            "You can apply for a new visitor visa from within Canada if you meet all the conditions below:",
+            "Apply for a visitor visa from within Canada ."
+          ],
+          "bullets": [
+            "You’re already in Canada.",
+            "You already hold a valid study or work permit.",
+            "You want to leave and return to Canada .",
+            "Your existing visitor visa is expired or was valid for only one entry."
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Visa-required travellers"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Visa-exempt travellers",
+      "level": "h2",
+      "items": [
+        "The documents you need to re-enter Canada depend on how you’ll travel to Canada."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Flying to a Canadian airport",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Visa-exempt travellers"
+        },
+        {
+          "heading": "Arriving in Canada by bus, train or boat (including a cruise ship)",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Visa-exempt travellers"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "US citizens",
+      "level": "h2",
+      "items": [
+        "You normally need a valid passport or travel document.",
+        "NEXUS members can use their membership card when they fly to a Canadian airport or arrive by car, train, bus or boat.",
+        "FAST members can use their membership card when travelling by car, train, bus or boat only.",
+        "For more information, visit the Canada Border Services Agency website ."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/visit/visas.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/passport-travel-document.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html",
+    "https://www.canada.ca/en/services/immigration-citizenship/helpcentre/glossary.html#temporary_resident_visa",
+    "https://www.cbsa-asfc.gc.ca/travel-voyage/td-dv-eng.html"
+  ]
+}

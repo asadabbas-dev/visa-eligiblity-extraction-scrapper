@@ -1,0 +1,77 @@
+{
+  "page_title": "Find out if you’re inadmissible - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility.html",
+  "h1": "Find out if you’re inadmissible",
+  "headings": {
+    "h2": [
+      "What it means to be inadmissible",
+      "If you’re inadmissible to Canada",
+      "Penalties for driving while impaired",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "What it means to be inadmissible",
+      "heading_level": "h2",
+      "category": "inadmissibility",
+      "items": [
+        "Some people aren’t allowed to come to Canada. They’re “inadmissible” under Canada’s immigration law .",
+        "A Canadian immigration officer will decide if you can enter Canada when you:",
+        "There are different reasons we may not let you into Canada , such as security, criminal or medical reasons."
+      ],
+      "bullets": [
+        "apply for a visa or an Electronic Travel Authorization (eTA) or",
+        "when you arrive at a port of entry."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "If you’re inadmissible to Canada",
+      "heading_level": "h2",
+      "category": "inadmissibility",
+      "items": [
+        "Normally, if you’re inadmissible to Canada, you won’t be allowed to enter the country. If you have a valid reason to travel to Canada that is justified in the circumstances, we may issue you a temporary resident permit .",
+        "If you’ve committed or been convicted of a crime, you have a few options to overcome your criminal inadmissibility ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Penalties for driving while impaired",
+      "heading_level": "h2",
+      "category": "inadmissibility",
+      "items": [
+        "If you drive while impaired by alcohol or drugs, including cannabis, you may be inadmissible for serious criminality . This means:",
+        "Find out more about the new penalties ."
+      ],
+      "bullets": [
+        "you won’t be able to enter or stay in Canada unless we issue you a temporary resident permit",
+        "you’ll have to pay the processing fee for the permit (CAN Error loading fee. Check the fee list . ) and there’s no guarantee you’ll be allowed to enter or stay in the country"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "no criminal convictions"
+  ],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://laws-lois.justice.gc.ca/eng/acts/I-2.5/index.html",
+    "https://ircc.canada.ca/english/information/fees/fees.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/impaired-driving-cannabis-penalties-affect-immigration-status.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility/overcome-criminal-convictions.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility/reasons.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility/temporary-resident-permits.html"
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "page_title": "Study permit: Get the right documents - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html",
+  "h1": "Get the right documents",
+  "headings": {
+    "h2": [
+      "Get your letter of acceptance Always required",
+      "Apply for a provincial or territorial attestation letter Needed in most cases",
+      "Show proof of identity Always required",
+      "Show proof of funds Always required",
+      "Write a letter of explanation Recommended",
+      "Get a medical exam Check if needed",
+      "Get a police certificate Check if needed",
+      "Proof of care (for minor children in Canada) Check if needed",
+      "Check for other documents you might need based on what country you’re applying from Check if needed",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Get your letter of acceptance Always required",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Your school will give you a letter of acceptance. Upload this to your online application."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Apply for a provincial or territorial attestation letter Needed in most cases",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "Get a provincial or territorial attestation letter (PAL/TAL) from your school. In most cases, you need to accept your offer and pay your tuition fees, either in part or in full, to get your PAL/TAL.",
+        "If you’re studying in Quebec , you need a Quebec Acceptance Certificate ( Certificat d’acceptation du Québec [CAQ] )."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Show proof of identity Always required",
+      "heading_level": "h2",
+      "category": "travel_requirements",
+      "items": [
+        "To show proof of identity, you (and each family member who comes with you) must have"
+      ],
+      "bullets": [
+        "a copy of a valid passport or travel document Upload a copy of the information page of your passport when you apply online. If you’re approved , you must send us your original passport.",
+        "Upload a copy of the information page of your passport when you apply online. If you’re approved , you must send us your original passport.",
+        "If you’re approved , you must send us your original passport.",
+        "2 recent passport size photos The name and date of birth of the person must be written on the back of each photo.",
+        "The name and date of birth of the person must be written on the back of each photo."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Show proof of funds Always required",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "To support yourself and any family members coming with you, you must show proof of funds ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Write a letter of explanation Recommended",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "You must explain why you want to study in Canada, and that you understand your responsibilities as an international student in Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Get a medical exam Check if needed",
+      "heading_level": "h2",
+      "category": "medical_requirements",
+      "items": [
+        "You may need a medical exam if any of these situations apply to you:",
+        "Check if you need a medical exam ."
+      ],
+      "bullets": [
+        "You plan to stay in Canada for more than 6 months.",
+        "You recently spent time in certain countries.",
+        "You plan to work in certain jobs where public health must be protected."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Get a police certificate Check if needed",
+      "heading_level": "h2",
+      "category": "supporting_documents",
+      "items": [
+        "In some cases, we may ask you for a police certificate . If you think you might need one, you should apply for one as early as possible ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Proof of care (for minor children in Canada) Check if needed",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Children under the age of 17 who are not coming to Canada with a parent or legal guardian must have an appointed custodian.",
+        "Find out what you need to submit for children under the age of 17 ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Check for other documents you might need based on what country you’re applying from Check if needed",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "There may be other documents to submit that are specific to your local visa office. To get your local visa office instructions:",
+        "If you aren’t currently in your home country, you may have to prove your immigration status in the country you apply from.",
+        "If the government that issued your passport or travel document needs you to have a re-entry permit, you must get one before you apply for a Canadian visa. You may also need other documents."
+      ],
+      "bullets": [
+        "Go to the How to apply page",
+        "Select “Outside Canada”",
+        "Select “Apply online”",
+        "Select your country or territory from the list."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "possible medical exam",
+    "proof of ties to home country",
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "medical documents",
+    "passport",
+    "police certificates"
+  ],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/medical-exams/requirements-temporary-residents.html#jobs-med",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates/how.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/passport-travel-document.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html#a2",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html#caring",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#lawful-pr-us",
+    "https://www.cbsa-asfc.gc.ca/travel-voyage/td-dv-eng.html#_s2a"
+  ]
+}

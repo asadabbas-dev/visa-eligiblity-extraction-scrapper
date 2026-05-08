@@ -1,0 +1,13 @@
+{
+  "entity_count": 150,
+  "average_confidence": 0.5817,
+  "high_confidence_entities": 0,
+  "medium_confidence_entities": 46,
+  "low_confidence_entities": 104,
+  "by_source_type": {
+    "pdf": 0,
+    "table": 0,
+    "paragraph": 80,
+    "bullet": 70
+  }
+}

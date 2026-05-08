@@ -1,0 +1,95 @@
+{
+  "page_title": "Visitor record: About the document - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/about.html",
+  "h1": "About the document",
+  "headings": {
+    "h2": [
+      "When to apply for a visitor record",
+      "Leaving and returning to Canada",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "When to apply for a visitor record",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "You must apply for a visitor record before your current status expires. If you’re not sure when your status expires, find out how long you can stay in Canada ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Leaving and returning to Canada",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "A visitor record is a document that allows you to stay in Canada longer. It doesn’t guarantee that you can leave and then re-enter Canada.",
+        "If you plan to travel outside Canada or the United States, you need a valid entry document, such as a visitor visa or an eTA, to return to Canada.",
+        "Find out what you need to travel to Canada ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "When to apply for a visitor record",
+      "level": "h2",
+      "items": [
+        "You must apply for a visitor record before your current status expires. If you’re not sure when your status expires, find out how long you can stay in Canada ."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Leaving and returning to Canada",
+      "level": "h2",
+      "items": [
+        "A visitor record is a document that allows you to stay in Canada longer. It doesn’t guarantee that you can leave and then re-enter Canada.",
+        "If you plan to travel outside Canada or the United States, you need a valid entry document, such as a visitor visa or an eTA, to return to Canada.",
+        "Find out what you need to travel to Canada ."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1452&top=16",
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=1452&top=16",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/study-permit-tool.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/about.html#extend-stay",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/about.html#visitor-record",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/about.html#visitor-visa",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/return.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/need-permit.html",
+    "https://www.cbsa-asfc.gc.ca/travel-voyage/pik-bip-eng.html"
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "page_title": "Transport and infrastructure - Canada.ca",
+  "url": "https://www.canada.ca/en/services/transport.html",
+  "h1": "Transport and infrastructure",
+  "headings": {
+    "h2": [
+      "Promotions",
+      "Most requested",
+      "Services and information",
+      "Features",
+      "Page details"
+    ],
+    "h3": [
+      "Zero-emission vehicles",
+      "Aviation",
+      "Marine transportation",
+      "Road transportation",
+      "Rail transportation",
+      "Dangerous goods",
+      "Infrastructure",
+      "Trade Transportation Corridors",
+      "Transportation 2030",
+      "Defects and recalls of vehicles, tires and child car seats"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Promotions",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Most requested",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Drone safety",
+        "What not to bring on a plane",
+        "Register your vessel",
+        "Child car seat safety",
+        "Transporting dangerous goods - Regulations",
+        "Canadian Aviation Regulations"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Zero-emission vehicles",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Purchase incentives, infrastructure funding, greening fleets, policies, regulations, alternative fueling stations."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Aviation",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Pilot and personnel licensing, aircraft and airport operations, drones, incident reporting, air travel, airworthiness."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Marine transportation",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Licence, certify and register a vessel, safety and training, navigational aids, commercial vessels, pleasure craft."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Road transportation",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Defects and recalls, importing vehicles, child car seats, safety standards, commercial carriers, road security."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Rail transportation",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Railway tracks, crossings and bridges, federal rail operations, safety/security investigations, actions and enforcement."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Dangerous goods",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Learn about the safe transport of dangerous goods in Canada by air, rail, road and water."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Infrastructure",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Funding programs for infrastructure projects. Federal investments in infrastructure by province and territory."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Trade Transportation Corridors",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Transportation 2030",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Defects and recalls of vehicles, tires and child car seats",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://infc.gc.ca/04dd",
+    "https://letstalktransportation.ca/cssos?utm_campaign=tc-marine-liability-2020-09&utm_medium=carousel&utm_source=tci-themepage-en",
+    "https://tc.canada.ca/en/aviation",
+    "https://tc.canada.ca/en/aviation/aviation-security/what-not-bring-plane",
+    "https://tc.canada.ca/en/aviation/drone-safety",
+    "https://tc.canada.ca/en/aviation/drone-safety?utm_source=Carousel&utm_medium=2&utm_campaign=THEME-EN",
+    "https://tc.canada.ca/en/campaigns/protecting-our-coasts-oceans-protection-plan",
+    "https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/canadian-aviation-regulations-sor-96-433",
+    "https://tc.canada.ca/en/corporate-services/acts-regulations/list-regulations/transportation-dangerous-goods-regulations",
+    "https://tc.canada.ca/en/corporate-services/trade-transportation-corridors-initiative",
+    "https://tc.canada.ca/en/dangerous-goods",
+    "https://tc.canada.ca/en/infrastructure",
+    "https://tc.canada.ca/en/initiatives/transportation-2030-strategic-plan-future-transportation-canada",
+    "https://tc.canada.ca/en/marine-transportation",
+    "https://tc.canada.ca/en/marine-transportation/vessel-licensing-registration",
+    "https://tc.canada.ca/en/rail-transportation",
+    "https://tc.canada.ca/en/road-transportation",
+    "https://tc.canada.ca/en/road-transportation/child-car-seat-safety",
+    "https://tc.canada.ca/en/road-transportation/defects-recalls-vehicles-tires-child-car-seats",
+    "https://tc.canada.ca/en/road-transportation/innovative-technologies/zero-emission-vehicles?utm_source=Carousel&utm_medium=1&utm_campaign=THEME-EN",
+    "https://www.canada.ca/en/services/transport.html#tab1",
+    "https://www.canada.ca/en/services/transport.html#tab2",
+    "https://www.canada.ca/en/services/transport.html#tab3",
+    "https://www.canada.ca/en/services/transport.html#tab4",
+    "https://www.canada.ca/en/services/transport.html#tab5",
+    "https://www.canada.ca/en/services/transport/zero-emission-vehicles.html"
+  ]
+}

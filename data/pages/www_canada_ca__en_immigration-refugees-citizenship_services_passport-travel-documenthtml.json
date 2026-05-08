@@ -1,0 +1,97 @@
+{
+  "page_title": "Valid passports and other travel documents needed to come to Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/passport-travel-document.html",
+  "h1": "Valid passports and other travel documents needed to come to Canada",
+  "headings": {
+    "h2": [
+      "How long your passport needs to be valid",
+      "Keep 1 page in your passport free",
+      "Documents we don’t accept (unreliable travel documents)",
+      "Page details"
+    ],
+    "h3": [
+      "Visiting, working and studying temporarily",
+      "Immigrating through Express Entry"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "How long your passport needs to be valid",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "Check the expiry date on your passport. Depending on the program you’re applying for, you may want to renew your passport before you submit your application."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Visiting, working and studying temporarily",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "We can’t issue you a work permit, study permit or visitor record that is valid past the expiry date of your passport.",
+        "If you get a new passport after you arrive in Canada, you can apply to extend your stay."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Immigrating through Express Entry",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "If you’re applying through Express Entry, you should renew your passport if it expires within 6 months from the day you apply for permanent residence . Then, update your new passport information in your application. This will ensure it’s valid when we process your application."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Keep 1 page in your passport free",
+      "heading_level": "h2",
+      "category": "travel_requirements",
+      "items": [
+        "If you’re from a visa-required country , you need at least 1 free page in your passport or travel document. That’s where we’ll stick your visitor visa or permanent resident visa."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Documents we don’t accept (unreliable travel documents)",
+      "heading_level": "h2",
+      "category": "travel_requirements",
+      "items": [
+        "The following documents are considered unreliable and are not valid for travel to Canada:"
+      ],
+      "bullets": [
+        "any passport issued by Somalia",
+        "non-machine readable passports issued by the Czech Republic",
+        "temporary passports issued by the Republic of South Africa",
+        "provisional passports issued by Venezuela"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1138&top=29",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visarequired",
+    "https://www.canada.ca/en/services/immigration-citizenship/helpcentre/glossary.html#passport",
+    "https://www.canada.ca/en/services/immigration-citizenship/helpcentre/glossary.html#travel_document",
+    "https://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=1650"
+  ]
+}

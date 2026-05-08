@@ -1,0 +1,144 @@
+{
+  "page_title": "Atlantic Immigration Program: Language testing - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/language-testing.html",
+  "h1": "Get a language test",
+  "headings": {
+    "h2": [
+      "National Occupational Classification 2021",
+      "On this page",
+      "How to prove your language ability",
+      "What to include in your application",
+      "Language tests we accept",
+      "How to find your language level based on your test results",
+      "Page details"
+    ],
+    "h3": [
+      "English",
+      "French"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "National Occupational Classification 2021",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "On November 16, 2022, we switched to the 2021 version of the National Occupational Classification (NOC) .",
+        "Use the NOC 2016 page if you applied for a job offer on or before November 15, 2022 ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "On this page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "How to prove your language ability",
+        "Language tests we accept",
+        "How to find your language level based on your test results"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "How to prove your language ability",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "To prove your language skills in English or French, you need to take an approved language test. To do this:",
+        "After you get the results of your test, compare them to the charts below to see what Canadian Language Benchmark (CLB) level you have."
+      ],
+      "bullets": [
+        "schedule your test with an approved agency",
+        "pay the test costs"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "What to include in your application",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "If you meet the minimum score in all 4 abilities, include a copy of the test results with your application.",
+        "These results must be less than 2 years old when you apply. Keep a copy of them for your records and future use.",
+        "The minimum score depends on the NOC 2021 TEER category of your job offer:"
+      ],
+      "bullets": [
+        "CLB 5 for job offer in TEER 0, 1, 2 or 3",
+        "CLB 4 for job offer in TEER 4"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Language tests we accept",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "You can take any of these approved language tests:"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "English",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "CELPIP: Canadian English Language Proficiency Index Program You need to take the CELPIP-General test.",
+        "You need to take the CELPIP-General test.",
+        "IELTS: International English Language Testing System You need to take the IELTS General Training test.",
+        "You need to take the IELTS General Training test.",
+        "PTE: Pearson Test of English You need to take the PTE Core test.",
+        "You need to take the PTE Core test."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "French",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "TEF Canada: Test d’évaluation de français",
+        "TCF Canada : Test de connaissance du français"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "How to find your language level based on your test results",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Use your test results to find your CLB/NCLC level in the tables below:"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.celpip.ca/",
+    "http://www.ielts.org/",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/language-testing.html#accept",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/language-testing.html#language",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/language-testing.html#prove",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/language-testing/noc-2016.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html",
+    "https://www.france-education-international.fr/en/test/tcf-canada",
+    "https://www.language.ca/resourcesexpertise/on-clb/",
+    "https://www.lefrancaisdesaffaires.fr/en/tests-diplomas/test-for-evaluating-french-tef/tef-canada/",
+    "https://www.pearsonpte.com/pte-core"
+  ]
+}

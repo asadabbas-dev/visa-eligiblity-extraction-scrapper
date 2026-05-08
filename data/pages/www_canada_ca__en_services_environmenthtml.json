@@ -1,0 +1,222 @@
+{
+  "page_title": "Environment and natural resources - Canada.ca",
+  "url": "https://www.canada.ca/en/services/environment.html",
+  "h1": "Environment and natural resources",
+  "headings": {
+    "h2": [
+      "Services and information",
+      "Services and information",
+      "Features",
+      "Page details"
+    ],
+    "h3": [
+      "Weather and hazards",
+      "Climate change",
+      "Nature",
+      "Energy",
+      "Natural resources",
+      "Agricultural production tools and data",
+      "Environment and sustainability in agriculture",
+      "Fisheries",
+      "Pollution and waste management",
+      "Environment statistics",
+      "Water and the environment",
+      "A Force of Nature: Canada's Strategy to Protect Nature",
+      "Funds and resources to help the environment",
+      "#BeatPlasticPollution challenge"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Weather and hazards",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Current conditions, forecasts, historical data, alerts, natural hazards."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Climate change",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Canada’s action, climate future, partnerships, adaptation, health, science, emissions reporting."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Nature",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Nature strategy and plan, Wildlife, plants and species, Environmental conservation and protection, Nature and science at Parks Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Energy",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Energy-efficient homes and vehicles, green energy, fuel prices in your area."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Natural resources",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Canada’s natural resources, water, forests and mining industry."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Agricultural production tools and data",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Interactive maps, tools, practices and technologies relevant to production in agriculture. Weather, drought, land and water, geospatial products."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Environment and sustainability in agriculture",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Climate change mitigation, farming practices, environmental impacts and indicators."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Fisheries",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Licences, permits and funding programs related to fishing, aquaculture and marine mammal harvest."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Pollution and waste management",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Find out about ways to track and reduce pollution and waste."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Environment statistics",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Data, tools and reports providing the latest information on the environment in Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Water and the environment",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Water quantity, freshwater quality, cleaning up our lakes and rivers, water science, sustainability indicators, marine water quality, protecting water."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "A Force of Nature: Canada's Strategy to Protect Nature",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Canada’s plan to protect and value nature - a foundation of our economy, sovereignty, and well-being."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Funds and resources to help the environment",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "Programs and incentives to help you take climate action."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "#BeatPlasticPollution challenge",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Take the #BeatPlasticPollution challenge and be part of the solution to end plastic pollution. Big or small, every action counts!"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://agriculture.canada.ca/en/agricultural-production",
+    "https://agriculture.canada.ca/en/environment",
+    "https://www.canada.ca/en/environment-climate-change/campaigns/beat-plastic-pollution-challenge.html",
+    "https://www.canada.ca/en/environment-climate-change/services/water-overview.html",
+    "https://www.canada.ca/en/services/environment/climatechange.html",
+    "https://www.canada.ca/en/services/environment/energy.html",
+    "https://www.canada.ca/en/services/environment/fisheries.html",
+    "https://www.canada.ca/en/services/environment/natural-resources.html",
+    "https://www.canada.ca/en/services/environment/nature.html",
+    "https://www.canada.ca/en/services/environment/nature/nature-strategy.html",
+    "https://www.canada.ca/en/services/environment/our-environment.html",
+    "https://www.canada.ca/en/services/environment/pollution-waste-management.html",
+    "https://www.canada.ca/en/services/environment/weather.html",
+    "https://www.statcan.gc.ca/en/subjects-start/environment"
+  ]
+}

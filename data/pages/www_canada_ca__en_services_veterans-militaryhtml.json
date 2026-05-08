@@ -1,0 +1,110 @@
+{
+  "page_title": "Veterans and military - Canada.ca",
+  "url": "https://www.canada.ca/en/services/veterans-military.html",
+  "h1": "Veterans and military",
+  "headings": {
+    "h2": [
+      "Services and information",
+      "Page details"
+    ],
+    "h3": [
+      "Veteran services and benefits",
+      "Military services and benefits",
+      "RCMP services and benefits",
+      "Education and jobs for Veterans and military members",
+      "Health and wellness for Veterans and military",
+      "Canadian Armed Forces"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Veteran services and benefits",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Financial support, healthcare, disability and other benefits for Veterans of the Canadian Armed Forces or the RCMP , and their families."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Military services and benefits",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Pay, pension, transition, housing, education, training and health services and benefits for CAF members and their families."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "RCMP services and benefits",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Pay, pension, benefits, programs and services for RCMP members and their families."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Education and jobs for Veterans and military members",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Job opportunities and career support for former and current members of the Canadian Armed Forces."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Health and wellness for Veterans and military",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Physical and mental health support and services for Veterans, military members, and their families, including treatment for PTSD."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Canadian Armed Forces",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Military history, ranks, orders, equipment, operations, medals."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "sufficient funds"
+  ],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/government/publicservice/benefitsmilitary.html",
+    "https://www.canada.ca/en/government/publicservice/benefitsrcmp.html",
+    "https://www.canada.ca/en/services/defence/caf.html",
+    "https://www.canada.ca/en/services/veterans-military/health-and-wellness-for-veterans-and-military-members.html",
+    "https://www.canada.ca/en/services/veterans-military/jobs-for-veterans-and-military-members.html",
+    "https://www.veterans.gc.ca/en"
+  ]
+}

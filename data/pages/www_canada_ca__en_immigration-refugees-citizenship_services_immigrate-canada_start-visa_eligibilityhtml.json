@@ -1,0 +1,126 @@
+{
+  "page_title": "Immigrate with a start-up visa: Who can apply - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/eligibility.html",
+  "h1": "Who can apply",
+  "headings": {
+    "h2": [
+      "Have a qualifying business",
+      "Get a letter of support from a designated organization",
+      "Designated organization caps",
+      "Meet the language requirements",
+      "Bring enough money to settle",
+      "Page details"
+    ],
+    "h3": [
+      "How much money should you bring?"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Have a qualifying business",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "To qualify under this program:",
+        "If your application is successful, you need to"
+      ],
+      "bullets": [
+        "each applicant must hold 10% or more of the total voting rights",
+        "applicants and the designated organization together must hold more than 50% of the total voting rights",
+        "incorporate your business in Canada",
+        "provide active and ongoing management of your business from inside Canada",
+        "make sure an essential part of business operations happens in Canada"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Get a letter of support from a designated organization",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "Designated organizations are business groups that have been approved to invest in or support possible start-ups.",
+        "You’ll need to",
+        "The organization will also send a commitment certificate directly to us. This is an immigration document used to evaluate your application.",
+        "If we get a commitment certificate before January 1, 2026, you have 6 months to send us your application."
+      ],
+      "bullets": [
+        "contact the designated organization to find out how to get its support",
+        "convince the organization you have a business worth supporting",
+        "get a letter of support from the designated organization"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Designated organization caps",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "As of April 1, 2024, we’ll only be considering 10 complete group applications per designated organization.",
+        "If you apply after the annual cap is reached, we’ll return your application and reimburse the processing fees."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Meet the language requirements",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "You need to take achieve Canadian Language Benchmark 5 in listening, reading, writing and speaking (English or French) to qualify for an SUV.",
+        "Your results need to be from a language test done by an approved agency ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Bring enough money to settle",
+      "heading_level": "h2",
+      "category": "financial_requirements",
+      "items": [
+        "The Government of Canada won’t support you financially as a start-up visa immigrant.",
+        "When you apply, you’ll need proof that you have the money to support yourself and your dependants after you arrive in Canada. You can’t borrow this money from another person.",
+        "The amount you need depends on the size of your family. We update these amounts every year."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "How much money should you bring?",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Find out how much it costs to live where you’re planning to settle in Canada.",
+        "Bring as much money as possible to make moving to Canada and finding a home easier."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "sufficient funds"
+  ],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/operational-bulletins-manuals/permanent-residence/terms-definitions-related-permanent-residence.html#r10",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/designated-organizations.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/eligibility.html#complete",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/eligibility.html#designated-org",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/eligibility.html#language",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/eligibility.html#money",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/eligibility.html#qual-business",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/eligibility.html#voting-rights",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/language-testing.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/housing.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/prepare-financially.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend.html"
+  ]
+}

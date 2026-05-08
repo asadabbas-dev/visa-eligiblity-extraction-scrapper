@@ -1,0 +1,86 @@
+{
+  "page_title": "Francophone Community Immigration Pilot: Get your language assessed - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility/language-test.html",
+  "h1": "Get your language assessed",
+  "headings": {
+    "h2": [
+      "Language tests we accept",
+      "How to find your language level based on your test results",
+      "Page details"
+    ],
+    "h3": [
+      "French",
+      "Minimum scores needed",
+      "What to include in your application"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Language tests we accept",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "You can take any of these approved language tests:"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "French",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "TEF Canada: Test d’évaluation de français",
+        "TCF Canada : Test de connaissance du français"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Minimum scores needed",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "You need a minimum score of NCLC 5 in all 4 abilities to apply for the Francophone Community Immigration Pilot (FCIP)."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "How to find your language level based on your test results",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Use your test results to find your NCLC level in the tables below:"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "What to include in your application",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "If you meet the minimum score in all 4 abilities, include a copy of the test results with your application.",
+        "These results must be less than 2 years old when you apply. Keep a copy of them for your records and future use."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.france-education-international.fr/en/test/tcf-canada",
+    "https://www.lefrancaisdesaffaires.fr/en/tests-diplomas/test-for-evaluating-french-tef/tef-canada/"
+  ]
+}

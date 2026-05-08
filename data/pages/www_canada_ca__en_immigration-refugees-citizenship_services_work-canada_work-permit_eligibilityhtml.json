@@ -1,0 +1,372 @@
+{
+  "page_title": "Work in Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/work-permit/eligibility.html",
+  "h1": "Work in Canada temporarily",
+  "headings": {
+    "h2": [
+      "Apply for a work permit",
+      "Types of work permits",
+      "Applications for work permits with special instructions",
+      "After you get a work permit",
+      "Canadian employers",
+      "Page details"
+    ],
+    "h3": [
+      "Apply from outside Canada",
+      "Apply in Canada",
+      "Apply at a port of entry",
+      "Who can work without a work permit",
+      "Extensions or changing conditions",
+      "Extend your work permit",
+      "Change conditions, job or employers",
+      "Employer-specific work permit",
+      "Open work permit",
+      "Not sure what kind of work permit you need?",
+      "Post-graduation work permit",
+      "Working as a student",
+      "Work in Canada with International Experience Canada",
+      "Work while you wait for permanent residence",
+      "Open work permits for family members of foreign workers",
+      "All work permits with special instructions",
+      "Get a social insurance number (SIN)",
+      "Restore your legal status",
+      "Leaving and re-entering Canada",
+      "Worker rights and labour standards",
+      "Restore your legal status",
+      "Report an abusive employer",
+      "Pathways to permanent residence",
+      "Labour market impact assessment",
+      "Hire a permanent foreign worker",
+      "Hire a temporary foreign worker",
+      "Hire a caregiver",
+      "Hire a newcomer as an intern",
+      "Non-compliant employers list"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Apply for a work permit",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Apply from outside Canada",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Apply in Canada",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Apply at a port of entry",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Who can work without a work permit",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Extensions or changing conditions",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Extend your work permit",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Change conditions, job or employers",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Types of work permits",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Employer-specific work permit",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Job offer required"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Open work permit",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Job offer not required"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Not sure what kind of work permit you need?",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Answer a few questions about yourself to find out",
+        "Find the work permit you need."
+      ],
+      "bullets": [
+        "if you’re eligible",
+        "which type you need",
+        "if there are special instructions"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Applications for work permits with special instructions",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Applications for some open work permits and employer-specific work permits have special instructions:"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Post-graduation work permit",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Working as a student",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Work in Canada with International Experience Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Work while you wait for permanent residence",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Open work permits for family members of foreign workers",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "All work permits with special instructions",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "After you get a work permit",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Get a social insurance number (SIN)",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Restore your legal status",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Leaving and re-entering Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Worker rights and labour standards",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Restore your legal status",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Report an abusive employer",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Pathways to permanent residence",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Canadian employers",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Labour market impact assessment",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Hire a permanent foreign worker",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Hire a temporary foreign worker",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Hire a caregiver",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Hire a newcomer as an intern",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Non-compliant employers list",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/employment-social-development/services/foreign-workers/report-abuse.html",
+    "https://www.canada.ca/en/employment-social-development/services/sin.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employer-specific.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employers-non-compliant.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/change-jobs-employers.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/travel-outside-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-home-care-worker.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-permanent-foreign.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/find-need-labour-market-impact-assessment.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/intern.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/need-permit.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/open-work-permit.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit-inside.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit-outside.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/permit-poe.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/pr-work-permits.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/restore.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/spouses-dependent-children.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/work-without-permit.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/worker-rights.html"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "page_title": "Youth in Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/services/youth.html",
+  "h1": "Youth in Canada",
+  "headings": {
+    "h2": [
+      "Special features",
+      "Choose your pathway",
+      "Discover careers in the skilled trades",
+      "Stay connected",
+      "Page details"
+    ],
+    "h3": [
+      "Find Canada Summer Jobs",
+      "Find work placements in your field of study",
+      "Shape your career",
+      "Get money to study",
+      "Shift into work mode",
+      "Kick-start your job search"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Special features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Find Canada Summer Jobs",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Up to 100,000 Canada Summer Jobs available for youth this summer!"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Find work placements in your field of study",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Up to 55,000 work placements for post-secondary students in 2026–27!"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Choose your pathway",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Shape your career",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Explore what interests you and what careers are in demand.",
+        "Learn more about shaping your career"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Get money to study",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Build your future with the right tools and support.",
+        "Learn more about planning your education"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Shift into work mode",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Use the School to Work Transition Tool to find what jobs graduates have and how much they earn.",
+        "Learn more about transitioning to work"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Kick-start your job search",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Find meaningful work that aligns with your goals.",
+        "Learn more about kick-starting your job search"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Discover careers in the skilled trades",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Join the skilled trades and be part of building a stronger Canada.",
+        "Learn more about the skilled trades"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Stay connected",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "For the latest in government opportunities, federal updates, insights and exciting programs for youth, follow us on Instagram."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/employment-social-development/campaigns/skilled-trades.html",
+    "https://www.canada.ca/en/employment-social-development/services/funding/canada-summer-jobs/youth.html",
+    "https://www.canada.ca/en/employment-social-development/services/student-work-placements-stem-business.html",
+    "https://www.canada.ca/en/services/benefits/education.html",
+    "https://www.jobbank.gc.ca/career-planning",
+    "https://www.jobbank.gc.ca/career-planning/school-work-transition",
+    "https://www.jobbank.gc.ca/youth"
+  ]
+}

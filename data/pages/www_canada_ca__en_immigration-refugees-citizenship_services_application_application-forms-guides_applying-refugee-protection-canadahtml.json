@@ -1,0 +1,37 @@
+{
+  "page_title": "Applying for Refugee Protection from within Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/applying-refugee-protection-canada.html",
+  "h1": "Applying for Refugee Protection from within Canada",
+  "headings": {
+    "h2": [
+      "Features",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/claim-protection-inside-canada/apply-paper.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/claim-protection-inside-canada/apply.html"
+  ]
+}

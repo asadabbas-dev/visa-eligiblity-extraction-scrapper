@@ -1,0 +1,263 @@
+{
+  "page_title": "Business and industry - Canada.ca",
+  "url": "https://www.canada.ca/en/services/business.html",
+  "h1": "Business and industry",
+  "headings": {
+    "h2": [
+      "Services and information",
+      "Features",
+      "Page details"
+    ],
+    "h3": [
+      "Starting a business",
+      "Business taxes",
+      "Business financing and support",
+      "Federal corporations",
+      "Maintaining your business",
+      "Permits, licences and regulations",
+      "Hiring and managing employees",
+      "International trade and investment",
+      "Intellectual property and copyright",
+      "Research and business intelligence",
+      "Doing business with the government",
+      "R&D and innovation",
+      "Protecting your business",
+      "Insolvency for business",
+      "Help for those affected by tariffs",
+      "Supports for business",
+      "Canada’s government surplus marketplace",
+      "Beware of suspicious messages, report them!"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Starting a business",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Business planning, naming a business, registering with the government, getting support and financing"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Business taxes",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Income tax, GST/HST, payroll and T4 information returns, business numbers, customs duties and tariffs"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Business financing and support",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Grants and contributions, loans, tax credits, wage subsidies and other business support"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Federal corporations",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Incorporating or making changes to a business corporation, not-for-profit, cooperative or board of trade"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Maintaining your business",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Managing your business operations, strategic and financial planning, marketing, social responsibility"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Permits, licences and regulations",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Search permits and licences, find regulations for your industry and business activities"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Hiring and managing employees",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Payroll, wages and other resources for recruiting, training and managing employees"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "International trade and investment",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Exporting, importing and investing in Canada and foreign markets"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Intellectual property and copyright",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Trademarks, patents, copyright, industrial designs and protecting your intellectual property"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Research and business intelligence",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Industry sector data, financial benchmarks, labour trends and business statistics"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Doing business with the government",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Selling to the federal government, buying from the government, selling to other governments"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "R&D and innovation",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Funding, collaboration, commercialization and licensing resources to help fuel innovation"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Protecting your business",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Emergency planning, risk management, insurance, legal issues, security and privacy, fraud"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Insolvency for business",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Options for dealing with debt, making a proposal to creditors, filing for bankruptcy"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Help for those affected by tariffs",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Learn more about financial supports and more."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Supports for business",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Solutions to your business challenges rights at your fingertip."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Canada’s government surplus marketplace",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Shop GCSurplus for affordable government surplus items (furniture, vehicles and more) and support sustainability nationwide."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Beware of suspicious messages, report them!",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Learn how to recognize suspicious text messages and report them safely to help protect yourself."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "sufficient funds"
+  ],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://gcsurplus.ca/mn-eng.cfm?utm_campaign=pspc-spac-gcsurplus-25-26&utm_medium=vanity-url&utm_source=canada-ca_bus&ind_en",
+    "https://innovation.ised-isde.canada.ca/s/?language=en_CA",
+    "https://international.canada.ca/en/services/business/trade",
+    "https://ised-isde.canada.ca/site/canada-anti-spam-legislation/en/hung-mobile-spam",
+    "https://ised-isde.canada.ca/site/corporations-canada/en",
+    "https://ised-isde.canada.ca/site/ised/en/supports-business?utm_campaign=ised-isde-sfb-23-24&utm_medium=pog&utm_source=gov-dep&utm_content=web-button-en-231101",
+    "https://ised-isde.canada.ca/site/office-superintendent-bankruptcy/en/you-owe-money",
+    "https://www.canada.ca/en/department-finance/programs/international-trade-finance-policy/canadas-response-us-tariffs/support-canadian-workers-employers.html?utm_campaign=not-applicable&utm_medium=vanity-url&utm_source=canada-ca_support-tariff&utm_source=canada&utm_medium=promofeature&utm_campaign=esdc-edsc-support-canadian-workers-employers-25-26&utm_content=static_0001",
+    "https://www.canada.ca/en/services/business/doing-business.html",
+    "https://www.canada.ca/en/services/business/hire.html",
+    "https://www.canada.ca/en/services/business/ip.html",
+    "https://www.canada.ca/en/services/business/maintaingrowimprovebusiness.html",
+    "https://www.canada.ca/en/services/business/permits.html",
+    "https://www.canada.ca/en/services/business/protecting.html",
+    "https://www.canada.ca/en/services/business/research.html",
+    "https://www.canada.ca/en/services/business/start.html",
+    "https://www.canada.ca/en/services/business/taxes.html",
+    "https://www.canada.ca/en/services/science/innovation.html"
+  ]
+}

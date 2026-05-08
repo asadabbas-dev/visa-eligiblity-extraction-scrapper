@@ -1,0 +1,43 @@
+{
+  "page_title": "Check current IRCC processing times - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html",
+  "h1": "Check our current processing times",
+  "headings": {
+    "h2": [
+      "How processing times work",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "How processing times work",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=068&top=3",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=072&top=3",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=985&top=4",
+    "https://ircc.canada.ca/english/immigrate/sponsor/aod-tool.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility/situtations-prevent-citizenship.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/processing-times.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility/reasons.html"
+  ]
+}

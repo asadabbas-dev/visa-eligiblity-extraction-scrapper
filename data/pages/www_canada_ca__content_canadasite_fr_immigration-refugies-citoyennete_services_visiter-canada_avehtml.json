@@ -1,0 +1,143 @@
+{
+  "page_title": "Autorisation de voyage électronique (AVE) - Canada.ca",
+  "url": "https://www.canada.ca/content/canadasite/fr/immigration-refugies-citoyennete/services/visiter-canada/ave.html",
+  "h1": "Autorisation de voyage électronique",
+  "headings": {
+    "h2": [
+      "En demande",
+      "Services and information",
+      "Features",
+      "Détails de la page"
+    ],
+    "h3": [
+      "Savoir ce qu’est une AVE et si vous y êtes admissible",
+      "Présenter une demande d’AVE en ligne",
+      "Savoir quoi faire après avoir présenté une demande",
+      "Les citoyens canadiens qui ont une double nationalité doivent détenir un passeport canadien",
+      "Vérifier l’état de votre AVE",
+      "Questions les plus fréquentes sur l’AVE",
+      "Vous planifiez un vol vers le Canada?"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "En demande",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Vérifiez de quels documents vous avez besoin pour vous rendre au Canada",
+        "Je suis en visite aux États-Unis et je souhaite venir au Canada. Dois-je obtenir une AVE?"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Savoir ce qu’est une AVE et si vous y êtes admissible",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "العربية , 廣東話(繁體字) , 普通話(繁體字) , Български , English, , Español , Filipino, Français, Deutsch , Ελληνικά , Magyarul , Italiano , 日本語 , 한국어 , Polski , Português , Português (Brasil) , ภาษาไทย"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Présenter une demande d’AVE en ligne",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Pour présenter une demande, vous devez avoir un passeport valide, une carte de crédit ou de débit et une adresse de courriel, et vous devez répondre à quelques questions sur la demande en ligne."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Savoir quoi faire après avoir présenté une demande",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "À quoi vous attendre si nous vous demandons des renseignements supplémentaires, et éléments à retenir après avoir reçu votre AVE"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Les citoyens canadiens qui ont une double nationalité doivent détenir un passeport canadien",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Comment présenter une demande de passeport et pourquoi il vous en faut un plutôt qu’une AVE pour entrer au Canada ou transiter par le Canada"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Vérifier l’état de votre AVE",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Obtenir des renseignements à jour en ligne sur une demande en cours de traitement ainsi que sur l’état de votre AVE actuelle"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Questions les plus fréquentes sur l’AVE",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Trouvez les réponses aux questions courantes lorsque vous faites une demande d’AVE"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Vous planifiez un vol vers le Canada?",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Présenter une demande en ligne, c’est facile! Découvrez comment obtenir votre AVE avant de réserver votre vol vers le Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://eta.onlineservices-servicesenligne.apps.cic.gc.ca/eta/applicationQuery?lang=fr",
+    "https://ircc.canada.ca/francais/centre-aide/reponse.asp?qnum=1044&top=16",
+    "https://ircc.canada.ca/francais/visiter/ave-aide-formulaire.asp",
+    "https://ircc.canada.ca/francais/visiter/visas.asp",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/video/autorisation-voyage-electronique-vous-devez-savoir.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/ave/apres-demande-etapes-suivantes.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/ave/demande.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/ave/faits.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/citoyens-canadiens-ont-double-nationalite-visiter-canada.html"
+  ]
+}

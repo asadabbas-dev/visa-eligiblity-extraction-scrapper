@@ -1,0 +1,110 @@
+{
+  "page_title": "Apply online using the IRCC Portal – New version - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/online-account.html",
+  "h1": "Apply online using the IRCC Portal – New version",
+  "headings": {
+    "h2": [
+      "The IRCC Portal – New version is in development",
+      "Try the IRCC Portal – New version",
+      "Page details"
+    ],
+    "h3": [
+      "Who can use this account",
+      "Planning to attend a FIFA World Cup 2026TM match?",
+      "Register : Option 1 of 2",
+      "Sign in : Option 2 of 2"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "The IRCC Portal – New version is in development",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "We're still developing, improving and expanding what is available in this account."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Who can use this account",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "You may be able to use the IRCC Portal – New version if you meet all of the following requirements:"
+      ],
+      "bullets": [
+        "You’re applying online for a visitor visa or super visa.",
+        "You’re 18 years of age or older.",
+        "You have never applied for anything with us before.",
+        "You’re applying alone.",
+        "You aren’t using a representative (including family or friends applying for you)."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Planning to attend a FIFA World Cup 2026TM match?",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "You must use the IRCC Portal to apply for a visitor visa if you’re coming to Canada for a FIFA World Cup 2026TM match either",
+        "You won’t be able to apply using the IRCC Portal – New version.",
+        "Go to the IRCC Portal"
+      ],
+      "bullets": [
+        "as a fan, or",
+        "because you’ve been invited by FIFA"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Try the IRCC Portal – New version",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Register : Option 1 of 2",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sign in : Option 2 of 2",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc-services.canada.ca/cxp/s/eligibilitycheck?language=en_CA&c__LanguageCode=en",
+    "https://ircc-services.canada.ca/cxp/s/login/?language=en_CA&c__LanguageCode=en",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/adopt-child-abroad.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/portal-application-process.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html"
+  ]
+}

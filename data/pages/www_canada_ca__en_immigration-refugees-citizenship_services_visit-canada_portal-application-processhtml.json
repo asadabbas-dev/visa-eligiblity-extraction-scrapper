@@ -1,0 +1,120 @@
+{
+  "page_title": "Apply online to visit Canada: IRCC Portal - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/portal-application-process.html",
+  "h1": "IRCC Portal : Apply online to visit Canada",
+  "headings": {
+    "h2": [
+      "Sign in",
+      "Register",
+      "Help with your account",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Sign in",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Register",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Already have an invite code? Create your IRCC portal account"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Help with your account",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "Sign in",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Register",
+      "level": "h2",
+      "items": [
+        "Already have an invite code? Create your IRCC portal account"
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Help with your account",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=043&top=4",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1123&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1124&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1160&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1213&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1310&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1311&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=315&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=316&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=799&top=23",
+    "https://ircc.canada.ca/english/helpcentre/index-featured-can.asp",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?st=23.3",
+    "https://ircc.canada.ca/visit-visiter/en/get-account-ircc-portal",
+    "https://portal-portail.apps.cic.gc.ca/signin?lang=en",
+    "https://portal-portail.apps.cic.gc.ca/signup?lang=en",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/web-form.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html"
+  ]
+}

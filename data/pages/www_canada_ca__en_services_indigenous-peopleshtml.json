@@ -1,0 +1,311 @@
+{
+  "page_title": "Indigenous peoples - Canada.ca",
+  "url": "https://www.canada.ca/en/services/indigenous-peoples.html",
+  "h1": "Indigenous Peoples",
+  "headings": {
+    "h2": [
+      "On social media",
+      "Services and information",
+      "Features",
+      "Page details"
+    ],
+    "h3": [
+      "Indian status",
+      "Funding for Indigenous Peoples",
+      "Benefits and rights for Indigenous Peoples",
+      "Treaties, agreements and negotiations",
+      "Education, training and jobs for Indigenous Peoples",
+      "Housing for Indigenous Peoples",
+      "Health services and social programs for Indigenous Peoples",
+      "Reconciliation",
+      "Business and economic development for Indigenous Peoples",
+      "Infrastructure in Indigenous communities",
+      "Emergency management",
+      "The North",
+      "About Indigenous Peoples and communities",
+      "Indigenous justice and policing",
+      "Environment and natural resources for Indigenous Peoples",
+      "Indian Residential Schools",
+      "Indigenous connections",
+      "Historic designations related to First Nations, Inuit and Métis",
+      "Hope for Wellness Helpline",
+      "The reconciliation journey",
+      "Sometimes life can feel off balance"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "On social media",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [
+        "Facebook",
+        "X (formerly Twitter)",
+        "YouTube",
+        "Instagram"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Indian status",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Find out about registration under the Indian Act and status card applications, the Indian Register and First Nation membership or citizenship."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Funding for Indigenous Peoples",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Lists of funding programs that support First Nations, Inuit and Métis individuals and communities."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Benefits and rights for Indigenous Peoples",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Rights and benefits guaranteed to Indigenous Peoples in Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Treaties, agreements and negotiations",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Canada is working with Indigenous partners on shared solutions to address past wrongs, renew our relationships and advance Indigenous rights."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Education, training and jobs for Indigenous Peoples",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Find out about education, including scholarships and bursaries, training and jobs for Indigenous Peoples."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Housing for Indigenous Peoples",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Programs and subsidies that support the building and management of housing for Indigenous Peoples."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Health services and social programs for Indigenous Peoples",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Physical and mental health services, child and family services, non-insured health benefits, family violence prevention and more."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Reconciliation",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "How the Government of Canada is working to advance reconciliation and renew the relationship with Indigenous Peoples, based on recognition of rights, respect, cooperation and partnership."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Business and economic development for Indigenous Peoples",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Programs and services for Indigenous Peoples to increase business skills, invest in a business or develop land on a reserve."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Infrastructure in Indigenous communities",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Support for adequate and sustainable housing, clean drinking water and community infrastructure such as schools, roads and wastewater systems."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Emergency management",
+      "heading_level": "h3",
+      "category": "proof_of_ties",
+      "items": [
+        "Indigenous Services Canada (ISC) partners with First Nations communities to prevent, prepare for, respond to and recover from emergencies."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "The North",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Northern resource development, environmental management, science and innovation, culture and history, Arctic issues, Nutrition North Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "About Indigenous Peoples and communities",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Learn about First Nations, Inuit and Métis communities, histories and realities."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Indigenous justice and policing",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Alternative community-based justice and policing programs, and moving forward on the national action plan to end violence against Indigenous women, girls and 2SLGBTQI+ people."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Environment and natural resources for Indigenous Peoples",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Managing the environment and sustainable natural resources including fisheries, forestry, mining, water, land, climate change and contaminated sites."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Indian Residential Schools",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Bringing closure to the legacy of Indian Residential Schools lies at the heart of reconciliation between Indigenous Peoples who attended these schools, their families and communities, and all Canadians."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Indigenous connections",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Honouring First Nations, Inuit and Métis cultures and stewardship of their ancestral lands, waters and ice."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Historic designations related to First Nations, Inuit and Métis",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "National historic sites, people and events reflecting the diversities of First Nations, Inuit and Métis heritage."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Hope for Wellness Helpline",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "The reconciliation journey",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sometimes life can feel off balance",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://parks.canada.ca/culture/autochtones-indigenous",
+    "https://parks.canada.ca/culture/designation/autochtones-designations-indigenous",
+    "https://twitter.com/GCIndigenous",
+    "https://www.canada.ca/en/revenue-agency/campaigns/every-dollar-counts.html",
+    "https://www.canada.ca/en/services/indigenous-peoples/about-indigenous-peoples-and-communities.html",
+    "https://www.canada.ca/en/services/indigenous-peoples/benefits-and-rights-for-indigenous-peoples.html",
+    "https://www.canada.ca/en/services/indigenous-peoples/business-and-economic-development-indigenous-peoples.html",
+    "https://www.canada.ca/en/services/indigenous-peoples/education-training-jobs.html",
+    "https://www.canada.ca/en/services/indigenous-peoples/environment-and-natural-resources-for-indigenous-peoples.html",
+    "https://www.canada.ca/en/services/indigenous-peoples/funding-for-indigenous-peoples.html",
+    "https://www.canada.ca/en/services/indigenous-peoples/health-services-and-social-programs-indigenous-peoples.html",
+    "https://www.canada.ca/en/services/indigenous-peoples/housing-for-indigenous-peoples.html",
+    "https://www.canada.ca/en/services/indigenous-peoples/indigenous-justice-and-policing.html",
+    "https://www.facebook.com/GCIndigenous/",
+    "https://www.hopeforwellness.ca/",
+    "https://www.instagram.com/gcindigenous/",
+    "https://www.rcaanc-cirnac.gc.ca/eng/1100100028568",
+    "https://www.rcaanc-cirnac.gc.ca/eng/1400782178444",
+    "https://www.rcaanc-cirnac.gc.ca/eng/1464271923135",
+    "https://www.rcaanc-cirnac.gc.ca/eng/1625663008357",
+    "https://www.rcaanc-cirnac.gc.ca/eng/1651868378940",
+    "https://www.sac-isc.gc.ca/eng/1100100010567",
+    "https://www.sac-isc.gc.ca/eng/1100100032374",
+    "https://www.sac-isc.gc.ca/eng/1309369889599",
+    "https://www.sac-isc.gc.ca/eng/1576089519527",
+    "https://www.youtube.com/c/GCIndigenous",
+    "tel:+18552423310"
+  ]
+}

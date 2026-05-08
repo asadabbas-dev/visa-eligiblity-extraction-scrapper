@@ -1,0 +1,97 @@
+{
+  "page_title": "Rural Community Immigration Pilot: Get your proof of education - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility/education-assessment.html",
+  "h1": "Get your proof of education",
+  "headings": {
+    "h2": [
+      "Who can assess your credential",
+      "Regulated jobs that need a special assessment",
+      "Page details"
+    ],
+    "h3": [
+      "Architects (NOC 21200)",
+      "Doctors (NOC 31100, NOC 31101 or NOC 31102)",
+      "Pharmacists (NOC 31120)"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Who can assess your credential",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "You need to use one of these designated organizations to get an educational credential assessment for immigration purposes :",
+        "Find out more about the Foreign Credential Recognition process to practise your profession in Canada."
+      ],
+      "bullets": [
+        "Comparative Education Service – University of Toronto School of Continuing Studies",
+        "International Credential Assessment Service of Canada",
+        "World Education Services",
+        "International Qualifications Assessment Service (IQAS)",
+        "International Credential Evaluation Service"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Regulated jobs that need a special assessment",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Professional bodies regulate certain jobs and industries in Canada.",
+        "It’s your responsibility to determine if your job is regulated in Canada .",
+        "If you want to work in one of these jobs and have credentials from another country, you need their assessment before you can work:"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Architects (NOC 21200)",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Doctors (NOC 31100, NOC 31101 or NOC 31102)",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Pharmacists (NOC 31120)",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1007&top=29",
+    "http://mcc.ca/repository/educational-credential-assessment/",
+    "http://www.bcit.ca/ices/eca/",
+    "http://www.icascanada.ca/fsw",
+    "http://www.learn.utoronto.ca/ces",
+    "http://www.wes.org/fswp",
+    "https://cacb.ca/",
+    "https://pebc.ca/pharmacists/document-evaluation/general-information/",
+    "https://www.alberta.ca/iqas-immigration.aspx",
+    "https://www.canada.ca/en/employment-social-development/programs/foreign-credential-recognition.html",
+    "https://www.cicic.ca/928/find_out_if_your_occupation_is_regulated_or_not.canada",
+    "https://www.cicic.ca/938/architects.canada?id=27"
+  ]
+}

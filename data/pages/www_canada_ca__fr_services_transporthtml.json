@@ -1,0 +1,200 @@
+{
+  "page_title": "Transport et infrastructure - Canada.ca",
+  "url": "https://www.canada.ca/fr/services/transport.html",
+  "h1": "Transport et infrastructure",
+  "headings": {
+    "h2": [
+      "Promotions",
+      "En demande",
+      "Services et renseignements",
+      "En vedette",
+      "Détails de la page"
+    ],
+    "h3": [
+      "Véhicules zéro émission",
+      "Aviation",
+      "Transport maritime",
+      "Transport routier",
+      "Transport ferroviaire",
+      "Marchandises dangereuses",
+      "Infrastructures",
+      "Corridors de commerce et de transport",
+      "Transports 2030",
+      "Défauts et rappels de véhicules, de pneus et de sièges d'auto pour enfants"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Promotions",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "En demande",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [
+        "Sécurité des drones",
+        "Articles interdits à bord d’un avion",
+        "Immatriculer votre bâtiment",
+        "Sécurité des sièges d’auto pour enfants",
+        "Transporter des marchandises dangereuses - Règlements",
+        "Règlement de l’aviation canadien"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services et renseignements",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Véhicules zéro émission",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Mesures incitatives à l'achat, financement des infrastructures, écologisation des flottes, politiques, règlements, stations de ravitaillement de remplacement."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Aviation",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Délivrance de licences aux pilotes et au personnel, navigation aérienne et activités aéroportuaires, drones, rapport d'incident, transport aérien, navigabilité."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Transport maritime",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Permis, certification et immatriculation d'un bâtiment, sécurité et formation, aides à la navigation, bâtiments commerciaux, embarcation de plaisance."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Transport routier",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Défauts et rappels, importation de véhicules, sièges d'auto pour enfants, normes de sécurité, transporteurs commerciaux, sûreté routière."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Transport ferroviaire",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Voies ferrées, passages à niveau et ponts, transport ferroviaire de compétence fédérale, enquêtes sur la sécurité et la sûreté, mesures et application de la loi."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Marchandises dangereuses",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Renseignez-vous sur le transport sécuritaire des marchandises dangereuses par voie aérienne, ferroviaire, routière et maritime au Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Infrastructures",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Programmes de financement pour les projets d'infrastructure. Investissements fédéraux dans les infrastructures par province et territoire."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "En vedette",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Corridors de commerce et de transport",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Transports 2030",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Défauts et rappels de véhicules, de pneus et de sièges d'auto pour enfants",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.infrastructure.gc.ca/gmap-gcarte/index-fra.html",
+    "https://parlonstransport.ca/idhcn?utm_campaign=tc-marine-liability-2020-09&utm_medium=carousel&utm_source=tci-themepage-fr",
+    "https://tc.canada.ca/fr/aviation",
+    "https://tc.canada.ca/fr/aviation/securite-drones",
+    "https://tc.canada.ca/fr/aviation/securite-drones?utm_source=Carousel&utm_medium=2&utm_campaign=THEME-FR",
+    "https://tc.canada.ca/fr/aviation/surete-aerienne/articles-interdits-bord-avion",
+    "https://tc.canada.ca/fr/campagnes/protegeons-nos-cotes-plan-protection-oceans",
+    "https://tc.canada.ca/fr/infrastructures",
+    "https://tc.canada.ca/fr/initiatives/transports-2030-plan-strategique-avenir-transports-canada",
+    "https://tc.canada.ca/fr/marchandises-dangereuses",
+    "https://tc.canada.ca/fr/services-generaux/initiative-corridors-commerce-transport",
+    "https://tc.canada.ca/fr/services-generaux/lois-reglements/liste-reglements/reglement-aviation-canadien-dors-96-433",
+    "https://tc.canada.ca/fr/services-generaux/lois-reglements/liste-reglements/reglement-transport-marchandises-dangereuses",
+    "https://tc.canada.ca/fr/transport-ferroviaire",
+    "https://tc.canada.ca/fr/transport-maritime",
+    "https://tc.canada.ca/fr/transport-maritime/permis-immatriculation-batiments",
+    "https://tc.canada.ca/fr/transport-routier",
+    "https://tc.canada.ca/fr/transport-routier/defauts-rappels-vehicules-pneus-sieges-auto-enfant",
+    "https://tc.canada.ca/fr/transport-routier/securite-sieges-auto-enfants",
+    "https://tc.canada.ca/fr/transport-routier/technologies-novatrices/vehicules-zero-emission?utm_source=Carousel&utm_medium=1&utm_campaign=THEME-FR",
+    "https://www.canada.ca/fr/services/transport.html#tab1",
+    "https://www.canada.ca/fr/services/transport.html#tab2",
+    "https://www.canada.ca/fr/services/transport.html#tab3",
+    "https://www.canada.ca/fr/services/transport.html#tab4",
+    "https://www.canada.ca/fr/services/transport.html#tab5",
+    "https://www.canada.ca/fr/services/transport/vehicules-zero-emission.html"
+  ]
+}

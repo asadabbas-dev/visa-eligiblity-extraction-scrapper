@@ -1,0 +1,193 @@
+{
+  "page_title": "Transit visa: After you apply - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/after-apply-next-steps.html",
+  "h1": "After you apply",
+  "headings": {
+    "h2": [
+      "What happens after you apply",
+      "Page details"
+    ],
+    "h3": [
+      "We process your transit visa application",
+      "Change your contact information",
+      "Approving or refusing your application",
+      "Processing time ?"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "What happens after you apply",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "We process your transit visa application",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "After you send us your application, we’ll review it to make sure it’s complete and has all the documents needed.",
+        "If it’s incomplete, we won’t process it. We’ll return it to you.",
+        "If your application is complete, the visa office may ask you to:",
+        "We’ll tell you what to do if you need to complete any of these steps.",
+        "We process most transit visa applications in a few weeks or less. Processing times depend on the visa office and if you need to complete any additional steps."
+      ],
+      "bullets": [
+        "get a medical exam",
+        "get a police certificate",
+        "go for an interview"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Change your contact information",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Use the IRCC web form if you change your:"
+      ],
+      "bullets": [
+        "address",
+        "telephone number",
+        "any other contact information"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Approving or refusing your application",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "If your application is approved, the transit visa will be put in your passport.",
+        "If your application is refused, we’ll send you an explanation.",
+        "For more information on visa refusals, see our Help Centre ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Processing time ?",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Varies by country",
+        "Check processing times",
+        "You may need to give biometrics with your application. This processing time doesn’t include the time you need to give biometrics."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "possible medical exam"
+  ],
+  "supporting_document_signals": [
+    "medical documents",
+    "passport",
+    "police certificates"
+  ],
+  "hierarchy": [
+    {
+      "heading": "What happens after you apply",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "We process your transit visa application",
+          "level": "h3",
+          "items": [
+            "After you send us your application, we’ll review it to make sure it’s complete and has all the documents needed.",
+            "If it’s incomplete, we won’t process it. We’ll return it to you.",
+            "If your application is complete, the visa office may ask you to:",
+            "We’ll tell you what to do if you need to complete any of these steps.",
+            "We process most transit visa applications in a few weeks or less. Processing times depend on the visa office and if you need to complete any additional steps."
+          ],
+          "bullets": [
+            "get a medical exam",
+            "get a police certificate",
+            "go for an interview"
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "What happens after you apply"
+        },
+        {
+          "heading": "Change your contact information",
+          "level": "h3",
+          "items": [
+            "Use the IRCC web form if you change your:"
+          ],
+          "bullets": [
+            "address",
+            "telephone number",
+            "any other contact information"
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "What happens after you apply"
+        },
+        {
+          "heading": "Approving or refusing your application",
+          "level": "h3",
+          "items": [
+            "If your application is approved, the transit visa will be put in your passport.",
+            "If your application is refused, we’ll send you an explanation.",
+            "For more information on visa refusals, see our Help Centre ."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "What happens after you apply"
+        },
+        {
+          "heading": "Processing time ?",
+          "level": "h3",
+          "items": [
+            "Varies by country",
+            "Check processing times",
+            "You may need to give biometrics with your application. This processing time doesn’t include the time you need to give biometrics."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "What happens after you apply"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://ircc.canada.ca/english/helpcentre/answer.asp?q=422&t=16",
+    "http://ircc.canada.ca/english/helpcentre/answer.asp?qnum=068&top=3",
+    "https://ircc.canada.ca/english/visit/biometrics.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/web-form.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/medical-exams.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics/how-to-give.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/after-apply-next-steps.html#processing-times"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "eligibility": {
+    "extracted_count": 9,
+    "expected_count": 8,
+    "coverage_percent": 100.0,
+    "missing_concepts": [],
+    "duplicate_concepts": []
+  },
+  "supporting_documents": {
+    "extracted_count": 11,
+    "expected_count": 8,
+    "coverage_percent": 75.0,
+    "missing_concepts": [
+      "bank_statements",
+      "marriage_certificate"
+    ],
+    "duplicate_concepts": []
+  },
+  "required_forms": {
+    "extracted_count": 16,
+    "expected_count": 5,
+    "coverage_percent": 100.0,
+    "missing_concepts": [],
+    "duplicate_concepts": []
+  },
+  "section_completeness_percent": 59.47,
+  "category_accuracy_percent": 90.48
+}

@@ -1,0 +1,171 @@
+{
+  "page_title": "Visiter le Canada - Canada.ca",
+  "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada.html",
+  "h1": "Visiter le Canada",
+  "headings": {
+    "h2": [
+      "Avant de faire une demande",
+      "Demandes de visas de visiteur ou d’AVE",
+      "Après votre arrivée au Canada",
+      "Pour les entreprises et les organisateurs d’événements canadiens",
+      "À la frontière",
+      "Détails de la page"
+    ],
+    "h3": [
+      "Vérifiez si vous avez besoin d'une AVE ou d'un visa",
+      "Visa de visiteur",
+      "Autorisation de voyage électronique (AVE)",
+      "Fiche du visiteur : prolongez votre séjour à titre de visiteur",
+      "Étudiants et travailleurs : demandez un nouveau visa de visiteur",
+      "Faire venir des visiteurs commerciaux au Canada",
+      "Renseignements sur la frontière pour ceux qui visitent le Canada",
+      "Explorer les programmes d’immigration"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Avant de faire une demande",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Répondez à quelques questions et nous vous dirons ce dont vous avez besoin pour voyager au Canada : une autorisation de voyage électronique (AVE) ou un visa."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Vérifiez si vous avez besoin d'une AVE ou d'un visa",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Demandes de visas de visiteur ou d’AVE",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Visa de visiteur",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Qu’est-ce qu’un visa de visiteur, qui peut en faire la demande et comment, et comment préparer votre arrivée au Canada"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Autorisation de voyage électronique (AVE)",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Qu’est-ce qu’une AVE, qui peut en faire la demande et comment, et comment préparer votre arrivée au Canada"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Après votre arrivée au Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Fiche du visiteur : prolongez votre séjour à titre de visiteur",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Qui peut obtenir une fiche du visiteur, de quoi il s’agit et comment en faire la demande"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Étudiants et travailleurs : demandez un nouveau visa de visiteur",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Obtenir un nouveau visa de visiteur au Canada si le vôtre est expiré et que vous planifiez quitter le Canada et y revenir"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Pour les entreprises et les organisateurs d’événements canadiens",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Faire venir des visiteurs commerciaux au Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Ce que vous devez faire à titre d’entreprise ou d’organisateur d’événements, comment inscrire votre événement et préparer des lettes d’invitation"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "À la frontière",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Renseignements sur la frontière pour ceux qui visitent le Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Conseils de voyage, ce qui arrive à la frontière et marchandises réglementées ou prohibées"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Explorer les programmes d’immigration",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Répondez à quelques questions pour connaître les différentes façons de venir au Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/explorer-programmes/index.asp",
+    "https://ircc.canada.ca/francais/visiter/visas.asp",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/affaires/organisateurs-evenements-conferences.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/affaires/visiteurs-evenements-conferences.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/ave.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/presenter-demande-afin-obtenir-nouveau-visa-resident-temporaire-canada.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/prolonger-sejour.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/super-visa-parents-grands-parents.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/transiter.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/visa-visiteur.html",
+    "https://www.cbsa-asfc.gc.ca/travel-voyage/menu-fra.html"
+  ]
+}

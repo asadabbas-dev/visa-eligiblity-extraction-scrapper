@@ -1,0 +1,83 @@
+{
+  "page_title": "Transit visa - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa.html",
+  "h1": "Transit visa",
+  "headings": {
+    "h2": [
+      "Fees",
+      "Processing times",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Fees",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Free"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Processing times",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "Check processing times"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "Fees",
+      "level": "h2",
+      "items": [
+        "Free"
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Processing times",
+      "level": "h2",
+      "items": [
+        "Check processing times"
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "page_title": "Register for an IRCC secure account - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/register.html",
+  "h1": "IRCC secure account : Register",
+  "headings": {
+    "h2": [
+      "Check if this is the right account for you",
+      "Choose how you'll register and sign in",
+      "Help with your account",
+      "Find another government account",
+      "Page details"
+    ],
+    "h3": [
+      "Option 1: GCKey username and password : Option 1 of 2",
+      "Option 2: Canadian Interac ® Sign-in Partner : Option 2 of 2",
+      "Change your two-factor authentication method",
+      "All Government of Canada online accounts"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Check if this is the right account for you",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Choose how you'll register and sign in",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Option 1: GCKey username and password : Option 1 of 2",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Option 2: Canadian Interac ® Sign-in Partner : Option 2 of 2",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Help with your account",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Change your two-factor authentication method",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "You need access to your existing email or authenticator app, or to your saved recovery codes.",
+        "Get more help with two-factor authentication"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Find another government account",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "All Government of Canada online accounts",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "There are many accounts, for different services, across the Government of Canada. Find the service you need."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1310&top=23",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=316&top=23",
+    "https://ircc.canada.ca/english/helpcentre/index-featured-can.asp",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?st=23.2",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?st=23.2.1",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?st=23.2.2",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?st=23.3",
+    "https://onlineservices-servicesenligne-cic.fjgc-gccf.gc.ca/mycic/gccf?lang=eng&idp=gckey&svc=/mycic/start",
+    "https://onlineservices-servicesenligne-cic.fjgc-gccf.gc.ca/mycic/gccf?lang=eng&idp=securekey&svc=/mycic/start",
+    "https://www.canada.ca/en/government/sign-in-online-account.html",
+    "https://www.canada.ca/en/government/sign-in-online-account/gckey.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account/link-paper-online.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/multi-factor-authentication.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/multi-factor-authentication.html#register",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/register.html#password",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/register.html#pw-reset-email",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/register.html#pw-reset-recovery",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/register.html#username",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html"
+  ]
+}

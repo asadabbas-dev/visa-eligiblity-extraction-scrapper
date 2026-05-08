@@ -1,0 +1,42 @@
+{
+  "page_title": "Release of Information to an Individual - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/release-information-individual.html",
+  "h1": "Release of Information to an Individual",
+  "headings": {
+    "h2": [
+      "Features",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=660&top=18",
+    "http://www.ircc.canada.ca/english/helpcentre/results-by-topic.asp?st=4.2",
+    "https://ircc.canada.ca/english/helpcentre/index-featured-can.asp#tab1",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/video/save-time-send-complete-application.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5475.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/use-representative.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool.html"
+  ]
+}

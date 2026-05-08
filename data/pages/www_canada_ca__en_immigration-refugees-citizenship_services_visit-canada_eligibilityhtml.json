@@ -1,0 +1,182 @@
+{
+  "page_title": "Eligibility to apply for a visitor visa - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+  "h1": "Who can apply",
+  "headings": {
+    "h2": [
+      "On this page",
+      "Who can get a visa",
+      "Some people are not allowed to enter Canada",
+      "Minor children travelling to Canada",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "On this page",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [],
+      "bullets": [
+        "Who can get a visa",
+        "Some people are not allowed to enter Canada",
+        "Minor children travelling to Canada"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Who can get a visa",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "You must meet some basic requirements to get a visitor visa.",
+        "You must:",
+        "You may also need a medical exam and letter of invitation from someone who lives in Canada.",
+        "Check the list of documents you need based on your situation ."
+      ],
+      "bullets": [
+        "have a valid travel document , like a passport",
+        "be in good health",
+        "have no criminal or immigration-related convictions",
+        "convince an immigration officer that you have ties—such as a job, home, financial assets or family—that will take you back to your home country",
+        "convince an immigration officer that you will leave Canada at the end of your visit",
+        "have enough money for your stay The amount of money you will need depends on how long you will stay and if you will stay in a hotel, or with friends or relatives.",
+        "The amount of money you will need depends on how long you will stay and if you will stay in a hotel, or with friends or relatives."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Some people are not allowed to enter Canada",
+      "heading_level": "h2",
+      "category": "inadmissibility",
+      "items": [
+        "Some people are inadmissible to Canada, which means they are not allowed to enter the country. You can be inadmissible for several reasons, including being involved in:",
+        "You can also be inadmissible for security, health or financial reasons. Find out more about inadmissibility ."
+      ],
+      "bullets": [
+        "criminal activity",
+        "human rights violations",
+        "organized crime"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Minor children travelling to Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Make sure you know what to do if your minor children (children under the age of 18) will be travelling with you, with someone else, or alone."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "good health",
+    "no criminal convictions",
+    "possible medical exam",
+    "proof applicant will leave Canada",
+    "proof of ties to home country",
+    "sufficient funds",
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "medical documents",
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "On this page",
+      "level": "h2",
+      "items": [],
+      "bullets": [
+        "Who can get a visa",
+        "Some people are not allowed to enter Canada",
+        "Minor children travelling to Canada"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Who can get a visa",
+      "level": "h2",
+      "items": [
+        "You must meet some basic requirements to get a visitor visa.",
+        "You must:",
+        "You may also need a medical exam and letter of invitation from someone who lives in Canada.",
+        "Check the list of documents you need based on your situation ."
+      ],
+      "bullets": [
+        "have a valid travel document , like a passport",
+        "be in good health",
+        "have no criminal or immigration-related convictions",
+        "convince an immigration officer that you have ties—such as a job, home, financial assets or family—that will take you back to your home country",
+        "convince an immigration officer that you will leave Canada at the end of your visit",
+        "have enough money for your stay The amount of money you will need depends on how long you will stay and if you will stay in a hotel, or with friends or relatives.",
+        "The amount of money you will need depends on how long you will stay and if you will stay in a hotel, or with friends or relatives."
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Some people are not allowed to enter Canada",
+      "level": "h2",
+      "items": [
+        "Some people are inadmissible to Canada, which means they are not allowed to enter the country. You can be inadmissible for several reasons, including being involved in:",
+        "You can also be inadmissible for security, health or financial reasons. Find out more about inadmissibility ."
+      ],
+      "bullets": [
+        "criminal activity",
+        "human rights violations",
+        "organized crime"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Minor children travelling to Canada",
+      "level": "h2",
+      "items": [
+        "Make sure you know what to do if your minor children (children under the age of 18) will be travelling with you, with someone else, or alone."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/medical-exams.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/passport-travel-document.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html#minor",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html#not_allowed",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html#who",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/letter-invitation.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/minor-children-travelling-canada.html"
+  ]
+}

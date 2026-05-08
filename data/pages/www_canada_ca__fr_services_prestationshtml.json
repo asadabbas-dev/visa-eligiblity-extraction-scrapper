@@ -1,0 +1,238 @@
+{
+  "page_title": "Prestations - Canada.ca",
+  "url": "https://www.canada.ca/fr/services/prestations.html",
+  "h1": "Prestations",
+  "headings": {
+    "h2": [
+      "Attention à la désinformation en ligne",
+      "L’Allocation canadienne pour l’épicerie et les besoins essentiels",
+      "Interruption des services de Postes Canada - interruption de la grève",
+      "En demande",
+      "Services et renseignements",
+      "De :",
+      "Détails de la page"
+    ],
+    "h3": [
+      "Prestations d'assurance-emploi et congés",
+      "Régime canadien de soins dentaire (RCSD)",
+      "Prestations d'invalidité",
+      "Prestations pour les familles et les proches aidants",
+      "Pensions publiques",
+      "Subventions et occasions de financement",
+      "Aide financière aux étudiants et planification des études",
+      "Prestations relatives au logement",
+      "Trouver des prestations et de l'aide financière",
+      "Prestations par clientèle",
+      "Que faire lors d'un décès"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Attention à la désinformation en ligne",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "L’Allocation canadienne pour l’épicerie et les besoins essentiels",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Interruption des services de Postes Canada - interruption de la grève",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "En demande",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [
+        "Renouveler votre couverture - Régime canadien de soins dentaires",
+        "Présenter une demande d'assurance-emploi",
+        "Date de paiement des prestations",
+        "Calculateur de prestations pour enfants et familles",
+        "Se connecter à un compte",
+        "S'inscrire ou modifier vos informations de dépôt direct",
+        "Soumettre votre déclaration de l'assurance-emploi",
+        "Impôt sur le revenu des particuliers - Découvrez les déductions, crédits et dépenses"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services et renseignements",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Prestations d'assurance-emploi et congés",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Prestations temporaires pour les travailleurs, prestations de maladie, de pêcheur, en lien avec la situation familiale. Comment présenter une demande en ligne et faire une déclaration."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Régime canadien de soins dentaire (RCSD)",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Présentez une demande pour le régime de soins dentaires. Les membres existants peuvent renouveler leur couverture pour l’année de prestations 2026-2027 du 15 avril au 1er juin 2026. Vérifiez l’état de votre demande au RCSD."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Prestations d'invalidité",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Prestation Canadienne pour les personnes handicapées, pensions d'invalidité pour enfants handicapés, financement des études, régimes d'épargne, programme de remboursement de la taxe d'accise sur l'essence."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Prestations pour les familles et les proches aidants",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Allocation pour enfants, prestation dentaire et TPS/TVH. Congé de maternité et parental et prestations de compassion. Aide pour subvenir aux besoins de vos enfants."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Pensions publiques",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Présentez une demande pour le régime de pension du Canada, pension de la Sécurité de la vieillesse, supplément de revenu garanti, planification de la retraite."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Subventions et occasions de financement",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Trouvez des programmes de financement gouvernementaux qui aident à soutenir l’emploi, la formation et le développement social."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Aide financière aux étudiants et planification des études",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Présentez des demandes d'aide financière aux études, de prêts et de bourses. Estimez le montant que vous pourriez recevoir. Planifiez vos études."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Prestations relatives au logement",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Renseignements sur le remboursement de la TPS/TVH pour habitations neuves. Aide financière à la rénovation, aux fins d'améliorer l'accessibilité pour les occupants handicapés et d'accroître l'efficacité énergétique de votre logement."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Trouver des prestations et de l'aide financière",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Trouvez l'aide dont vous avez besoin pour vos dépenses quotidiennes, le financement de votre entreprise ou organisation, ou les déductions d'impôt personnelles."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Prestations par clientèle",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Prestations et programmes, incluant les critères d'admissibilité."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Que faire lors d'un décès",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Quoi faire après la perte d’un membre de la famille. Les documents dont vous aurez besoin, qui aviser, comment annuler les prestations afin d’éviter les trop-payés."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "De :",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Emploi et Développement social Canada",
+        "Ministère des Finances Canada"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/fr/agence-revenu/organisation/arnaques-fraudes/reconnaitre-arnaque.html#h5",
+    "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/tout-votre-declaration-revenus/declaration-revenus/remplir-declaration-revenus/deductions-credits-depenses/toutes-deductions-tous-credits-toutes-depenses.html",
+    "https://www.canada.ca/fr/agence-revenu/services/prestations-enfants-familles/calculateur-prestations-enfants-familles.html",
+    "https://www.canada.ca/fr/emploi-developpement-social.html",
+    "https://www.canada.ca/fr/emploi-developpement-social/ministere/portefeuille/service-canada/interruption-postes.html",
+    "https://www.canada.ca/fr/emploi-developpement-social/services/financement/programmes.html",
+    "https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html",
+    "https://www.canada.ca/fr/ministere-finances.html",
+    "https://www.canada.ca/fr/ministere-finances/nouvelles/2026/02/adoption-du-projet-de-loi-permettant-de-verser-la-nouvelle-allocation-canadienne-pour-lepicerie-et-les-besoins-essentiels.html",
+    "https://www.canada.ca/fr/services/evenements-vie/deces.html",
+    "https://www.canada.ca/fr/services/prestations/ae.html",
+    "https://www.canada.ca/fr/services/prestations/ae/assurance-emploi-reguliere.html",
+    "https://www.canada.ca/fr/services/prestations/ae/declarations-assurance-emploi.html#service-declaration-Internet",
+    "https://www.canada.ca/fr/services/prestations/calendrier.html",
+    "https://www.canada.ca/fr/services/prestations/clientele.html",
+    "https://www.canada.ca/fr/services/prestations/dentaire/regime-soins-dentaires.html",
+    "https://www.canada.ca/fr/services/prestations/dentaire/regime-soins-dentaires/renouveler.html",
+    "https://www.canada.ca/fr/services/prestations/education.html",
+    "https://www.canada.ca/fr/services/prestations/famille.html",
+    "https://www.canada.ca/fr/services/prestations/handicap.html",
+    "https://www.canada.ca/fr/services/prestations/logement.html",
+    "https://www.canada.ca/fr/services/prestations/pensionspubliques.html",
+    "https://www.canada.ca/fr/services/prestations/prestations-aide-financiere.html?nouveau",
+    "https://www.tpsgc-pwgsc.gc.ca/recgen/txt/depot-deposit-fra.html"
+  ]
+}

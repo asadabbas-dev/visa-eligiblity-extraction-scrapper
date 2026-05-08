@@ -1,0 +1,89 @@
+{
+  "page_title": "Visitor record: After you apply - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/after-apply.html",
+  "h1": "After you apply",
+  "headings": {
+    "h2": [
+      "If your application is approved",
+      "If your status expires",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "If your application is approved",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "You should get your visitor record in the mail within 6 weeks of getting your decision letter. If you don’t, contact us ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If your status expires",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "If you apply to extend your stay in Canada before the date by which you’re supposed to leave , you can legally stay in Canada until a decision is made on your application. In this situation, you have maintained your status ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "If your application is approved",
+      "level": "h2",
+      "items": [
+        "You should get your visitor record in the mail within 6 weeks of getting your decision letter. If you don’t, contact us ."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "If your status expires",
+      "level": "h2",
+      "items": [
+        "If you apply to extend your stay in Canada before the date by which you’re supposed to leave , you can legally stay in Canada until a decision is made on your application. In this situation, you have maintained your status ."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=068&top=3",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1016&top=16",
+    "https://secure.cic.gc.ca/ClientContact/en/Application",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/web-form.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics/how-to-give.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/after-apply.html#questionmark-pr",
+    "https://www.canada.ca/en/services/immigration-citizenship/helpcentre/glossary.html#maintained-status"
+  ]
+}

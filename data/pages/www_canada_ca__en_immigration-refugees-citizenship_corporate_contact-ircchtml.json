@@ -1,0 +1,243 @@
+{
+  "page_title": "Contact Immigration, Refugees and Citizenship Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc.html",
+  "h1": "Contact Immigration, Refugees and Citizenship Canada (IRCC)",
+  "headings": {
+    "h2": [
+      "Before you contact us",
+      "Contact us about an application in progress",
+      "Contact a specific program",
+      "Other enquiries",
+      "Follow us",
+      "Help with common topics",
+      "Feature",
+      "Page details"
+    ],
+    "h3": [
+      "Contact the Client Support Centre",
+      "Submit a web form",
+      "Find an IRCC office",
+      "Electronic travel authorization (eTA)",
+      "Update your address or contact information",
+      "Special measures for situations abroad and in Canada",
+      "International Experience Canada (IEC)",
+      "Passport Program",
+      "Report fraud or abuse",
+      "Media enquiries",
+      "Share your feedback",
+      "Request accessible services",
+      "Explore immigration programs"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Before you contact us",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Contact us about an application in progress",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Contact the Client Support Centre",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Submit a web form",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Find an IRCC office",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Electronic travel authorization (eTA)",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Update your address or contact information",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Special measures for situations abroad and in Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Contact a specific program",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "International Experience Canada (IEC)",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Passport Program",
+      "heading_level": "h3",
+      "category": "travel_requirements",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Other enquiries",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Report fraud or abuse",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Media enquiries",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Share your feedback",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Request accessible services",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Follow us",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Help with common topics",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [
+        "Application status has not changed in a long time",
+        "Applying online and technical help (including downloading files)",
+        "Permanent resident (PR) cards: Technical issues with PR card applications Didn’t receive a PR card",
+        "Technical issues with PR card applications",
+        "Didn’t receive a PR card"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Feature",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Explore immigration programs",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Answer a few questions to see different ways you might be able to come to Canada"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=306&top=3",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?top=23",
+    "https://ircc.canada.ca/english/visit/eta-form-help.asp",
+    "https://ircc.canada.ca/explore-programs/index.asp",
+    "https://secure.cic.gc.ca/ClientContact/en/Feedback",
+    "https://twitter.com/citimmcanada",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/accessibility/request-services.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/client-support-centre.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/international-experience-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/media-contacts.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/offices.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/web-form.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/change-address.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/contact-passport-program.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/after-next-steps.html#card",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/apply/help-alternate-format.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/protect-fraud/report-fraud.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/special-measures.html",
+    "https://www.facebook.com/CitCanada",
+    "https://www.instagram.com/citimmcanada/",
+    "https://www.linkedin.com/company/citizenship-and-immigration-canada/posts/?feedView=all",
+    "https://www.youtube.com/citimmcanada"
+  ]
+}

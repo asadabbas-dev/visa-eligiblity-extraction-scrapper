@@ -1,0 +1,276 @@
+{
+  "page_title": "Sign in to your IRCC account - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html",
+  "h1": "Sign in to your IRCC account",
+  "headings": {
+    "h2": [
+      "Sign in to your account: Visiting Canada",
+      "Sign in to your account: Immigrating to Canada",
+      "Sign in to your account: Sponsoring family",
+      "Sign in to your account: Working in Canada temporarily",
+      "Sign in to your account: Studying in Canada",
+      "Sign in to your account: Canadian citizenship",
+      "Sign in to your account: Refugees and asylum",
+      "Sign in to your account: One of the special measures",
+      "Sign in to your account: Permanent resident cards and travel documents",
+      "Create an account: Visiting Canada",
+      "Create an account: Immigrating to Canada",
+      "Create an account: Sponsoring family",
+      "Create an account: Working in Canada temporarily",
+      "Create an account: Studying in Canada",
+      "Create an account: Canadian citizenship",
+      "Create an account: Refugees and asylum",
+      "Create an account: Permanent resident cards and travel documents",
+      "Are you an authorized representative or IRCC partner?",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Sign in to your account: Visiting Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sign in to your account: Immigrating to Canada",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sign in to your account: Sponsoring family",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sign in to your account: Working in Canada temporarily",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sign in to your account: Studying in Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sign in to your account: Canadian citizenship",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sign in to your account: Refugees and asylum",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sign in to your account: One of the special measures",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sign in to your account: Permanent resident cards and travel documents",
+      "heading_level": "h2",
+      "category": "travel_requirements",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Create an account: Visiting Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Create an account: Immigrating to Canada",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Create an account: Sponsoring family",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Create an account: Working in Canada temporarily",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Create an account: Studying in Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Create an account: Canadian citizenship",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Create an account: Refugees and asylum",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Create an account: Permanent resident cards and travel documents",
+      "heading_level": "h2",
+      "category": "travel_requirements",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Are you an authorized representative or IRCC partner?",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "View accounts for authorized representatives and partners (Opens in a new tab)"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "pdf_links": [],
+  "related_links": [
+    "https://citapply-citdemande.apps.cic.gc.ca/en/sign-in",
+    "https://eservices.cic.gc.ca/rescalc/resCalcStartNew.do?&lang=en",
+    "https://ircc.canada.ca/explore-programs",
+    "https://portal-portail.apps.cic.gc.ca/signin?lang=en",
+    "https://prson-srpel.apps.cic.gc.ca/en/login",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/partners-service-providers.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html#alerts",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account/link-paper-online.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/application-permanent-residence-quebec-selected-business-class-applicants-investors-entrepreneurs.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#account-chooser",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#application",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#citizenship",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#citizenship-known",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#family",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#family-known",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#hints-2",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#hints-3",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#immigrate",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#immigrate-known",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#pr",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#pr-known",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#refugees",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#refugees-known",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#special-measures",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#study",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#study-known",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#visit",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#visit-known",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#working",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/ircc-accounts.html#working-known",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/online-account.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/apply/accommodation.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/citizenship-test/online.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/proof-citizenship/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/proof-citizenship/search-records/how-to-apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/proof-citizenship/valid/e-certificate.html#s3",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/online-account.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/adopt-child-abroad/processes/choose-process/immigration/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/atlantic-immigration/how-to-immigrate/permanent-residence.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/caregivers/home-care-worker-immigration-pilots/child-care-home-support/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/other-relatives/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/sponsor-parents-grandparents/tell-us-you-want-sponsor-parent-grandparent.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/family-sponsorship/spouse-partner-children/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/hong-kong-residents-permanent-residence/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/how-to-apply-online.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/express-entry/get-confirm-nomination.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/non-express-entry/eligibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-skilled-workers/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/permanent-residence.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/permanent-residence.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/self-employed/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/start-visa/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/ukraine-open-work-permit.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/travel-document/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/protection.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/sponsor-refugee/private-sponsorship-program/agreement-holders/sponsor.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/sponsor-refugee/private-sponsorship-program/community-sponsors/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/sponsor-refugee/private-sponsorship-program/groups-five/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/change-schools.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/extend-study-permit/how-to-apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/portal-application-process-study.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/fmc-student-pilot/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/portal-application-process.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/extend/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/become-candidate.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/camp-counsellor.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/francophone-mobility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/hong-kong-graduates.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/spouses-dependent-children/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/special-instructions/vulnerable-workers.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/work-permit/apply.html"
+  ]
+}

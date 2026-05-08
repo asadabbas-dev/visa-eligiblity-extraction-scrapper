@@ -1,0 +1,96 @@
+{
+  "page_title": "Admissibilité afin de demander un visa de visiteur - Canada.ca",
+  "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/admissibilite.html",
+  "h1": "Qui peut présenter une demande",
+  "headings": {
+    "h2": [
+      "Sur cette page",
+      "Qui peut obtenir un visa",
+      "Certaines personnes sont interdites de territoire au Canada",
+      "Enfants mineurs voyageant au Canada",
+      "Détails de la page"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Sur cette page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Qui peut obtenir un visa",
+        "Certaines personnes sont interdites de territoire au Canada",
+        "Enfants mineurs voyageant au Canada"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Qui peut obtenir un visa",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "Vous devez satisfaire à certaines exigences de base afin d’obtenir un visa de visiteur, c’est-à-dire que vous devez :",
+        "Vous pourriez aussi avoir besoin de vous soumettre à un examen médical et détenir une lettre d’invitation rédigée par une personne qui vit au Canada.",
+        "Consultez la liste de documents requis selon votre situation ."
+      ],
+      "bullets": [
+        "posséder un titre de voyage valide , comme un passeport;",
+        "être en bonne santé;",
+        "ne pas avoir été reconnu coupable d’activités criminelles ou d’infractions liées à l’immigration;",
+        "convaincre un agent d’immigration que vous retournerez dans votre pays de résidence à cause de liens que vous y avez, comme un emploi, une propriété, des actifs financiers ou de la famille;",
+        "convaincre un agent d’immigration que vous quitterez le Canada à la fin de votre séjour;",
+        "avoir suffisamment d’argent pour votre séjour; le montant nécessaire dépendra de la durée de votre séjour et variera selon que vous séjournez dans un hôtel ou chez des amis ou des parents.",
+        "le montant nécessaire dépendra de la durée de votre séjour et variera selon que vous séjournez dans un hôtel ou chez des amis ou des parents."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Certaines personnes sont interdites de territoire au Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Certaines personnes sont interdites de territoire au Canada, ce qui signifie qu’elles ne sont pas autorisées à y entrer. Vous pouvez être interdit de territoire pour plusieurs raisons, notamment pour avoir participé à :",
+        "Vous pouvez également être interdit de territoire pour des raisons de sécurité, de santé ou d’ordre financier. Renseignez-vous au sujet de l’interdiction de territoire ."
+      ],
+      "bullets": [
+        "des activités criminelles;",
+        "des violations des droits de la personne;",
+        "des activités liées au crime organisé."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Enfants mineurs voyageant au Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Assurez-vous de savoir quoi faire selon que vos enfants mineurs (enfants âgés de moins de 18 ans) voyagent seuls, avec vous ou avec quelqu’un d’autre."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/demande/medical-police/examens-medicaux.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/interdiction-territoire.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/passeport-document-voyage.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/admissibilite.html#enfants",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/admissibilite.html#interdites",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/admissibilite.html#qui",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/demande-visa-visiteur.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/enfants-mineurs-voyageant-canada.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/lettre-invitation.html"
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "page_title": "Change my address – Immigration and citizenship - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/change-address.html",
+  "h1": "Change my address – Immigration and citizenship",
+  "headings": {
+    "h2": [
+      "If you’re in Canada",
+      "If you’re in the United States",
+      "If you’re outside Canada and the United States",
+      "Page details"
+    ],
+    "h3": [
+      "Step 1 – Check if you can use the Change of address service",
+      "Step 2 – Gather your documents",
+      "Step 3 – Change your address",
+      "If you can’t use the Change of address service",
+      "Immigration application",
+      "Citizenship application",
+      "Refugee and asylum application",
+      "Immigration application",
+      "Citizenship application",
+      "Refugee and asylum application"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "If you’re in Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Step 1 – Check if you can use the Change of address service",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "The changes should appear in your file within 5 business days .",
+        "You can use this service if you meet all of the following criteria:"
+      ],
+      "bullets": [
+        "You applied on paper .",
+        "Your case is being processed in Canada .",
+        "Your address is in Canada .",
+        "You’re moving within 3 weeks or have already moved.",
+        "You must also have either sponsored a member of the family class applied for permanent residence from within Canada applied for a permanent resident card applied for Canadian citizenship (for yourself or for a person adopted by a Canadian citizen) applied for proof of citizenship (citizenship certificate) applied to renounce or resume Canadian citizenship, or applied for a search of citizenship records",
+        "sponsored a member of the family class",
+        "applied for permanent residence from within Canada",
+        "applied for a permanent resident card",
+        "applied for Canadian citizenship (for yourself or for a person adopted by a Canadian citizen)",
+        "applied for proof of citizenship (citizenship certificate)",
+        "applied to renounce or resume Canadian citizenship, or",
+        "applied for a search of citizenship records"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Step 2 – Gather your documents",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "You may need documents related to your application, including 1 or more of these:"
+      ],
+      "bullets": [
+        "a copy of your application",
+        "your fee receipts",
+        "any letter or official document we issued to you"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Step 3 – Change your address",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Use the service to tell us about your change of address.",
+        "If you have an immigration application in process and a representative on file (paid or unpaid), the mailing address in your file will be your representative’s address.",
+        "Go to the Change of address service"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If you can’t use the Change of address service",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Use the web form if you can’t use the Change of address service. Follow the instructions and include all the details we ask for."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If you’re in the United States",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Immigration application",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Contact the Canadian visa office for your region to change your address."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Citizenship application",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Use the web form to tell us your new address. This includes applications"
+      ],
+      "bullets": [
+        "to become a Canadian citizen",
+        "for a citizenship certificate (proof of citizenship)",
+        "for search of citizenship records",
+        "to renounce (give up) your Canadian citizenship"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Refugee and asylum application",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Send your change of address to the Backlog Reduction Office in Vancouver if you applied for"
+      ],
+      "bullets": [
+        "a pre-removal risk assessment, or",
+        "permanent residence based on humanitarian and compassionate grounds"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "If you’re outside Canada and the United States",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Immigration application",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Contact the Canadian visa office for your region to change your address."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Citizenship application",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Refugee and asylum application",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Send your change of address to the Backlog Reduction Office in Vancouver if you applied for"
+      ],
+      "bullets": [
+        "a pre-removal risk assessment",
+        "permanent residence based on humanitarian and compassionate grounds"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://travel.gc.ca/assistance/embassies-consulates",
+    "https://secure.cic.gc.ca/ClientContact/en/Application/Form/70",
+    "https://secure.cic.gc.ca/enquiries-renseignements/canada-case-cas-eng.aspx",
+    "https://services3.cic.gc.ca/ecas/introduction.do?app=coanotify&lang=en",
+    "https://services3.cic.gc.ca/ecas/security.do?app=coa&lang=en",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/offices/international-visa-offices.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/web-form.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/change-address.html#inside",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/change-address.html#insideUs",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/change-address.html#mail",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/change-address.html#online",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/change-address.html#outside",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/refugees/about-refugee-system/how-system-works/backlog-reduction-offices/open.html"
+  ]
+}

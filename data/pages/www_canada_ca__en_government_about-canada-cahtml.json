@@ -1,0 +1,92 @@
+{
+  "page_title": "About Canada.ca - Canada.ca",
+  "url": "https://www.canada.ca/en/government/about-canada-ca.html",
+  "h1": "About Canada.ca",
+  "headings": {
+    "h2": [
+      "Most requested",
+      "Designing and improving Canada.ca",
+      "Page details"
+    ],
+    "h3": [
+      "Designing for Canada.ca",
+      "Canada.ca analytics",
+      "Government of Canada contacts"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Most requested",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Page analytics tool",
+        "Top tasks for Canada.ca",
+        "Recent activity on Canada.ca",
+        "Canada.ca specifications",
+        "Template and pattern library for Canada.ca"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Designing and improving Canada.ca",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Designing for Canada.ca",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Canada.ca Specifications, content style guide, information architecture and findability, continuous improvement, blog and research summaries"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Canada.ca analytics",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Data on how people are interacting with the Government of Canada online"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Government of Canada contacts",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Find contacts by department or program, most frequent contacts"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://design.canada.ca/about/top-tasks-for-canada-ca.html",
+    "https://design.canada.ca/index.html",
+    "https://design.canada.ca/pattern-library.html",
+    "https://design.canada.ca/specifications.html",
+    "https://performance.alpha.canada.ca/",
+    "https://www.canada.ca/en/analytics.html",
+    "https://www.canada.ca/en/analytics/recent-activity.html",
+    "https://www.canada.ca/en/contact.html"
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "page_title": "Santé - Canada.ca",
+  "url": "https://www.canada.ca/fr/services/sante.html",
+  "h1": "Santé",
+  "headings": {
+    "h2": [
+      "En demande",
+      "Services and information",
+      "En vedette",
+      "Dans les médias sociaux",
+      "Détails de la page"
+    ],
+    "h3": [
+      "Aliments et nutrition",
+      "Médicaments et produits de santé",
+      "Vaccins et immunisation",
+      "Maladies et affections",
+      "Système et services de santé",
+      "Sécurité des produits",
+      "Vie saine",
+      "Sécurité et risque pour la santé",
+      "Sciences de la santé, recherche et données",
+      "Santé des Autochtones",
+      "Signaler un problème lié à la santé ou à la sécurité",
+      "Renouvelez votre couverture du RCSD",
+      "Préparez-vous aux épisodes de feux de forêt"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "En demande",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Régime canadien de soins dentaires",
+        "Rappels et avis de sécurité",
+        "Guide alimentaire canadien",
+        "Autisme"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Aliments et nutrition",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Guide alimentaire canadien, étiquettes, recherche nutritionnelle, rappels et normes de salubrité, saine alimentation, aliments supplémentés"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Médicaments et produits de santé",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Drogues et médicaments, licences, produits de santé naturels, effets secondaires, rappels et plaintes, produits d’autosoins"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Vaccins et immunisation",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "COVID-19, nourrissons, enfants, adultes, grossesse, voyage, maladies évitables par la vaccination, sécurité et effets secondaires"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Maladies et affections",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Symptômes, risques et comment prévenir, traiter et gérer les maladies"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Système et services de santé",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Cartes de santé, système de santé, financement et formation"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sécurité des produits",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Produits de consommation et cosmétiques, rappels et alertes, sécurité chimique, produits antiparasitaires"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Vie saine",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Santé mentale, être actif, consommation de substances, tabagisme, vapotage et tabac, santé et environnement, grossesse, santé des nourrissons, des enfants et des jeunes, vieillissement, santé de la bouche et des dents"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sécurité et risque pour la santé",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Rappels et avis de sécurité, santé et sécurité au travail, avis de santé publique, sécurité à domicile, biosécurité et biosûreté, radiation, violence et abus, préparation aux urgences"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sciences de la santé, recherche et données",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Sciences de la santé, la recherche, les données, le contrôle et la surveillance, ainsi que les déterminants de la santé"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Santé des Autochtones",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Services de santé, services de santé non assures (SSNA), carrières, consommation de drogues et de substances, santé environnementale, sécurité alimentaire, grossesse"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Signaler un problème lié à la santé ou à la sécurité",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Signaler les problèmes de santé ou de sécurité lié aux aliments, instruments médicaux, médicaments, produits de consommation, cannabis, produits de santé naturels, pesticides, véhicules, pneus et sièges d'auto pour enfants"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "En vedette",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Renouvelez votre couverture du RCSD",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Les membres du Régime canadien de soins dentaires ont jusqu'au 1er juin 2026 pour renouveler leur couverture. En savoir plus."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Préparez-vous aux épisodes de feux de forêt",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Sachez quoi faire avant l’arrivée de la fumée des feux de forêt."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Dans les médias sociaux",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Facebook: Canadiens en santé",
+        "X: X",
+        "Youtube: Canadiens en santé",
+        "Instagram: canensante",
+        "LinkedIn: LinkedIn"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://fr-fr.facebook.com/CANenSante",
+    "https://guide-alimentaire.canada.ca/fr/",
+    "https://recalls-rappels.canada.ca/fr",
+    "https://twitter.com/ACSP_Canada",
+    "https://twitter.com/gouvcansante",
+    "https://www.canada.ca/fr/sante-publique/services/immunisation-vaccins.html",
+    "https://www.canada.ca/fr/sante-publique/services/maladies.html",
+    "https://www.canada.ca/fr/sante-publique/services/maladies/trouble-spectre-autistique-tsa.html",
+    "https://www.canada.ca/fr/services/prestations/dentaire/regime-soins-dentaires.html",
+    "https://www.canada.ca/fr/services/sante.html#linkedin",
+    "https://www.canada.ca/fr/services/sante.html#twitter",
+    "https://www.canada.ca/fr/services/sante/aliments-et-nutrition.html",
+    "https://www.canada.ca/fr/services/sante/medicaments-et-produits-sante.html",
+    "https://www.canada.ca/fr/services/sante/science-recherche-et-donnees.html",
+    "https://www.canada.ca/fr/services/sante/securite-et-risque-pour-sante.html",
+    "https://www.canada.ca/fr/services/sante/securite-produits.html",
+    "https://www.canada.ca/fr/services/sante/signaler-probleme-lie-sante-ou-securite.html",
+    "https://www.canada.ca/fr/services/sante/systeme-et-services-sante.html",
+    "https://www.canada.ca/fr/services/sante/vie-saine.html",
+    "https://www.canada.ca/fr/services/sante/vie-saine/environnement/qualite-air/fumee-feux-foret/preparez-vous-episodes.html",
+    "https://www.instagram.com/CANensante/",
+    "https://www.linkedin.com/company/health-canada/",
+    "https://www.linkedin.com/company/public-health-agency-of-canada/",
+    "https://www.sac-isc.gc.ca/fra/1569861171996/1569861324236",
+    "https://www.youtube.com/user/canensante"
+  ]
+}

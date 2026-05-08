@@ -1,0 +1,51 @@
+{
+  "page_title": "Get a job offer - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/caregivers/home-care-worker-immigration-pilots/child-care-home-support/job-offer.html",
+  "h1": "Get a job offer",
+  "headings": {
+    "h2": [
+      "Employer form",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Employer form",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "Your employer must complete, sign and give you the employment information form, so you can include it in your application.",
+        "Use the correct form based on your employer:",
+        "Your employer must sign this form, either digitally or by hand, and you’ll upload it as part of your online application, along with your job offer.",
+        "We may send you a letter to give to your employer, asking them to send us extra proof that the job is genuine and the employer is eligible. You’ll receive instructions on how your employer can send us this information."
+      ],
+      "bullets": [
+        "Individual employers (private households): Individual Employers (IMM 0267) (opens in a new tab)",
+        "Business (or non-profit employers): Business Employers (IMM 0268) (opens in a new tab)"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://noc.esdc.gc.ca/?GoCTemplateCulture=en-CA",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/web-form.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/pausing-home-care-worker-immigration-pilots-application-intake.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm0267.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm0268.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/caregivers/home-care-worker-immigration-pilots/employers.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employers-non-compliant.html",
+    "https://www.jobbank.gc.ca/trend-analysis/search-wages"
+  ]
+}

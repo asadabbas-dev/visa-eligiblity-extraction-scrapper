@@ -1,0 +1,156 @@
+{
+  "page_title": "Services de police, justice et urgences - Canada.ca",
+  "url": "https://www.canada.ca/fr/services/police.html",
+  "h1": "Services de police, justice et urgences",
+  "headings": {
+    "h2": [
+      "Dans les médias sociaux",
+      "En demande",
+      "Services et renseignements",
+      "Détails de la page"
+    ],
+    "h3": [
+      "Services de police",
+      "Justice",
+      "Urgences",
+      "Services correctionnels",
+      "Libération conditionnelle, suspension du casier, radiation et clémence",
+      "Victimes d'actes criminels",
+      "Statistiques sur la criminalité et la justice"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Dans les médias sociaux",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Youtube : La Sécurité au Canada"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "En demande",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Interventions lors de feux de forêts",
+        "Demander ou renouveler un permis d'arme à feu",
+        "Obtenir une attestation de vérification de casier judiciaire",
+        "Demander la suspension d’un casier judiciaire",
+        "Que faire durant une urgence",
+        "Connaissez la loi sur la conduite avec facultés affaiblies",
+        "Aidez à résoudre un crime"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services et renseignements",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Services de police",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Apprenez comment nous assurons la protection des Canadiens."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Justice",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Consultez des renseignements sur le droit de la famille, le système de justice canadien pour les jeunes, la révision des condamnations au criminel, et l'extradition et l'entraide juridique."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Urgences",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Les Canadiens et les collectivités sont invités à se renseigner sur les risques et les dangers particuliers à leurs régions ainsi que sur les mesures à prendre pour réduire le plus possible les risques et les répercussions d'un désastre, et pour se rétablir après un incident."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Services correctionnels",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Apprenez-en plus sur le système correctionnel du Canada et sur la façon dont nous contribuons à la réadaptation et à la réintégration sécuritaire dans la collectivité des délinquants purgeant une peine de deux ans ou plus."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Libération conditionnelle, suspension du casier, radiation et clémence",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Trouvez des renseignements sur la libération conditionnelle, sur la façon de présenter une demande de suspension du casier ou d’ordonnance de radiation et sur l'exercice de la clémence (prérogative royale de clémence) au Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Victimes d'actes criminels",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Accéder aux ressources et services offerts aux victimes, et aux renseignements sur le système correctionnel et de libération conditionnelle concernant les délinquants sous responsabilité fédérale."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Statistiques sur la criminalité et la justice",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "Données, outils et rapports qui fournissent des renseignements au sujet des statistiques sur la criminalité et la justice au Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.rcmp-grc.gc.ca/cfp-pcaf/online_en-ligne/index-fra.htm",
+    "http://www.rcmp-grc.gc.ca/fr/verification-casier-judiciaire",
+    "http://www.youtube.com/channel/UCJbPEsZButMyyA2DM90fgzw",
+    "https://www.canada.ca/fr/commission-liberations-conditionnelles/services/suspension-du-casier/guide-et-formulaires-de-demande.html",
+    "https://www.canada.ca/fr/securite-publique-canada/campagnes/feux-de-foret.html?utm_source=psweb&utm_medium=vedette&utm_campaign=feuxforets",
+    "https://www.canada.ca/fr/services/police/correctionnels.html",
+    "https://www.canada.ca/fr/services/police/justice.html",
+    "https://www.canada.ca/fr/services/police/liberationconditionnelle.html",
+    "https://www.canada.ca/fr/services/police/servicespolice.html",
+    "https://www.canada.ca/fr/services/police/servicespolice/aider-resoudre-un-crime.html",
+    "https://www.canada.ca/fr/services/police/servicespolice/securite-communautaire-police/conduite-facultes-affaiblies.html",
+    "https://www.canada.ca/fr/services/police/urgences.html",
+    "https://www.canada.ca/fr/services/police/victimes.html",
+    "https://www.preparez-vous.gc.ca/cnt/hzd/drng-fr.aspx",
+    "https://www.statcan.gc.ca/fr/sujets-debut/crime_et_justice"
+  ]
+}

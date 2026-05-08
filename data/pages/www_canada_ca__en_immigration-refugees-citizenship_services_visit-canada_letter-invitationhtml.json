@@ -1,0 +1,107 @@
+{
+  "page_title": "Letter of invitation for visitors to Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/letter-invitation.html",
+  "h1": "Letter of invitation for visitors to Canada",
+  "headings": {
+    "h2": [
+      "Information for the person writing the letter of invitation",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Information for the person writing the letter of invitation",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "Writing a letter of invitation doesn’t mean you’re legally responsible for the visitor once they enter Canada. You should still write the letter in good faith. You must tell the truth and plan to keep the promises you make in the letter.",
+        "Send your letter to the person you’re inviting to Canada. The person must then include this letter when they apply for a visitor visa (also called a temporary resident visa).",
+        "You should include this information about the person you are inviting :",
+        "You should include this information about yourself :",
+        "This information is only a guide. You must write the letter of invitation yourself."
+      ],
+      "bullets": [
+        "complete name",
+        "date of birth",
+        "address and telephone number",
+        "your relationship to the person",
+        "the purpose of the trip",
+        "how long the person plans to stay in Canada",
+        "where the person will stay, and how he or she will pay for things",
+        "when the person plans to leave Canada",
+        "address and telephone number in Canada",
+        "job title",
+        "whether you are a Canadian citizen or a permanent resident",
+        "a photocopy of a document proving your status in Canada, such as a Canadian birth certificate, if you were born in Canada a Canadian citizenship card, if you are a naturalized citizen a copy of your PR card or your IMM 1000 proof of landing (if you are a permanent resident) a Secure Certificate of Indian Status or Certificate of Indian Status (status card)",
+        "a Canadian birth certificate, if you were born in Canada",
+        "a Canadian citizenship card, if you are a naturalized citizen",
+        "a copy of your PR card or your IMM 1000 proof of landing (if you are a permanent resident)",
+        "a Secure Certificate of Indian Status or Certificate of Indian Status (status card)",
+        "details of your family, such as names and dates of birth of your spouse and dependants"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "proof applicant will leave Canada"
+  ],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "Information for the person writing the letter of invitation",
+      "level": "h2",
+      "items": [
+        "Writing a letter of invitation doesn’t mean you’re legally responsible for the visitor once they enter Canada. You should still write the letter in good faith. You must tell the truth and plan to keep the promises you make in the letter.",
+        "Send your letter to the person you’re inviting to Canada. The person must then include this letter when they apply for a visitor visa (also called a temporary resident visa).",
+        "You should include this information about the person you are inviting :",
+        "You should include this information about yourself :",
+        "This information is only a guide. You must write the letter of invitation yourself."
+      ],
+      "bullets": [
+        "complete name",
+        "date of birth",
+        "address and telephone number",
+        "your relationship to the person",
+        "the purpose of the trip",
+        "how long the person plans to stay in Canada",
+        "where the person will stay, and how he or she will pay for things",
+        "when the person plans to leave Canada",
+        "address and telephone number in Canada",
+        "job title",
+        "whether you are a Canadian citizen or a permanent resident",
+        "a photocopy of a document proving your status in Canada, such as a Canadian birth certificate, if you were born in Canada a Canadian citizenship card, if you are a naturalized citizen a copy of your PR card or your IMM 1000 proof of landing (if you are a permanent resident) a Secure Certificate of Indian Status or Certificate of Indian Status (status card)",
+        "a Canadian birth certificate, if you were born in Canada",
+        "a Canadian citizenship card, if you are a naturalized citizen",
+        "a copy of your PR card or your IMM 1000 proof of landing (if you are a permanent resident)",
+        "a Secure Certificate of Indian Status or Certificate of Indian Status (status card)",
+        "details of your family, such as names and dates of birth of your spouse and dependants"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=431&top=16"
+  ]
+}

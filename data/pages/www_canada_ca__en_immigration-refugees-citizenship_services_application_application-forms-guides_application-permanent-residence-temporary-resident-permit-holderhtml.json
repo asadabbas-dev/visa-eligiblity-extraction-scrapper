@@ -1,0 +1,189 @@
+{
+  "page_title": "Application for Permanent Residence: Temporary Resident Permit Holder - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/application-permanent-residence-temporary-resident-permit-holder.html",
+  "h1": "Application for Permanent Residence: Temporary Resident Permit Holder",
+  "headings": {
+    "h2": [
+      "How to apply online",
+      "Pay your fees online",
+      "Submit your online application",
+      "Features",
+      "Page details"
+    ],
+    "h3": [
+      "You need to apply online",
+      "You must fill out these digital forms online",
+      "You must also fill out these PDF forms",
+      "Using an immigration representative",
+      "Photo specifications",
+      "Technical issues"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "How to apply online",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "Sign in or create a Permanent residence online application portal account (opens in a new tab) .",
+        "Refer to the Instruction Guide [IMM 5527] for important information about your eligibility, fees and how to apply."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "You need to apply online",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "As of October 14, 2022, it is now mandatory to apply online.",
+        "If you can’t apply online, and require accommodations, including for a disability, you can ask for the application in another format (paper, braille or large print)."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "You must fill out these digital forms online",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "You’ll fill out these digital forms online (for yourself, and any family members 18 or older)"
+      ],
+      "bullets": [
+        "Generic Application Form for Canada (IMM 0008) (opens in a new tab)",
+        "Schedule A – Background/Declaration (IMM 5669) (opens in a new tab)",
+        "Additional Family Information (IMM 5406) (opens in a new tab)"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "You must also fill out these PDF forms",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Using an immigration representative",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "If you want to appoint someone to do business with us on your behalf, you must",
+        "An immigration representative (an immigration consultant or lawyer) can give you advice and help you with your application for a fee. But they can’t",
+        "A representative can fill out forms and communicate with us on your behalf through their own account. They can also",
+        "After you read the declaration, you must be the one who types your name . This is the legal requirement for your application to be considered “signed,” according to Canada’s immigration law.",
+        "If you want to allow us to release information from your application to someone other than yourself who will not act as your representative you must"
+      ],
+      "bullets": [
+        "submit a Use of a Representative [IMM 5476] (opens in a new tab) form",
+        "sign it digitally or by hand and get your immigration representative to do so also",
+        "upload it with your application",
+        "open a portal account on your behalf",
+        "electronically sign the application for you",
+        "sign into the portal using your username and password",
+        "help you prepare the documents you need to upload",
+        "answer questions about the forms",
+        "submit an Authority to Release Personal Information to a Designated Individual [IMM 5475] (opens in a new tab) form",
+        "complete the form and sign it (digitally or by hand)",
+        "get your designated individual to sign it as well"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Photo specifications",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "You need one photo for each person on your application.",
+        "Follow the instructions in the online application to scan and upload both sides of your photo."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Technical issues",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "If you’re having technical issues applying, contact us using the web form",
+        "If you need to upload a number of images, find out how to combine them into 1 document ."
+      ],
+      "bullets": [
+        "under type of application/enquiry , choose technical difficulties from the drop-down menu",
+        "in the text box, specify the program you’re applying under",
+        "upload screenshots from your account that show us the page where you’re having problems the error message(s) you get",
+        "the page where you’re having problems",
+        "the error message(s) you get"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Pay your fees online",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Find out how to pay your fees ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Submit your online application",
+      "heading_level": "h2",
+      "category": "supporting_documents",
+      "items": [
+        "Before you submit your application, make sure you:",
+        "If your application is incomplete, we’ll reject it. You’ll have to fix any errors and then re-submit it."
+      ],
+      "bullets": [
+        "answer all questions",
+        "electronically sign your application (type your full name exactly as shown on your passport)",
+        "include your processing fee receipt",
+        "upload all the supporting documents"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=660&top=18",
+    "http://www.ircc.canada.ca/english/helpcentre/results-by-topic.asp?st=4.2",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1160&top=23",
+    "https://ircc.canada.ca/english/helpcentre/index-featured-can.asp#tab1",
+    "https://ircc.canada.ca/english/information/fees/index.asp",
+    "https://prson-srpel.apps.cic.gc.ca/en/login",
+    "https://secure.cic.gc.ca/enquiries-renseignements/canada-case-cas-eng.aspx",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/video/save-time-send-complete-application.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5527-application-permanent-residence-temporary-resident-permit-holder.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm0008.html#online",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5406.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5475.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5476.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5528.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5669.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/how-to-apply-online.html#alternative",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/pr-representatives-online.html"
+  ]
+}

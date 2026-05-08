@@ -1,0 +1,81 @@
+{
+  "page_title": "International Experience Canada: Who can apply - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/eligibility.html",
+  "h1": "Who can apply",
+  "headings": {
+    "h2": [
+      "Who can participate",
+      "Page details"
+    ],
+    "h3": [
+      "You can’t participate with a refugee travel document",
+      "Get more support with recognized organizations",
+      "Canadians ages 18-35"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Who can participate",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "To participate in International Experience Canada (IEC), your country or territory of citizenship must have a youth mobility agreement (YMA) with Canada.",
+        "Some countries only allow you to participate once. Others allow you to participate twice, but in different categories. Because each country is different, you should check your country’s eligibility requirements."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "You can’t participate with a refugee travel document",
+      "heading_level": "h3",
+      "category": "travel_requirements",
+      "items": [
+        "You’re not eligible to participate in IEC if you hold a refugee travel document from any country ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Get more support with recognized organizations",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Looking for more support before or during your participation? A recognized organization (RO) might be able to help you work and travel through IEC. Learn more about working and travelling in Canada using an RO ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Canadians ages 18-35",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Find out how to participate in International Experience Canada to work and travel abroad ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadians/international-experience-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/find-national-occupation-code.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/education/school-types/post-secondary.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/eligibility/eligibility-by-country.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/iec/recognized-organizations.html"
+  ]
+}

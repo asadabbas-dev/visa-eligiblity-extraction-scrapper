@@ -1,0 +1,239 @@
+{
+  "page_title": "Minor children travelling to Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/minor-children-travelling-canada.html",
+  "h1": "Minor children travelling to Canada",
+  "headings": {
+    "h2": [
+      "Minor children entering Canada as a visitor",
+      "Minor children entering Canada to study",
+      "eTA for family members",
+      "Inadmissibility",
+      "Top questions about visiting Canada",
+      "Features",
+      "Page details"
+    ],
+    "h3": [
+      "If a minor child is travelling alone",
+      "If a minor child is travelling with one parent only",
+      "If a minor child is travelling with a legal guardian or adoptive parents",
+      "If a minor child is travelling with a person other than their parents or legal guardians"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Minor children entering Canada as a visitor",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If a minor child is travelling alone",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If a minor child is travelling with one parent only",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If a minor child is travelling with a legal guardian or adoptive parents",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If a minor child is travelling with a person other than their parents or legal guardians",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Minor children entering Canada to study",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "eTA for family members",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Inadmissibility",
+      "heading_level": "h2",
+      "category": "inadmissibility",
+      "items": [
+        "Some people are inadmissible—they are not allowed to come to Canada. Several things can make you inadmissible, including involvement in criminal activity, in human rights violations or in organized crime.",
+        "You can also be inadmissible for security, health or financial reasons. Find out more about inadmissibility ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Top questions about visiting Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "no criminal convictions"
+  ],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "Minor children entering Canada as a visitor",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "If a minor child is travelling alone",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Minor children entering Canada as a visitor"
+        },
+        {
+          "heading": "If a minor child is travelling with one parent only",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Minor children entering Canada as a visitor"
+        },
+        {
+          "heading": "If a minor child is travelling with a legal guardian or adoptive parents",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Minor children entering Canada as a visitor"
+        },
+        {
+          "heading": "If a minor child is travelling with a person other than their parents or legal guardians",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Minor children entering Canada as a visitor"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Minor children entering Canada to study",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "eTA for family members",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Inadmissibility",
+      "level": "h2",
+      "items": [
+        "Some people are inadmissible—they are not allowed to come to Canada. Several things can make you inadmissible, including involvement in criminal activity, in human rights violations or in organized crime.",
+        "You can also be inadmissible for security, health or financial reasons. Find out more about inadmissibility ."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Top questions about visiting Canada",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Features",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1016&top=16",
+    "http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=417&top=16",
+    "http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=421&top=16",
+    "http://www.cic.gc.ca/english/helpcentre/results-by-topic.asp?top=16",
+    "https://ircc.canada.ca/english/visit/visas.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/video/electronic-travel-authorization-what-you-need-know.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/minor-children.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/letter-invitation.html"
+  ]
+}

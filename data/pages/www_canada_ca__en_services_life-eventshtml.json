@@ -1,0 +1,133 @@
+{
+  "page_title": "Manage life events - Canada.ca",
+  "url": "https://www.canada.ca/en/services/life-events.html",
+  "h1": "Manage life events",
+  "headings": {
+    "h2": [
+      "Most requested",
+      "Services and information",
+      "Featured",
+      "Page details"
+    ],
+    "h3": [
+      "Welcoming a child",
+      "Learn and plan for your retirement",
+      "What to do when someone dies",
+      "Benefits Finder",
+      "Life events and taxes"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Most requested",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [
+        "Sign in to a Government of Canada account",
+        "CPP payment amounts",
+        "Benefits payment dates",
+        "Change of address",
+        "Canadian Retirement Income Calculator",
+        "Prepare tax returns for someone who died",
+        "Get a birth certificate",
+        "Apply for a SIN"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Welcoming a child",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Becoming a parent, financial support, leave options, register your child's birth, childcare, education savings, health and wellness."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Learn and plan for your retirement",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Retirement options and tips, public pensions, Canada Pension Plan (CPP), Old Age Security (OAS), Guaranteed Income Supplement (GIS), when to retire."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "What to do when someone dies",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "What to do, who to inform, preparing for end of life, representing someone who died, apply or make changes to benefits."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Benefits Finder",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Find federal programs and benefits like financial aid, healthcare, and other government supports."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Featured",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Life events and taxes",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "When life events meet taxes, learn to navigate with confidence."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "sufficient funds"
+  ],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/employment-social-development/services/sin.html",
+    "https://www.canada.ca/en/government/change-address.html",
+    "https://www.canada.ca/en/government/sign-in-online-account.html",
+    "https://www.canada.ca/en/revenue-agency/campaigns/life-events.html",
+    "https://www.canada.ca/en/revenue-agency/services/tax/individuals/life-events/doing-taxes-someone-died.html",
+    "https://www.canada.ca/en/services/benefits/calendar.html",
+    "https://www.canada.ca/en/services/benefits/finder.html",
+    "https://www.canada.ca/en/services/benefits/publicpensions/cpp/payment-amounts.html",
+    "https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-income-calculator.html",
+    "https://www.canada.ca/en/services/life-events/child.html",
+    "https://www.canada.ca/en/services/life-events/child/register-birth.html",
+    "https://www.canada.ca/en/services/life-events/death.html",
+    "https://www.canada.ca/en/services/life-events/retirement.html"
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "page_title": "Generic Application Form for Canada (IMM 0008) - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm0008.html",
+  "h1": "Generic Application Form for Canada (IMM 0008)",
+  "headings": {
+    "h2": [
+      "Generic Application Form for Canada (IMM 0008)",
+      "Download the form",
+      "Page details"
+    ],
+    "h3": [
+      "Who must fill out this application form?",
+      "Completing the form",
+      "Application Details",
+      "Personal Details",
+      "Contact Information",
+      "Email address",
+      "Passport",
+      "National Identity Document",
+      "Education/Occupation Details",
+      "Language Details",
+      "Dependants",
+      "Consent and declaration of applicant",
+      "Generic Application Form for Canada (IMM 0008)"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Generic Application Form for Canada (IMM 0008)",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Who must fill out this application form?",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "This form must be completed by :"
+      ],
+      "bullets": [
+        "you, the principal applicant"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Completing the form",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "You’ll fill out and submit the Generic Application Form for Canada (IMM 0008) online. You don’t need to print and sign by hand. Please follow the instructions below to ensure the form is properly completed.",
+        "You must answer all questions on this application form unless otherwise indicated.",
+        "You also have the option of saving your form and completing it later.",
+        "Read and follow the steps below to help you fill out the form."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Application Details",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Personal Details",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Contact Information",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Email address",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Use this format: name@provider.net",
+        "By entering your email address, you authorize IRCC to transmit your file and personal information to this specific email."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Passport",
+      "heading_level": "h3",
+      "category": "travel_requirements",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "National Identity Document",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Education/Occupation Details",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Language Details",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Dependants",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Consent and declaration of applicant",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Download the form",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Generic Application Form for Canada (IMM 0008)",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "This form must be completed by :",
+        "You must answer all questions on this application form unless otherwise indicated.",
+        "Download and fill out the application form on a computer. The Generic Application Form for Canada [IMM 0008] must be validated with 2D barcodes.",
+        "Make sure that",
+        "If the 2D barcodes are missing or can’t be machine read for any reason, the application will be returned to you without being processed.",
+        "You also have the option of saving your form and completing it later.",
+        "Read and follow the steps below to help you fill out the form."
+      ],
+      "bullets": [
+        "you, the principal applicant",
+        "you properly validate your answers when filling out this form",
+        "the 2D barcodes are properly generated"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "pdf_links": [
+    "https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/imm0008/01-03-2025/imm0008e.pdf"
+  ],
+  "related_links": [
+    "https://ircc.canada.ca/english/helpcentre/glossary.asp#family_members",
+    "https://ircc.canada.ca/english/helpcentre/glossary.asp#locked_in",
+    "https://ircc.canada.ca/english/immigrate/sponsor/aod-tool.asp",
+    "https://prson-srpel.apps.cic.gc.ca/en/login",
+    "https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/imm0008/01-03-2025/imm0008e.pdf",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm0008-dep.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm0008.html#details",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm0008.html#etat",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5476.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/irm0002.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-requirements/language-testing.html",
+    "https://www.canada.ca/en/services/immigration-citizenship/helpcentre/glossary.html#locked_in",
+    "https://www.quebec.ca/gouvernement/ministeres-organismes/immigration"
+  ]
+}

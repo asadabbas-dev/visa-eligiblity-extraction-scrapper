@@ -1,0 +1,274 @@
+{
+  "page_title": "Immigration et citoyenneté - Canada.ca",
+  "url": "https://www.canada.ca/fr/services/immigration-citoyennete.html",
+  "h1": "Immigration et citoyenneté",
+  "headings": {
+    "h2": [
+      "Votre demande à IRCC",
+      "Visas, permis et immigration",
+      "Citoyenneté et établissement au Canada",
+      "Fraude et interdiction de territoire",
+      "En vedette",
+      "Nous suivre:",
+      "Détails de la page"
+    ],
+    "h3": [
+      "Visiter le Canada",
+      "Vivre au Canada de façon permanente",
+      "Permis de travail temporaires",
+      "Permis d'études",
+      "Réfugiés et demandes d’asile",
+      "Citoyenneté canadienne",
+      "Carte de résident permanent (RP)",
+      "Passeports",
+      "S’établir au Canada",
+      "Adoption internationale",
+      "Fraude et arnaques",
+      "Interdiction de territoire, application de la loi et appels",
+      "Entrée express",
+      "Le Recensement de 2026 est en cours",
+      "Niveaux d’immigration du Canada"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Votre demande à IRCC",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Visas, permis et immigration",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Visiter le Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Autorisation de voyage électronique (AVE), visa de visiteur, prolongation du séjour"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Vivre au Canada de façon permanente",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Entrée express, parrainage, résidence permanente (RP)"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Permis de travail temporaires",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Permis de travail postdiplôme (PTPD), Expérience internationale Canada (EIC)"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Permis d'études",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Établissements d’enseignement désignés, travail pendant les études"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Réfugiés et demandes d’asile",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Demande d’asile, réinstallation à titre de réfugié"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Citoyenneté et établissement au Canada",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Citoyenneté canadienne",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Examen et cérémonie de citoyenneté, preuve de citoyenneté"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Carte de résident permanent (RP)",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Renouveler ou remplacer une carte RP perdue, endommagée ou expirée"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Passeports",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Passeports pour adulte ou enfant, photos, autres documents de voyage"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "S’établir au Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Services gratuits, recherche d’emploi, avantages sociaux et impôts pour les nouveaux arrivants"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Adoption internationale",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Citoyenneté ou résidence permanente pour votre enfant adopté"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Fraude et interdiction de territoire",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Fraude et arnaques",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Vérifier si votre représentant est autorisé, signaler une fraude ou une escroquerie"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Interdiction de territoire, application de la loi et appels",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Vérifier si vous êtes interdit de territoire, surmonter les condamnations pénales"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "En vedette",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Entrée express",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Entrée express offre aux travailleurs qualifiés un moyen plus rapide de s’établir au Canada"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Le Recensement de 2026 est en cours",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Accédez à des renseignements pour vous aider à remplir votre questionnaire du recensement dès aujourd’hui"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Niveaux d’immigration du Canada",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Soutenir notre économie en rétablissant l’équilibre et le contrôle de notre système d’immigration"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Nous suivre:",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Facebook",
+        "X",
+        "Youtube",
+        "Linkedin",
+        "Instagram"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/explorer-programmes/index.asp",
+    "https://twitter.com/CitImmCanFR",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/organisation/mandat/initiatives-ministerielles/niveaux.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/canadiens/adopter-enfant-autre-pays.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/citoyennete-canadienne.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/demande.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/etudier-canada.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/immigrer-canada/entree-express.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/passeports-canadiens.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/proteger-fraude.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/refugies.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/residents-permanents.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/setablir-canada.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/travailler-canada.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada.html",
+    "https://www.canada.ca/fr/services/immigration-citoyennete/application-loi-infractions.html",
+    "https://www.facebook.com/CitImmCanFR",
+    "https://www.instagram.com/citimmcanFR/",
+    "https://www.linkedin.com/company/citizenship-and-immigration-canada/posts/?feedView=all",
+    "https://www.recensement.gc.ca/fr/index?utm_source=ircc-web-tile&utm_medium=vurl&utm_campaign=statcan-statcan-2026-genpop-collection-26-27&utm_content=federal-partners-fr-census-wrapper",
+    "https://www.youtube.com/CitImmCanada"
+  ]
+}

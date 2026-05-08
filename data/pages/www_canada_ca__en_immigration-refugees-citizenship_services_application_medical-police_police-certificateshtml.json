@@ -1,0 +1,27 @@
+{
+  "page_title": "Police certificate - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates.html",
+  "h1": "Police certificate",
+  "headings": {
+    "h2": [
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [
+    "police certificates"
+  ],
+  "pdf_links": [],
+  "related_links": []
+}

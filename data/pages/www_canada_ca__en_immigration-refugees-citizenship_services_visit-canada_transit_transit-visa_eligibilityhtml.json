@@ -1,0 +1,203 @@
+{
+  "page_title": "Transit visa: Who can apply - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/eligibility.html",
+  "h1": "Who can apply",
+  "headings": {
+    "h2": [
+      "Eligibility",
+      "Carry valid travel documents",
+      "Some people aren’t allowed to enter Canada",
+      "Page details"
+    ],
+    "h3": [
+      "Travelling to or from the United States",
+      "Who can’t apply for a transit visa"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Eligibility",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "You need a transit visa if you’re from a visa-required country and:"
+      ],
+      "bullets": [
+        "your international flight stops at a Canadian airport on its way to another country",
+        "you’ll be connecting between 2 international flights at one or more Canadian airports",
+        "your transit through Canada will last 48 hours or less",
+        "you don’t have a valid visitor visa",
+        "you’re not eligible for an eTA ."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Travelling to or from the United States",
+      "heading_level": "h3",
+      "category": "travel_requirements",
+      "items": [
+        "You may be able to transit without a visa if you hold a passport from one of the countries below and you meet certain conditions:",
+        "Find out if you can transit without a visa ."
+      ],
+      "bullets": [
+        "China",
+        "Indonesia",
+        "Philippines",
+        "Thailand",
+        "Taiwan (holder of passport without an personal identification number)"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Who can’t apply for a transit visa",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Carry valid travel documents",
+      "heading_level": "h2",
+      "category": "travel_requirements",
+      "items": [
+        "When travelling to Canada, you must have a valid passport for yourself and any children travelling with you. Passports are the only reliable and universally accepted identification document for travelling.",
+        "If you don’t have the proper documents with you, you may be:"
+      ],
+      "bullets": [
+        "delayed",
+        "unable to transit through Canada"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Some people aren’t allowed to enter Canada",
+      "heading_level": "h2",
+      "category": "inadmissibility",
+      "items": [
+        "Some people are not admissible to Canada, which means they’re not allowed to enter the country. You can be inadmissible for several reasons, including being involved in:",
+        "You can also be inadmissible for other security, health or financial reasons.",
+        "Find out more about inadmissibility ."
+      ],
+      "bullets": [
+        "criminal activity",
+        "human rights violations",
+        "organized crime"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "no criminal convictions",
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "Eligibility",
+      "level": "h2",
+      "items": [
+        "You need a transit visa if you’re from a visa-required country and:"
+      ],
+      "bullets": [
+        "your international flight stops at a Canadian airport on its way to another country",
+        "you’ll be connecting between 2 international flights at one or more Canadian airports",
+        "your transit through Canada will last 48 hours or less",
+        "you don’t have a valid visitor visa",
+        "you’re not eligible for an eTA ."
+      ],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Travelling to or from the United States",
+          "level": "h3",
+          "items": [
+            "You may be able to transit without a visa if you hold a passport from one of the countries below and you meet certain conditions:",
+            "Find out if you can transit without a visa ."
+          ],
+          "bullets": [
+            "China",
+            "Indonesia",
+            "Philippines",
+            "Thailand",
+            "Taiwan (holder of passport without an personal identification number)"
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Eligibility"
+        },
+        {
+          "heading": "Who can’t apply for a transit visa",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Eligibility"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Carry valid travel documents",
+      "level": "h2",
+      "items": [
+        "When travelling to Canada, you must have a valid passport for yourself and any children travelling with you. Passports are the only reliable and universally accepted identification document for travelling.",
+        "If you don’t have the proper documents with you, you may be:"
+      ],
+      "bullets": [
+        "delayed",
+        "unable to transit through Canada"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Some people aren’t allowed to enter Canada",
+      "level": "h2",
+      "items": [
+        "Some people are not admissible to Canada, which means they’re not allowed to enter the country. You can be inadmissible for several reasons, including being involved in:",
+        "You can also be inadmissible for other security, health or financial reasons.",
+        "Find out more about inadmissibility ."
+      ],
+      "bullets": [
+        "criminal activity",
+        "human rights violations",
+        "organized crime"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/minor-children-travelling-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa.html"
+  ]
+}

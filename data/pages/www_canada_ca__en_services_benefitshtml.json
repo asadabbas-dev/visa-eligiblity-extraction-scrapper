@@ -1,0 +1,241 @@
+{
+  "page_title": "Benefits - Canada.ca",
+  "url": "https://www.canada.ca/en/services/benefits.html",
+  "h1": "Benefits",
+  "headings": {
+    "h2": [
+      "Beware of false information online",
+      "Canada Groceries and Essentials Benefit",
+      "Disruption of Canada Post services – strike paused",
+      "Most requested",
+      "Services and information",
+      "From:",
+      "Page details"
+    ],
+    "h3": [
+      "Employment Insurance benefits and leave",
+      "Canadian Dental Care Plan (CDCP)",
+      "Disability benefits",
+      "Family and caregiving benefits",
+      "Public pensions",
+      "Grants and funding opportunities",
+      "Student aid and education planning",
+      "Housing benefits",
+      "Find benefits and financial support",
+      "Benefits by audience",
+      "What to do when someone dies"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Beware of false information online",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Canada Groceries and Essentials Benefit",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Disruption of Canada Post services – strike paused",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Most requested",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [
+        "Renew your coverage - Canadian Dental Care Plan",
+        "Apply for Employment Insurance (EI)",
+        "Benefit payment dates",
+        "Child and family benefits calculators",
+        "Sign in to an account",
+        "Set up or change direct deposit",
+        "Submit your EI report",
+        "Personal income tax – claim deductions, credits and expenses"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Employment Insurance benefits and leave",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Temporary benefits for workers, sickness, fishing and family-related benefits. How to apply online and submit a report."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Canadian Dental Care Plan (CDCP)",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Apply for the dental plan. Existing members can renew their coverage for the 2026-2027 benefit year from April 15 to June 1, 2026. Check your application status."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Disability benefits",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Canada Disability Benefit, disability pensions and children's benefits, education funding, savings plans, gasoline tax refund program."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Family and caregiving benefits",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Child benefit, dental benefit and GST/HST credit. Maternity, parental and caregiving benefits and leave. Help for the costs of raising people with disabilities."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Public pensions",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Apply for Canada Pension Plan (CPP), Old Age Security (OAS), Guaranteed Income Supplement (GIS), Retirement planning."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Grants and funding opportunities",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Find government funding programs that help support social development, jobs, and training."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Student aid and education planning",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Apply for student aid loans and grants, estimate how much you could receive, plan for your education."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Housing benefits",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Housing tax credits for home renovations, accessibility upgrades, and first-time home buyers. GST/HST new housing rebate. Financing for greener homes."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Find benefits and financial support",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Find the support you need to help with everyday expenses, funding for your business or organization, or personal tax deductions."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Benefits by audience",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "Benefits and programs, including eligibility."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "What to do when someone dies",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "What to do following the loss of a loved one. Documents you need, who to notify, how to cancel benefits and avoid overpayment."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "From:",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Employment and Social Development Canada",
+        "Department of Finance Canada"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "sufficient funds"
+  ],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/department-finance.html",
+    "https://www.canada.ca/en/department-finance/news/2026/02/legislation-passes-to-deliver-new-canada-groceries-and-essentials-benefit.html",
+    "https://www.canada.ca/en/employment-social-development.html",
+    "https://www.canada.ca/en/employment-social-development/corporate/portfolio/service-canada/postal-disruption.html",
+    "https://www.canada.ca/en/employment-social-development/services/funding/programs.html",
+    "https://www.canada.ca/en/government/sign-in-online-account.html",
+    "https://www.canada.ca/en/revenue-agency/corporate/scams-fraud/recognize-scam.html#h5",
+    "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-family-benefits-calculator.html",
+    "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/deductions-credits-expenses.html",
+    "https://www.canada.ca/en/services/benefits/audience.html",
+    "https://www.canada.ca/en/services/benefits/benefits-financial-support.html?new",
+    "https://www.canada.ca/en/services/benefits/calendar.html",
+    "https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html",
+    "https://www.canada.ca/en/services/benefits/dental/dental-care-plan/renew.html",
+    "https://www.canada.ca/en/services/benefits/disability.html",
+    "https://www.canada.ca/en/services/benefits/education.html",
+    "https://www.canada.ca/en/services/benefits/ei.html",
+    "https://www.canada.ca/en/services/benefits/ei/ei-regular-benefit.html",
+    "https://www.canada.ca/en/services/benefits/ei/employment-insurance-reporting.html#Internet-Reporting-Service",
+    "https://www.canada.ca/en/services/benefits/family.html",
+    "https://www.canada.ca/en/services/benefits/housing.html",
+    "https://www.canada.ca/en/services/benefits/publicpensions.html",
+    "https://www.canada.ca/en/services/life-events/death.html",
+    "https://www.canada.ca/en/services/taxes/child-and-family-benefits/top-up-canada-housing-benefit.html",
+    "https://www.tpsgc-pwgsc.gc.ca/recgen/txt/depot-deposit-eng.html"
+  ]
+}

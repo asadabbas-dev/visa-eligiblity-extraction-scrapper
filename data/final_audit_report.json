@@ -1,0 +1,75 @@
+{
+  "system_status": "FAIL",
+  "coverage_percent": 94.44,
+  "confidence_score": 58.17,
+  "missing_critical_concepts": [
+    "marriage_certificate"
+  ],
+  "weak_areas": [
+    "critical concept coverage gaps",
+    "low confidence categories",
+    "relationship integrity below target"
+  ],
+  "verified_concepts": [
+    "bank_statements",
+    "biometrics",
+    "employment_proof",
+    "good_health",
+    "imm5257",
+    "imm5476",
+    "imm5645",
+    "invitation_letter",
+    "leave_canada_after_visit",
+    "medical_documents",
+    "medical_exam",
+    "no_criminal_convictions",
+    "passport",
+    "police_certificates",
+    "proof_of_funds",
+    "proof_of_relationship",
+    "proof_of_ties"
+  ],
+  "relationship_integrity": {
+    "required_relationship_checks": [
+      {
+        "source": "proof_of_funds",
+        "target": "bank_statements",
+        "exists": false
+      },
+      {
+        "source": "visitor_visa",
+        "target": "passport",
+        "exists": false
+      },
+      {
+        "source": "biometrics",
+        "target": "visitor_visa",
+        "exists": false
+      }
+    ],
+    "relationship_integrity_percent": 0.0,
+    "orphan_concepts": [
+      "proof_of_ties"
+    ],
+    "graph_node_count": 16,
+    "graph_edge_count": 35
+  },
+  "hierarchy_integrity": {
+    "hierarchy_pages_percent": 100.0,
+    "h3_parent_inheritance_percent": 100.0,
+    "hierarchy_content_completeness_percent": 59.47,
+    "hierarchy_integrity_percent": 91.89
+  },
+  "recommendations": [
+    "Expand concept variants and section extraction rules for missing concepts.",
+    "Tune confidence scoring and evidence filtering for low-confidence entities.",
+    "Add graph edge rules for required immigration concept relationships."
+  ],
+  "entity_trust_score": 66.12,
+  "confidence_distribution": {
+    "lt_0_5": 23,
+    "0_5_to_0_7": 86,
+    "0_7_to_0_85": 41,
+    "gte_0_85": 0
+  }
+}

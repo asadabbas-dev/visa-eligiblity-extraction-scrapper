@@ -1,0 +1,261 @@
+{
+  "page_title": "Entreprises et industrie - Canada.ca",
+  "url": "https://www.canada.ca/fr/services/entreprises.html",
+  "h1": "Entreprises et industrie",
+  "headings": {
+    "h2": [
+      "Services et renseignements",
+      "En vedette",
+      "Détails de la page"
+    ],
+    "h3": [
+      "Démarrage d'entreprise",
+      "Taxes et impôt des entreprises",
+      "Subventions et financement pour les entreprises",
+      "Sociétés de régime fédéral",
+      "Administration de votre entreprise",
+      "Permis, licences et réglementation",
+      "Embauche et gestion de personnel",
+      "Commerce international et investissements",
+      "Propriété intellectuelle et droit d'auteur",
+      "Recherche et renseignements d'affaires",
+      "Faire affaire avec le gouvernement",
+      "Recherche-développement et innovation",
+      "Protection de votre entreprise",
+      "Insolvabilité pour les entreprises",
+      "Aide pour les personnes touchées par les droits de douane",
+      "Soutien aux entreprises",
+      "Le marché des surplus du gouv. du Canada",
+      "Attention aux messages suspects, signalez-les !"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Services et renseignements",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Démarrage d'entreprise",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Planification d'entreprise, choisir un nom d'entreprise, enregistrement auprès du gouvernement, obtenir soutien et financement"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Taxes et impôt des entreprises",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Impôt sur le revenu, TPS/TVH, retenues sur la paie, numéros d'entreprise et tarifs de douane"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Subventions et financement pour les entreprises",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Subventions et contributions, prêts, crédits d'impôt, subventions salariales et autres formes de soutien financier"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Sociétés de régime fédéral",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Incorporer ou modifier le statut d'une société, organisation à but non lucratif, coopérative ou chambre de commerce"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Administration de votre entreprise",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Gestion de vos activités commerciales, planification stratégique et financière, marketing, responsabilité sociale"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Permis, licences et réglementation",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Recherche de permis et licences, trouver des règlements pour votre industrie et vos activités commerciales"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Embauche et gestion de personnel",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Retenues sur la paie, rémunération et ressources pour le recrutement, la formation et la gestion du personnel"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Commerce international et investissements",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Exportation et importation, investissements au Canada et sur les marchés étrangers"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Propriété intellectuelle et droit d'auteur",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Marques de commerce, brevets, droits d'auteur, dessins industriels et protéger votre propriété intellectuelle"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Recherche et renseignements d'affaires",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Données sur l'industrie, repères financiers, tendances du marché et statistiques commerciales"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Faire affaire avec le gouvernement",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Vente au gouvernement fédéral et à d'autres gouvernements, et approvisionnement auprès du gouvernement."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Recherche-développement et innovation",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Ressources pour le financement, la collaboration, la commercialisation et les licences afin de stimuler l'innovation"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Protection de votre entreprise",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Planification d'urgence, gestion du risque, assurance, aspects légaux, sécurité et confidentialité, fraude"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Insolvabilité pour les entreprises",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Options pour régler vos dettes, présenter une proposition à vos créanciers, déclarez faillite"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "En vedette",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Aide pour les personnes touchées par les droits de douane",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Apprenez-en plus sur l'aide financière et plus encore."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Soutien aux entreprises",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Trouvez des solutions à vos défis d'entreprise en un clic."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Le marché des surplus du gouv. du Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Découvrez des surplus abordables (meubles, véhicules et plus encore) sur GCSurplus et soutenez la durabilité au pays."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Attention aux messages suspects, signalez-les !",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Apprenez à reconnaître et à signaler les messages texte suspects !"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://gcsurplus.ca/mn-fra.cfm?utm_campaign=pspc-spac-gcsurplus-25-26&utm_medium=vanity-url&utm_source=canada-ca_money&fin_fr",
+    "https://innovation.ised-isde.canada.ca/innovation/s/?language=fr_CA",
+    "https://international.canada.ca/fr/services/entreprises/commerce",
+    "https://ised-isde.canada.ca/site/bureau-surintendant-faillites/fr/vous-devez-largent",
+    "https://ised-isde.canada.ca/site/corporations-canada/fr",
+    "https://ised-isde.canada.ca/site/isde/fr/soutien-aux-entreprises?utm_campaign=ised-isde-sfb-23-24&utm_medium=pog&utm_source=gov-dep&utm_content=web-button-fr-231101",
+    "https://ised-isde.canada.ca/site/loi-canadienne-anti-pourriel/fr/mettre-fin-aux-pourriels-appareils-mobiles",
+    "https://www.canada.ca/fr/ministere-finances/programmes/politiques-finances-echanges-internationaux/reponse-canada-droits-douane-americains/soutien-employeurs-et-travailleurs-canadiens.html?utm_campaign=not-applicable&utm_medium=vanity-url&utm_source=canada-ca_droits-de-douane&utm_source=canada&utm_medium=promofeature&utm_campaign=esdc-edsc-soutien-employeurs-travailleurs-canadiens-25-26&utm_content=static_0002",
+    "https://www.canada.ca/fr/services/entreprises/engager.html",
+    "https://www.canada.ca/fr/services/entreprises/faire-affaire.html",
+    "https://www.canada.ca/fr/services/entreprises/impots.html",
+    "https://www.canada.ca/fr/services/entreprises/lancer.html",
+    "https://www.canada.ca/fr/services/entreprises/maintenirfairecroitreameliorerentreprise.html",
+    "https://www.canada.ca/fr/services/entreprises/permis.html",
+    "https://www.canada.ca/fr/services/entreprises/pi.html",
+    "https://www.canada.ca/fr/services/entreprises/proteger.html",
+    "https://www.canada.ca/fr/services/entreprises/recherche.html",
+    "https://www.canada.ca/fr/services/science/innovation.html"
+  ]
+}

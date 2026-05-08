@@ -1,0 +1,110 @@
+{
+  "page_title": "How are processing times calculated?",
+  "url": "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=068&top=3",
+  "h1": "How are processing times calculated?",
+  "headings": {
+    "h2": [
+      "Applications submitted online or in person",
+      "Applications submitted by mail",
+      "Page details",
+      "Answers others found useful",
+      "Help tool",
+      "Glossary term"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Applications submitted online or in person",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Your processing time starts when you submit your complete application, including any and all fees, and ends when we make a decision on it."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Applications submitted by mail",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Your processing time starts when your complete application, including any and all fees, arrives in our mail room and ends when we make a decision on it."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Answers others found useful",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [
+        "How long will it take to process my application?",
+        "When does my processing time start?",
+        "How can I check the status of my application?",
+        "Why can’t I see my case status online?",
+        "I sent my application a while ago, but there is no record of my application online. Why?",
+        "Why is my application considered complex or non-routine and what does that mean for me?",
+        "Why do some application processing times change and others do not?",
+        "What does my family sponsorship application status mean?",
+        "Why can’t I create a permanent residence tracker account for my sponsorship application?",
+        "Why have processing times changed for some applications types?",
+        "How do I check the status of my Canada-Ukraine authorization for emergency travel application?"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Help tool",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [
+        "Immigrant services in your area (Canada)"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Glossary term",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Applicant",
+        "Application package",
+        "Visa office"
+      ],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=029&top=3",
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=030&top=3",
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=031&top=3",
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=032&top=3",
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=1169&top=3",
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=1474&top=3",
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=1611&top=3",
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=1614&top=3",
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=1619&top=3",
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=1623&top=38",
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=296&top=3",
+    "http://www.ircc.canada.ca/english/helpcentre/glossary.asp#applicant",
+    "http://www.ircc.canada.ca/english/helpcentre/glossary.asp#application_package",
+    "http://www.ircc.canada.ca/english/helpcentre/glossary.asp#visa_office",
+    "http://www.ircc.canada.ca/english/newcomers/map/services.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html"
+  ]
+}

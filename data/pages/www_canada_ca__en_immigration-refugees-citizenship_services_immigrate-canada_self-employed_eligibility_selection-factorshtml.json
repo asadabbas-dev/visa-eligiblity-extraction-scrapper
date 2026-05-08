@@ -1,0 +1,157 @@
+{
+  "page_title": "Self-employed person: Selection criteria - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/self-employed/eligibility/selection-factors.html",
+  "h1": "Self-employed person: Selection criteria",
+  "headings": {
+    "h2": [
+      "Your score",
+      "Points for education: maximum 25 points",
+      "Points for experience: maximum 35 points",
+      "Points for age: maximum 10 points",
+      "Points for language ability: maximum 24 points",
+      "Language tests we accept",
+      "Points for adaptability: maximum 6 points",
+      "Page details"
+    ],
+    "h3": [
+      "English",
+      "French"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Your score",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "Your maximum possible score is 100. The pass mark is currently 35 points, but it may change. Make sure you visit this site regularly if you’re thinking about immigrating to Canada as a self-employed immigrant.",
+        "We select candidates based on:",
+        "As part of the immigration process, we may ask to interview you. During the interview, a visa officer will ask you to explain:",
+        "If there’s a difference between your statement of your qualifications and the visa officer’s assessment, we’ll award points based on the officer’s decision."
+      ],
+      "bullets": [
+        "the documents that you give us",
+        "your score under each of the selection criteria",
+        "you meeting the definition of a self-employed person",
+        "information that is unclear or inconsistent",
+        "shortcomings or gaps in the documents that you provide"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Points for education: maximum 25 points",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Points for experience: maximum 35 points",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Relevant experience must have been obtained in the period that begins five years before you sign your application and ends when a decision is made on your application."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Points for age: maximum 10 points",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "You will be awarded selection points based on your age at the time when the visa office receives your application."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Points for language ability: maximum 24 points",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Your proficiency in English or French is one of the 5 selection factors. You’ll be awarded up to 24 points for your basic, moderate or high proficiency in English and French. You’ll be given points based on your ability to:",
+        "If you have some proficiency in both English and French, decide which language you’re more comfortable using. This is your first official language. The other is your second official language.",
+        "You must prove the level of language proficiency you claim on your application if you wish to have your official language proficiency considered in the assessment of your application for permanent residence."
+      ],
+      "bullets": [
+        "listen",
+        "speak",
+        "read and",
+        "write"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Language tests we accept",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "You can take any of these approved language tests:"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "English",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "CELPIP: Canadian English Language Proficiency Index Program You need to take the CELPIP-General test.",
+        "You need to take the CELPIP-General test.",
+        "IELTS: International English Language Testing System You need to take the IELTS General Training test.",
+        "You need to take the IELTS General Training test.",
+        "PTE: Pearson Test of English You need to take the PTE Core test.",
+        "You need to take the PTE Core test."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "French",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "TEF Canada: Test d’évaluation de français",
+        "TCF Canada : Test de connaissance du français"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Points for adaptability: maximum 6 points",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "A maximum of 6 points for adaptability can be earned by any combination of the following elements."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.celpip.ca/",
+    "http://www.ielts.org/",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/self-employed/eligibility/selection-factors.html#adaptability",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/self-employed/eligibility/selection-factors.html#age",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/self-employed/eligibility/selection-factors.html#education",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/self-employed/eligibility/selection-factors.html#experience",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/self-employed/eligibility/selection-factors.html#language",
+    "https://www.canada.ca/en/services/immigration-citizenship/helpcentre/glossary.html#self_employed_person",
+    "https://www.france-education-international.fr/en/test/tcf-canada",
+    "https://www.lefrancaisdesaffaires.fr/en/tests-diplomas/test-for-evaluating-french-tef/tef-canada/",
+    "https://www.pearsonpte.com/pte-core"
+  ]
+}

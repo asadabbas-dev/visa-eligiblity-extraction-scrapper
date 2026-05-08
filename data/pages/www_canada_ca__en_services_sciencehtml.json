@@ -1,0 +1,214 @@
+{
+  "page_title": "Science and innovation - Canada.ca",
+  "url": "https://www.canada.ca/en/services/science.html",
+  "h1": "Science and innovation",
+  "headings": {
+    "h2": [
+      "Services and information",
+      "Features",
+      "Page details"
+    ],
+    "h3": [
+      "Research funding and awards",
+      "R&D and innovation",
+      "Science subjects",
+      "Health emergency readiness",
+      "Research institutes and facilities",
+      "Open data, statistics and archives",
+      "Science education resources",
+      "Intellectual property and copyright",
+      "Directory of scientists and research professionals",
+      "Our environment",
+      "Federal Open Science Repository of Canada",
+      "Follow the first Canadian around the Moon",
+      "Did you receive a letter from the Connecting Families Initiative?",
+      "Horizon Europe"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Research funding and awards",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Funding and awards for scientific research, research infrastructure and research networks"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "R&D and innovation",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Funding, collaboration, commercialization and licensing resources to help fuel innovation"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Science subjects",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Government research and resources on a wide variety of scientific topics"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Health emergency readiness",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Advancing innovation and technology leadership in the life sciences"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Research institutes and facilities",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Government research centres across Canada and how to partner with or access these facilities"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Open data, statistics and archives",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Government data, statistics, analyses and archival information to assist with research and discovery"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Science education resources",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Activities, lesson plans, videos and more to help youth learn about science and technology"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Intellectual property and copyright",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Protecting your intellectual property, trademarks, copyright and using IP as a business tool"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Directory of scientists and research professionals",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "A directory of government scientists and research professionals"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Our environment",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Resources to take action to fight climate change and protect the environment"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Federal Open Science Repository of Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "The federal repository of scientific articles and publications from participating science-based departments and agencies"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Follow the first Canadian around the Moon",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Artemis II: Canadian Space Agency astronaut Jeremy Hansen makes history as the first Canadian around the Moon."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Did you receive a letter from the Connecting Families Initiative?",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Sign-up on the portal."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Horizon Europe",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Access funding and international collaboration opportunities through Horizon Europe, the world's largest research and innovation funding program."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ised-isde.canada.ca/site/ised/en/horizon-europe?utm_campaign=ised-isde-horizon-europe-24-25&utm_medium=website&utm_source=ised-science-innovation&utm_content=web-button-en-241201",
+    "https://ised-isde.canada.ca/site/ised/en/programs-and-initiatives/connecting-families-initiative?utm_campaign=ised-isde-cfi-25-26&utm_medium=web&utm_source=web-button&utm_content=ised-official-site-en-251128",
+    "https://ised-isde.canada.ca/site/ised/en/programs-and-initiatives/health-emergency-readiness-canada",
+    "https://open-science.canada.ca/home?utm_campaign=fosrc-promo-jan-2024&utm_medium=pog&utm_source=ised-e",
+    "https://science.gc.ca/site/science/en/safeguarding-your-research",
+    "https://www.asc-csa.gc.ca/eng/missions/artemis-ii/default.asp?utm_campaign=csa-asc-ar2launch-2025-2026&utm_medium=pog&utm_source=asc-csa-gc-ca&utm_content=artemis-ii-mission-en-artemis-ii-launch-260208",
+    "https://www.canada.ca/en/services/business/ip.html",
+    "https://www.canada.ca/en/services/environment/our-environment.html",
+    "https://www.canada.ca/en/services/science/educationalresources.html",
+    "https://www.canada.ca/en/services/science/innovation.html",
+    "https://www.canada.ca/en/services/science/institutes.html",
+    "https://www.canada.ca/en/services/science/open-data.html",
+    "https://www.canada.ca/en/services/science/researchfunding.html",
+    "https://www.canada.ca/en/services/science/sciencesubjects.html",
+    "https://www.canada.ca/en/services/science/scientistsdirectory.html"
+  ]
+}

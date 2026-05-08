@@ -1,0 +1,225 @@
+{
+  "page_title": "Emplois et milieu de travail - Canada.ca",
+  "url": "https://www.canada.ca/fr/services/emplois.html",
+  "h1": "Emplois et milieu de travail",
+  "headings": {
+    "h2": [
+      "Featured",
+      "Trouver un emploi",
+      "Formation en milieu de travail",
+      "Détails de la page"
+    ],
+    "h3": [
+      "Guichet-Emplois",
+      "Emplois au gouvernement du Canada",
+      "Emplois pour étudiants",
+      "Emplois en sécurité nationale et défense",
+      "Emplois du recensement de 2026",
+      "Emplois à Parcs Canada",
+      "Déménager ailleurs au Canada pour travailler",
+      "Trouvez des formations",
+      "Financement pour les emplois et formations",
+      "Prestations d'assurance-emploi et congés",
+      "Embauche et gestion de personnel",
+      "Démarrage d'entreprise",
+      "Normes en milieu de travail",
+      "Pensions et retraite"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Featured",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Plus de 80 000 emplois affichés – comment chercher dans le Guichet-Emplois"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Trouver un emploi",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Guichet-Emplois",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Cherchez des emplois et des stages parmi ceux offerts par les employeurs à l’échelle du Canada et trouvez celui qui vous correspond."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Emplois au gouvernement du Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Cherchez un emploi parmi ceux offerts par le gouvernement fédéral et les programmes d’embauche."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Emplois pour étudiants",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Possibilités d’emploi et programmes d’embauche pour les étudiants."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Emplois en sécurité nationale et défense",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Emplois dans les Forces armées canadiennes, à la Gendarmerie royale du Canada, au Service canadien du renseignement de sécurité, à l’Agence des services frontaliers du Canada, à la Défense et à la Sécurité publique."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Emplois du recensement de 2026",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Des postes à temps plein et à temps partiel sont disponibles."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Emplois à Parcs Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Postulez à des emplois en sciences, en gestion, dans les métiers spécialisés et dans une vaste gamme de professions."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Déménager ailleurs au Canada pour travailler",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Renseignez-vous sur la mobilité de la main-d’œuvre entre les provinces et les territoires."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Formation en milieu de travail",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Trouvez des formations",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Trouvez des programmes de formation, de l'aide financière aux étudiants et du soutien pour les apprentissages dans les métiers spécialisés. Explorez vos options de carrière. Validez votre formation étrangère."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Financement pour les emplois et formations",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Trouvez des programmes de financement gouvernementaux pour vous aider a financer votre projet ou payer pour le développement de compétences."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Prestations d'assurance-emploi et congés",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Demandez des prestations temporaires d'assurance-emploi (AE) pour les travailleurs, les aidants naturels, la maladie, la pêche, la maternité et l'assurance parentale. Soumettez votre déclaration d'assurance-emploi."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Embauche et gestion de personnel",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Renseignements sur la paie, les salaires et des ressources consacrées au recrutement, à la formation et la gestion des employés."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Démarrage d'entreprise",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Lancez une entreprise, choix d'un nom d'entreprise et enregistrez votre entreprise, demande de permis et de licences d'entreprise, obtenez du soutien et du financement, aide fiscale gratuite."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Normes en milieu de travail",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Lois fédérales et provinciales sur le travail, normes en milieu de travail, normes fédérales de santé et de sécurité et programmes sur les relations de travail."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Pensions et retraite",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Régimes de pension individuelle et d'employeur, prestations fédérales et régimes enregistrés d'épargne-retraite et outils de planification de retraite."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://parcs.canada.ca/agence-agency/emplois-jobs",
+    "https://www.canada.ca/fr/emploi-developpement-social/programmes/mobilite-main-doeuvre.html",
+    "https://www.canada.ca/fr/emploi-developpement-social/services/financement/programmes.html",
+    "https://www.canada.ca/fr/services/defense/emplois.html",
+    "https://www.canada.ca/fr/services/emplois/formation.html",
+    "https://www.canada.ca/fr/services/emplois/milieu-travail.html",
+    "https://www.canada.ca/fr/services/emplois/opportunites/etudiants.html",
+    "https://www.canada.ca/fr/services/emplois/opportunites/gouvernement.html",
+    "https://www.canada.ca/fr/services/entreprises/engager.html",
+    "https://www.canada.ca/fr/services/entreprises/lancer.html",
+    "https://www.canada.ca/fr/services/finance/pensions.html",
+    "https://www.canada.ca/fr/services/prestations/ae.html",
+    "https://www.guichetemplois.gc.ca/intro/trouverunemploi#tochead",
+    "https://www.guichetemplois.gc.ca/trouverunemploi",
+    "https://www.recensement.gc.ca/fr/emplois?utm_source=service-canada-web-page-link&utm_medium=pog&utm_campaign=statcan-statcan-2026-ee-recruitment-25-26&utm_content=federal-partners-fr"
+  ]
+}

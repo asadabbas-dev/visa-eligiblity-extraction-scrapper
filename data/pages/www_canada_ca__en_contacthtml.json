@@ -1,0 +1,153 @@
+{
+  "page_title": "Contact the Government of Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/contact.html",
+  "h1": "Government of Canada contacts",
+  "headings": {
+    "h2": [
+      "Most frequent contacts",
+      "Find contacts by department or program",
+      "Page details"
+    ],
+    "h3": [
+      "Benefits",
+      "Taxes",
+      "Immigration and travel",
+      "Representatives and employees",
+      "Change your address or banking information",
+      "Get general help"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Most frequent contacts",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Benefits",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Employment Insurance ( EI ) for individuals",
+        "Employment Insurance ( EI ) for employers",
+        "Canada Pension Plan ( CPP )",
+        "Old Age Security ( OAS )",
+        "Canadian Dental Care Plan",
+        "Canada Disability Benefit",
+        "Canada child benefit (CCB)"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Taxes",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Taxes for Canadians and businesses",
+        "International tax and non-resident enquiries",
+        "Social Insurance Number ( SIN )"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Immigration and travel",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [
+        "eTAs, visas, permits, permanent residence, immigration",
+        "Crossing the border",
+        "Travel assistance abroad for Canadians",
+        "Passports for Canadians"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Representatives and employees",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Government employee directory",
+        "Find your Member of Parliament",
+        "Members of the Senate",
+        "Foreign representatives in Canada"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Change your address or banking information",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [
+        "Change your address",
+        "Sign up for direct deposit or update your banking information"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Get general help",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "By telephone",
+        "By email"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Find contacts by department or program",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Enter a department name or abbreviation to find a contact us page."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.cbsa-asfc.gc.ca/contact/bis-sif-eng.html",
+    "http://www.international.gc.ca/protocol-protocole/reps.aspx?lang=eng&view=d&_ga=1.105605379.1867445363.1441994342",
+    "https://gcdirectory-gcannuaire.ssc-spc.gc.ca/en/GCD/?rd=1&pgid=002",
+    "https://sencanada.ca/en/senators/",
+    "https://travel.gc.ca/assistance",
+    "https://www.canada.ca/en/contact/contact-1-800-o-canada.html",
+    "https://www.canada.ca/en/contact/questions.html",
+    "https://www.canada.ca/en/employment-social-development/corporate/contact/cpp.html",
+    "https://www.canada.ca/en/employment-social-development/corporate/contact/ei-individual.html",
+    "https://www.canada.ca/en/employment-social-development/corporate/contact/employment-insurance-employers.html",
+    "https://www.canada.ca/en/employment-social-development/corporate/contact/oas.html",
+    "https://www.canada.ca/en/employment-social-development/corporate/contact/sin.html",
+    "https://www.canada.ca/en/government/change-address.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/contact-passport-program.html",
+    "https://www.canada.ca/en/public-services-procurement/services/payments-to-from-government/direct-deposit.html",
+    "https://www.canada.ca/en/revenue-agency/corporate/contact-information.html",
+    "https://www.canada.ca/en/revenue-agency/corporate/contact-information.html#tbl-international",
+    "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-child-benefit/contact.html",
+    "https://www.canada.ca/en/services/benefits/dental/dental-care-plan/contact.html",
+    "https://www.canada.ca/en/services/benefits/disability/canada-disability-benefit/contact.html",
+    "https://www.ourcommons.ca/Members/en/search"
+  ]
+}

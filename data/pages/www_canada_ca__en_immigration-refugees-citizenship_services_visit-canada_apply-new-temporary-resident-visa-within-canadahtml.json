@@ -1,0 +1,276 @@
+{
+  "page_title": "Visitor visas for workers and students: How to apply from inside Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+  "h1": "Visitor visas for workers and students: How to apply from inside Canada",
+  "headings": {
+    "h2": [
+      "On this page",
+      "Who can apply for a visitor visa from inside Canada",
+      "How to apply for your new visitor visa",
+      "Page details"
+    ],
+    "h3": [
+      "If you already left Canada and need to apply for a new visitor visa",
+      "When to apply for your new visitor visa (in Canada)",
+      "Get the right application form"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "On this page",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [],
+      "bullets": [
+        "Who can apply for a visitor visa from inside Canada",
+        "If you already left Canada and need to apply for a new visitor visa",
+        "When to apply for your new visitor visa (in Canada) If you leave Canada before you get your new visitor visa If you must leave Canada for exceptional reasons before you get your new visitor visa If you applied online to extend your work or study permit",
+        "If you leave Canada before you get your new visitor visa",
+        "If you must leave Canada for exceptional reasons before you get your new visitor visa",
+        "If you applied online to extend your work or study permit",
+        "How to apply for your new visitor visa"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Who can apply for a visitor visa from inside Canada",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "You can only apply for a visitor visa from inside Canada if you meet all of these criteria:"
+      ],
+      "bullets": [
+        "already are in Canada",
+        "hold a valid study or work permit",
+        "want to leave and return to Canada in the near future, and",
+        "have an existing visitor visa that’s expired, or is about to expire, or that was valid for only 1 entry"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "If you already left Canada and need to apply for a new visitor visa",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "You must follow the process to apply for a visa from outside Canada instead of the inside Canada process outlined below. There are different requirements you may need to meet since you’re outside Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "When to apply for your new visitor visa (in Canada)",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "You should",
+        "You may be subject to",
+        "Complete this web form before you leave Canada .",
+        "If we approve your application, we send you a message in your online account and mail you your new work or study permit.",
+        "After we approve your application to extend your permit",
+        "As soon as we approve your application to extend your work or study permit, you can apply for your visitor visa (even before you get your new work or study permit in the mail).",
+        "However, you must provide proof that we approved your application, such as:"
+      ],
+      "bullets": [
+        "apply at least 2 months before you plan to leave Canada",
+        "not leave Canada until you get your visitor visa",
+        "additional requirements, like biometrics (if not already on file) and/or a medical exam",
+        "a longer processing time",
+        "a delay in your return to Canada You’ll only be able to travel back to Canada once you get your new visitor visa in your passport. There’s no guarantee that you’ll be approved.",
+        "You’ll only be able to travel back to Canada once you get your new visitor visa in your passport. There’s no guarantee that you’ll be approved.",
+        "We may need to transfer your file to one of our offices abroad.",
+        "We’ll also need to determine if you meet all the visa requirements for an applicant outside Canada.",
+        "If you don’t contact us, there could be a processing delay or your passport could be returned without a visa.",
+        "a screenshot of the approval message we sent to your online account",
+        "your application number",
+        "any other document that proves you have a valid and approved study or work permit extension"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "How to apply for your new visitor visa",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "You need to apply online in your IRCC secure account. If you don’t already have an account, follow these steps to register .",
+        "You’ll need to select “Apply to Come to Canada” from your account main page to get started."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Get the right application form",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "To get the right application form, provide these answers in the online questionnaire:",
+        "The application form listed in your document checklist will be called Application for Visitor Visa (Temporary Resident Visa) Made Outside of Canada (IMM 5257) . This is the form you need to fill out, even when you apply from inside Canada.",
+        "Use your account to pay your fees and check your application status.",
+        "If you can’t apply online because of a disability, an exceptional circumstance beyond your control or a specific situation that is not included in the IRCC secure account questionnaire, such as travelling with an alien’s passport, you can apply on paper ."
+      ],
+      "bullets": [
+        "For the first question “What would you like to do in Canada?”, select “Study” if you have a valid study permit or “Work” if you have a valid work permit",
+        "“Study” if you have a valid study permit or",
+        "“Work” if you have a valid work permit",
+        "When asked “What is your current country/territory of residence?”, select “Canada”.",
+        "Answer the questions on the next pages about your work or studies.",
+        "You may be given the option to extend your current study or work permit or to apply for a “Temporary Resident Visa”. Make sure you select “Temporary Resident Visa”."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "possible medical exam",
+    "proof applicant will leave Canada"
+  ],
+  "supporting_document_signals": [
+    "medical documents",
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "On this page",
+      "level": "h2",
+      "items": [],
+      "bullets": [
+        "Who can apply for a visitor visa from inside Canada",
+        "If you already left Canada and need to apply for a new visitor visa",
+        "When to apply for your new visitor visa (in Canada) If you leave Canada before you get your new visitor visa If you must leave Canada for exceptional reasons before you get your new visitor visa If you applied online to extend your work or study permit",
+        "If you leave Canada before you get your new visitor visa",
+        "If you must leave Canada for exceptional reasons before you get your new visitor visa",
+        "If you applied online to extend your work or study permit",
+        "How to apply for your new visitor visa"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Who can apply for a visitor visa from inside Canada",
+      "level": "h2",
+      "items": [
+        "You can only apply for a visitor visa from inside Canada if you meet all of these criteria:"
+      ],
+      "bullets": [
+        "already are in Canada",
+        "hold a valid study or work permit",
+        "want to leave and return to Canada in the near future, and",
+        "have an existing visitor visa that’s expired, or is about to expire, or that was valid for only 1 entry"
+      ],
+      "tables": [],
+      "children": [
+        {
+          "heading": "If you already left Canada and need to apply for a new visitor visa",
+          "level": "h3",
+          "items": [
+            "You must follow the process to apply for a visa from outside Canada instead of the inside Canada process outlined below. There are different requirements you may need to meet since you’re outside Canada."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Who can apply for a visitor visa from inside Canada"
+        },
+        {
+          "heading": "When to apply for your new visitor visa (in Canada)",
+          "level": "h3",
+          "items": [
+            "You should",
+            "You may be subject to",
+            "Complete this web form before you leave Canada .",
+            "If we approve your application, we send you a message in your online account and mail you your new work or study permit.",
+            "After we approve your application to extend your permit",
+            "As soon as we approve your application to extend your work or study permit, you can apply for your visitor visa (even before you get your new work or study permit in the mail).",
+            "However, you must provide proof that we approved your application, such as:"
+          ],
+          "bullets": [
+            "apply at least 2 months before you plan to leave Canada",
+            "not leave Canada until you get your visitor visa",
+            "additional requirements, like biometrics (if not already on file) and/or a medical exam",
+            "a longer processing time",
+            "a delay in your return to Canada You’ll only be able to travel back to Canada once you get your new visitor visa in your passport. There’s no guarantee that you’ll be approved.",
+            "You’ll only be able to travel back to Canada once you get your new visitor visa in your passport. There’s no guarantee that you’ll be approved.",
+            "We may need to transfer your file to one of our offices abroad.",
+            "We’ll also need to determine if you meet all the visa requirements for an applicant outside Canada.",
+            "If you don’t contact us, there could be a processing delay or your passport could be returned without a visa.",
+            "a screenshot of the approval message we sent to your online account",
+            "your application number",
+            "any other document that proves you have a valid and approved study or work permit extension"
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Who can apply for a visitor visa from inside Canada"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "How to apply for your new visitor visa",
+      "level": "h2",
+      "items": [
+        "You need to apply online in your IRCC secure account. If you don’t already have an account, follow these steps to register .",
+        "You’ll need to select “Apply to Come to Canada” from your account main page to get started."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Get the right application form",
+          "level": "h3",
+          "items": [
+            "To get the right application form, provide these answers in the online questionnaire:",
+            "The application form listed in your document checklist will be called Application for Visitor Visa (Temporary Resident Visa) Made Outside of Canada (IMM 5257) . This is the form you need to fill out, even when you apply from inside Canada.",
+            "Use your account to pay your fees and check your application status.",
+            "If you can’t apply online because of a disability, an exceptional circumstance beyond your control or a specific situation that is not included in the IRCC secure account questionnaire, such as travelling with an alien’s passport, you can apply on paper ."
+          ],
+          "bullets": [
+            "For the first question “What would you like to do in Canada?”, select “Study” if you have a valid study permit or “Work” if you have a valid work permit",
+            "“Study” if you have a valid study permit or",
+            "“Work” if you have a valid work permit",
+            "When asked “What is your current country/territory of residence?”, select “Canada”.",
+            "Answer the questions on the next pages about your work or studies.",
+            "You may be given the option to extend your current study or work permit or to apply for a “Temporary Resident Visa”. Make sure you select “Temporary Resident Visa”."
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "How to apply for your new visitor visa"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=208&top=22",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/register.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html#apply-new-visa",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html#how-apply",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html#leave-before",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html#must-leave",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html#online-extension",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html#tr-venezuela-popup",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html#when-apply",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html#who-apply",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada/paper-inside-canada-new-visa.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "https://www.canada.ca/en/services/immigration-citizenship/helpcentre/glossary.html#temporary_resident_visa",
+    "https://www.ircc.canada.ca/english/contacts/web-form.asp"
+  ]
+}

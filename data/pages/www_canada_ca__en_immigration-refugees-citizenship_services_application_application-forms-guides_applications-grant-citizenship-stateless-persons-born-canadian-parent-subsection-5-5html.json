@@ -1,0 +1,51 @@
+{
+  "page_title": "Canadian citizenship for stateless people - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/applications-grant-citizenship-stateless-persons-born-canadian-parent-subsection-5-5.html",
+  "h1": "Apply for Canadian citizenship: Stateless people",
+  "headings": {
+    "h2": [
+      "Processing times ?",
+      "Fees",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Processing times ?",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "Error loading the number of days. Try again."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Fees",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "[Error loading fee. Check the fee list ] ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=068&top=3",
+    "https://ircc.canada.ca/english/information/fees/fees.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/applications-grant-citizenship-stateless-persons-born-canadian-parent-subsection-5-5.html#processing-times"
+  ]
+}

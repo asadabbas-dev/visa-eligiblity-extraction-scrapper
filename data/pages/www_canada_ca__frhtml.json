@@ -1,0 +1,339 @@
+{
+  "page_title": "Accueil - Canada.ca",
+  "url": "https://www.canada.ca/fr.html",
+  "h1": "Canada.ca",
+  "headings": {
+    "h2": [
+      "En demande",
+      "Services et renseignements",
+      "En vedette",
+      "Détails de la page"
+    ],
+    "h3": [
+      "Emplois",
+      "Immigration et citoyenneté",
+      "Voyage et tourisme",
+      "Entreprises et industrie",
+      "Prestations",
+      "Impôts",
+      "Santé",
+      "Environnement et ressources naturelles",
+      "Argent et finances",
+      "Le Recensement de 2026 est en cours",
+      "Conflit au Moyen-Orient",
+      "Mise à jour économique du printemps de 2026",
+      "Célébrez le Mois du patrimoine asiatique",
+      "Semaine de la sécurité civile de 2026",
+      "Votre été canadien commence ici",
+      "Votre voix compte : #HommesEnSanté",
+      "Solutions en imagerie documentaire",
+      "Renouvelez votre couverture du RCSD",
+      "Le Canada et l’Ukraine",
+      "Protégez-vous des pourriels",
+      "Apprenez à repérer la désinformation"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "En demande",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Se connecter à un compte",
+        "Assurance-emploi et congés",
+        "Pensions publiques ( RPC et SV )",
+        "Obtenir un passeport",
+        "Faites vos impôts de 2025",
+        "Visiter le Canada",
+        "Prestation pour les personnes handicapées",
+        "Régime canadien de soins dentaires"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services et renseignements",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Tous les services"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Emplois",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Trouver un emploi, formation, programmes d'embauche, permis de travail, numéro d'assurance sociale (NAS)"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Immigration et citoyenneté",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Visiter, travailler, étudier, immigrer, réfugiés, résidents permanents, présenter une demande, vérifier l'état de la demande"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Voyage et tourisme",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Au Canada ou à l'étranger, conseils, avis, passeports, visiter le Canada, événements, attractions"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Entreprises et industrie",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Démarrer une entreprise, permis, propriété intellectuelle, soutien aux entreprises, vendre au gouvernement"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Prestations",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Assurance-emploi, congés familiaux et congés de maladie, pensions, logement, aide financière aux études, personnes invalides"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Impôts",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Impôt sur le revenu, TPS/TVH, limites de contribution, crédits d’impôt, organismes de charité"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Santé",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Alimentation, nutrition, maladies, vaccins, médicaments, sécurité des produits et rappels"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Environnement et ressources naturelles",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Météo, climat, agriculture, faune, pollution, conservation, pêches"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Argent et finances",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Finances personnelles, dossiers de crédit, se protéger de la fraude, financer votre éducation"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "En vedette",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [
+        "Le Recensement de 2026 est en cours",
+        "Conflit au Moyen-Orient",
+        "Mise à jour économique du printemps de 2026",
+        "Célébrez le Mois du patrimoine asiatique",
+        "Semaine de la sécurité civile de 2026",
+        "Votre été canadien commence ici",
+        "Votre voix compte : #HommesEnSanté",
+        "Solutions en imagerie documentaire",
+        "Renouvelez votre couverture du RCSD",
+        "Le Canada et l’Ukraine",
+        "Protégez-vous des pourriels",
+        "Apprenez à repérer la désinformation"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Le Recensement de 2026 est en cours",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Vérifiez votre courrier et remplissez le questionnaire du recensement en ligne. C’est rapide, sécuritaire et confidentiel"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Conflit au Moyen-Orient",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Informations pour les Canadiens se trouvant dans la région et dans le monde"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Mise à jour économique du printemps de 2026",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Le plan du gouvernement pour bâtir, protéger et renforcer le Canada dans un contexte d’incertitude."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Célébrez le Mois du patrimoine asiatique",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Mai est le Mois du patrimoine asiatique et l’occasion de souligner l’apport exceptionnel des personnes d’origine asiatique au pays"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Semaine de la sécurité civile de 2026",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Préparez-vous aux situations d'urgence en connaissant les risques dans votre région."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Votre été canadien commence ici",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Musées, parcs, campings et trains gratuits ou à prix réduit du 19 juin au 7 septembre. Planifiez votre aventure dès maintenant."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Votre voix compte : #HommesEnSanté",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Influencez la première stratégie en matière de santé des hommes et des garçons. Questionnaire accessible jusqu’au 1 er juin 2026."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Solutions en imagerie documentaire",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Obtenez des services de numérisation sur mesure pour vous aider à travailler de façon plus écologique, plus rapide et plus efficace."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Renouvelez votre couverture du RCSD",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Les membres du Régime canadien de soins dentaires ont jusqu'au 1er juin 2026 pour renouveler leur couverture."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Le Canada et l’Ukraine",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Renseignez-vous sur la réponse du Canada à l’invasion russe de l’Ukraine."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Protégez-vous des pourriels",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Apprenez à reconnaître et à signaler les messages texte suspects."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Apprenez à repérer la désinformation",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Si ça vous fait hausser les sourcils, ça devrait soulever des questions. Obtenez des conseils pour repérer la désinformation."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://budget.canada.ca/update-miseajour/2026/home-accueil-fr.html?utm_campaign=fin-fin-update-miseajour-26-27",
+    "https://ised-isde.canada.ca/site/loi-canadienne-anti-pourriel/fr/mettre-fin-aux-pourriels-appareils-mobiles?utm_campaign=ised-isde-casl-25-26&utm_medium=web&utm_source=web-button&utm_content=canadaca-homepage-fr-260128",
+    "https://voyage.gc.ca",
+    "https://www.canada.ca/fr/campagne/desinformation-enligne.html",
+    "https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/passeports-canadiens.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada.html",
+    "https://www.canada.ca/fr/patrimoine-canadien/campagnes/laissez-passer-canada.html?utm_campaign=pch-pch-csp-lpcf-phase3-25-26&utm_medium=canada-ca&utm_source=acceuil&utm_content=en-vedette-fr-260116",
+    "https://www.canada.ca/fr/patrimoine-canadien/campagnes/mois-patrimoine-asiatique.html?utm_campaign=pch-pch-ahm---mpa-26-27&utm_medium=pog&utm_source=canada&utm_content=mpa2026-fr-260501",
+    "https://www.canada.ca/fr/sante-canada/services/vie-saine/ameliorer-sante-hommes-canada.html#j",
+    "https://www.canada.ca/fr/services-publics-approvisionnement/services/communication/numerisation-documents.html?utm_campaign=pspc-spac-disc-25-26&utm_medium=vanity-url&utm_source=canada-ca_homepage-feature_fr",
+    "https://www.canada.ca/fr/services.html",
+    "https://www.canada.ca/fr/services/emplois.html",
+    "https://www.canada.ca/fr/services/entreprises.html",
+    "https://www.canada.ca/fr/services/environnement.html",
+    "https://www.canada.ca/fr/services/finance.html",
+    "https://www.canada.ca/fr/services/immigration-citoyennete.html",
+    "https://www.canada.ca/fr/services/impots.html",
+    "https://www.canada.ca/fr/services/impots/impot-sur-le-revenu/impot-sur-le-revenu-des-particuliers/preparez-vous-impots.html",
+    "https://www.canada.ca/fr/services/police/urgences/protection/preparez-vous/semaine-preparation.html",
+    "https://www.canada.ca/fr/services/prestations.html",
+    "https://www.canada.ca/fr/services/prestations/ae.html",
+    "https://www.canada.ca/fr/services/prestations/dentaire/regime-soins-dentaires.html",
+    "https://www.canada.ca/fr/services/prestations/dentaire/regime-soins-dentaires.html?utm_source=theme-sante-canada-ca&utm_medium=en-vedette&utm_campaign=sc-hc-2026-renouveler",
+    "https://www.canada.ca/fr/services/prestations/handicap/prestation-canadienne-personnes-situation-handicap.html",
+    "https://www.canada.ca/fr/services/prestations/pensionspubliques.html",
+    "https://www.canada.ca/fr/services/sante.html",
+    "https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=fra",
+    "https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/ukraine.aspx?lang=fra&utm_campaign=gac-amc-ukraine-21-22&utm_source=canadahome&utm_medium=feat&utm_content=fr",
+    "https://www.recensement.gc.ca/fr/index?utm_source=canada-ca-web-tile&utm_medium=pog&utm_campaign=statcan-statcan-2026-genpop-collection-26-27&utm_content=gr-094-fr-census-wrapper"
+  ]
+}

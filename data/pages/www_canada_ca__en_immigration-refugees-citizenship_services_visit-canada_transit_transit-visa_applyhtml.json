@@ -1,0 +1,176 @@
+{
+  "page_title": "Transit visa: How to apply - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/apply.html",
+  "h1": "How to apply",
+  "headings": {
+    "h2": [
+      "Information you’ll need during the application process",
+      "Get into the IRCC Portal",
+      "Start the application process",
+      "Documents you’ll need to support your application",
+      "Complete your application",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Information you’ll need during the application process",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "You’ll need to enter the following information when applying online:"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Get into the IRCC Portal",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "You can apply online using the IRCC Portal.",
+        "If it’s your first time using the IRCC Portal, you need to get an invite code to create an account. Once you have your code, you can create your account in the portal and sign in.",
+        "Make sure to keep this page open for instructions on how to apply."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Start the application process",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "Follow the steps below to start your transit visa application once you’ve signed into the IRCC Portal:"
+      ],
+      "bullets": [
+        "Read and accept the terms and conditions.",
+        "Click on “Apply for a visitor visa or transit visa.”",
+        "Check the box after reading the information displayed, and click on “Start application.”",
+        "Answer the questions in the online form.",
+        "You should reach a page indicating that you’re applying for a transit visa. If you see something different, check your answers again.",
+        "Click on “Continue your application.”",
+        "Answer the questions in the online form. Once you reach the “Summary of your information” page, review the information entered to make sure it’s accurate and click on “Save and continue.”"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Documents you’ll need to support your application",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "At this stage, you’ll need to add supporting and optional documents to your online application."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Complete your application",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "At this stage, you’ll need to fill and sign the Consent and declaration page.",
+        "You’ll then be taken to the Pay your fees page. There are no fees associated with the transit visa, so you can simply click on “Save and Continue.”",
+        "You should then reach a page confirming that your application has been submitted."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "Information you’ll need during the application process",
+      "level": "h2",
+      "items": [
+        "You’ll need to enter the following information when applying online:"
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Get into the IRCC Portal",
+      "level": "h2",
+      "items": [
+        "You can apply online using the IRCC Portal.",
+        "If it’s your first time using the IRCC Portal, you need to get an invite code to create an account. Once you have your code, you can create your account in the portal and sign in.",
+        "Make sure to keep this page open for instructions on how to apply."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Start the application process",
+      "level": "h2",
+      "items": [
+        "Follow the steps below to start your transit visa application once you’ve signed into the IRCC Portal:"
+      ],
+      "bullets": [
+        "Read and accept the terms and conditions.",
+        "Click on “Apply for a visitor visa or transit visa.”",
+        "Check the box after reading the information displayed, and click on “Start application.”",
+        "Answer the questions in the online form.",
+        "You should reach a page indicating that you’re applying for a transit visa. If you see something different, check your answers again.",
+        "Click on “Continue your application.”",
+        "Answer the questions in the online form. Once you reach the “Summary of your information” page, review the information entered to make sure it’s accurate and click on “Save and continue.”"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Documents you’ll need to support your application",
+      "level": "h2",
+      "items": [
+        "At this stage, you’ll need to add supporting and optional documents to your online application."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Complete your application",
+      "level": "h2",
+      "items": [
+        "At this stage, you’ll need to fill and sign the Consent and declaration page.",
+        "You’ll then be taken to the Pay your fees page. There are no fees associated with the transit visa, so you can simply click on “Save and Continue.”",
+        "You should then reach a page confirming that your application has been submitted."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/information/applications/visa.asp#applyonpaper",
+    "https://ircc.canada.ca/visit-visiter/en/get-account-ircc-portal",
+    "https://portal-portail.apps.cic.gc.ca/signin?lang=en",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm0707.html"
+  ]
+}

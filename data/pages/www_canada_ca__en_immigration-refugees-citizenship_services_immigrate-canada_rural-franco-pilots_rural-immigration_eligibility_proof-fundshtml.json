@@ -1,0 +1,47 @@
+{
+  "page_title": "Rural Community Immigration Pilot: Proof of funds - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/rural-immigration/eligibility/proof-funds.html",
+  "h1": "Settlement funds",
+  "headings": {
+    "h2": [
+      "How much money you need",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "How much money you need",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "First, you need to calculate your family size. You must include",
+        "Include your spouse or common-law partner and all dependent children, even if they’re",
+        "The table below that is updated annually shows the minimum amount you need to immigrate to Canada."
+      ],
+      "bullets": [
+        "yourself",
+        "your spouse or common-law partner",
+        "your dependent children",
+        "your spouse or common-law partner’s dependent children",
+        "Canadian citizens or permanent residents",
+        "not coming to Canada with you"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/immigrate/sponsor/aod-tool.asp"
+  ]
+}

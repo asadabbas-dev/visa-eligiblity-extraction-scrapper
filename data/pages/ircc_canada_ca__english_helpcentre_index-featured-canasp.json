@@ -1,0 +1,124 @@
+{
+  "page_title": "IRCC Help Centre - Featured Topics",
+  "url": "https://ircc.canada.ca/english/helpcentre/index-featured-can.asp",
+  "h1": "",
+  "headings": {
+    "h2": [
+      "Questions by topic",
+      "Popular questions",
+      "Definitions",
+      "Your application",
+      "Do you want to extend your stay?",
+      "Follow:"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Questions by topic",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [
+        "Application status",
+        "Applying – General",
+        "Adoption",
+        "Work permits",
+        "Citizenship",
+        "Studying",
+        "See all topics"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Popular questions",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [
+        "What is a UCI?",
+        "How can I check the status of my application?",
+        "How can I update or ask about an IRCC application in progress?",
+        "How long will it take to process my application?",
+        "What is an application number?",
+        "Can I replace my citizenship certificate or card if there’s a mistake on it?",
+        "What is a Labour Market Impact Assessment?",
+        "How much income do I need to sponsor my parents and grandparents?",
+        "How are processing times calculated?",
+        "What does my status mean in the application status tracker?"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Definitions",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "Find definitions to terms often used by Immigration, Refugees and Citizenship Canada in our glossary."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Your application",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "Application status, processing times, online applications and paper forms, fee payment, medical and police checks."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Do you want to extend your stay?",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "Answer a few questions to find out how you can apply to extend your stay and how to submit an online or paper application."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Follow:",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Facebook",
+        "Twitter",
+        "YouTube"
+      ],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.youtube.com/CitImmCanada",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=013&top=4",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=029&top=3",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=052&top=3",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=068&top=3",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1445&top=14",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1521&top=4",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1611&top=5",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=163&top=17",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=31&top=3",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=598&top=5",
+    "https://ircc.canada.ca/english/helpcentre/glossary.asp",
+    "https://ircc.canada.ca/english/helpcentre/index-a-z-can.asp",
+    "https://ircc.canada.ca/english/helpcentre/index-featured-int.asp",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?top=15",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?top=17",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?top=2",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?top=3",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?top=4",
+    "https://ircc.canada.ca/english/helpcentre/results-by-topic.asp?top=5",
+    "https://twitter.com/citimmcanada",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool.html",
+    "https://www.facebook.com/CitCanada"
+  ]
+}

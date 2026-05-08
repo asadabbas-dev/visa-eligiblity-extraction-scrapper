@@ -1,0 +1,261 @@
+{
+  "page_title": "Money and finances - Canada.ca",
+  "url": "https://www.canada.ca/en/services/finance.html",
+  "h1": "Money and finances",
+  "headings": {
+    "h2": [
+      "Services and information",
+      "Features",
+      "Page details"
+    ],
+    "h3": [
+      "Managing your money",
+      "Consumer affairs",
+      "Debt and borrowing",
+      "Education funding",
+      "Pensions and retirement",
+      "Financial tools and calculators",
+      "Savings and investments",
+      "Taxes",
+      "Financial literacy programs",
+      "Business financing and support",
+      "Protection from frauds and scams",
+      "Government finances",
+      "Financial and money services regulation",
+      "Insolvency",
+      "Canada-United States: Overview and federal supports",
+      "Buying, selling and supporting Canadian",
+      "Beware of suspicious messages, report them!",
+      "Canada’s government surplus marketplace"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Managing your money",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Housing, budgeting, banking, money transfers, insurance and planning your finances at different life stages."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Consumer affairs",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Solutions for everyday consumer topics like complaint resolution and consumer protection."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Debt and borrowing",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Managing debt, credit cards, mortgages, loans, lines of credit, credit reports and more."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Education funding",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Scholarships, paying for your education, RESPs, budgeting tips and paying off student debt."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Pensions and retirement",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Retirement planning, public and registered pensions, RRSPs, RRIFs, retirement income calculator and more."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Financial tools and calculators",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Tools to help you choose a bank account and credit card, including budget and mortgage calculators."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Savings and investments",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Savings and investment types, setting goals and choosing a financial advisor."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Taxes",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Tax information for individuals, businesses, charities and trusts."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Financial literacy programs",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Educational materials to help students and adults increase their financial knowledge and skills."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Business financing and support",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Grants and contributions, loans, tax credits, wage subsidies and other business support."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Protection from frauds and scams",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Identity theft, types of fraud, counterfeit money and other threats or scams."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Government finances",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "How the government manages its finances through the federal budget, planned spending and reports on expenses."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Financial and money services regulation",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Plan and trust administration, financial transaction reporting, the regulation of financial institutions and more."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Insolvency",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Consumer proposals, bankruptcy and how to find a Licensed Insolvency Trustee."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Canada-United States: Overview and federal supports",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "All Canada-U.S. support and information geared to Canadian businesses and individuals, including on importing, local products, travelling, and more."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Buying, selling and supporting Canadian",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Find information on Made in Canada labels, how to buy Canadian and the benefits of shopping and travelling in Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Beware of suspicious messages, report them!",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Learn how to recognize suspicious text messages and report them safely to help protect yourself."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Canada’s government surplus marketplace",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Shop GCSurplus for affordable government surplus items (furniture, vehicles and more) and support sustainability nationwide."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://gcsurplus.ca/mn-eng.cfm?utm_campaign=pspc-spac-gcsurplus-25-26&utm_medium=vanity-url&utm_source=canada-ca_bus&ind_en",
+    "https://innovation.ised-isde.canada.ca/s/?language=en_CA",
+    "https://ised-isde.canada.ca/site/canada-anti-spam-legislation/en/hung-mobile-spam",
+    "https://ised-isde.canada.ca/site/ised/en/made-canada-buying-selling-and-supporting-canadian?utm_campaign=ised-isde-made-in-canada-25-26&utm_medium=web&utm_source=web-button&utm_content=money-finance-en-250401",
+    "https://www.canada.ca/en/financial-consumer-agency/services/financial-literacy-programs.html",
+    "https://www.canada.ca/en/government/system/finances.html",
+    "https://www.canada.ca/en/government/united-states-canada.html",
+    "https://www.canada.ca/en/services/business/permits/federallyregulatedindustrysectors/financialservicesregulation.html",
+    "https://www.canada.ca/en/services/finance/bankruptcy.html",
+    "https://www.canada.ca/en/services/finance/consumer-affairs.html",
+    "https://www.canada.ca/en/services/finance/debt.html",
+    "https://www.canada.ca/en/services/finance/educationfunding.html",
+    "https://www.canada.ca/en/services/finance/fraud.html",
+    "https://www.canada.ca/en/services/finance/manage.html",
+    "https://www.canada.ca/en/services/finance/pensions.html",
+    "https://www.canada.ca/en/services/finance/savings.html",
+    "https://www.canada.ca/en/services/finance/tools.html",
+    "https://www.canada.ca/en/services/taxes.html"
+  ]
+}

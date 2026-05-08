@@ -1,0 +1,152 @@
+{
+  "page_title": "Visitor visa: About the document - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html",
+  "h1": "Who needs a visitor visa",
+  "headings": {
+    "h2": [
+      "On this page",
+      "Most travellers need a visitor visa",
+      "How long you can stay",
+      "Make sure you need a visitor visa before you apply",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "On this page",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [
+        "Most travellers need a visitor visa",
+        "How long you can stay",
+        "Make sure you need a visitor visa before you apply"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Most travellers need a visitor visa",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "How long you can stay",
+      "heading_level": "h2",
+      "category": "biometrics",
+      "items": [
+        "Most visitors can stay for up to 6 months in Canada.",
+        "At the port of entry, the border services officer may allow you to stay for less or more than 6 months. If that’s the case, they’ll put the date you need to leave by in your passport. They might also give you a document, called a visitor record , which will show the date you need to leave by.",
+        "If you do not get a stamp in your passport, you can stay for 6 months from the day you entered Canada or until the expiry of your biometrics or your passport expires, whichever comes first. Super visa holders who enter Canada after June 22, 2023 can stay for 5 years. If you need a stamp, you can ask a border services officer for one. If you arrive at an airport that uses primary inspection kiosks , you may ask the border services officer for a stamp after you finish at the kiosk."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Make sure you need a visitor visa before you apply",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "You may need a visitor visa or an Electronic Travel Authorization. The entry document you need depends on:"
+      ],
+      "bullets": [
+        "the type of travel document you plan to travel with",
+        "the country that issued your travel document",
+        "your nationality",
+        "how you’ll travel to Canada for this trip"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "On this page",
+      "level": "h2",
+      "items": [],
+      "bullets": [
+        "Most travellers need a visitor visa",
+        "How long you can stay",
+        "Make sure you need a visitor visa before you apply"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Most travellers need a visitor visa",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "How long you can stay",
+      "level": "h2",
+      "items": [
+        "Most visitors can stay for up to 6 months in Canada.",
+        "At the port of entry, the border services officer may allow you to stay for less or more than 6 months. If that’s the case, they’ll put the date you need to leave by in your passport. They might also give you a document, called a visitor record , which will show the date you need to leave by.",
+        "If you do not get a stamp in your passport, you can stay for 6 months from the day you entered Canada or until the expiry of your biometrics or your passport expires, whichever comes first. Super visa holders who enter Canada after June 22, 2023 can stay for 5 years. If you need a stamp, you can ask a border services officer for one. If you arrive at an airport that uses primary inspection kiosks , you may ask the border services officer for a stamp after you finish at the kiosk."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Make sure you need a visitor visa before you apply",
+      "level": "h2",
+      "items": [
+        "You may need a visitor visa or an Electronic Travel Authorization. The entry document you need depends on:"
+      ],
+      "bullets": [
+        "the type of travel document you plan to travel with",
+        "the country that issued your travel document",
+        "your nationality",
+        "how you’ll travel to Canada for this trip"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1452&top=16",
+    "https://ircc.canada.ca/english/visit/visas.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html#how_long",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html#make_sure",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html#most",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/who-needs-transit-visa.html",
+    "https://www.cbsa-asfc.gc.ca/services/border-tech-frontiere/pik-bip-eng.html"
+  ]
+}

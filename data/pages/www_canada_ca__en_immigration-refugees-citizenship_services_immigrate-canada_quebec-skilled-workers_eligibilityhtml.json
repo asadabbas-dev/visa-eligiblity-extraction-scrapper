@@ -1,0 +1,43 @@
+{
+  "page_title": "Quebec-selected skilled workers: Who can apply - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/quebec-skilled-workers/eligibility.html",
+  "h1": "Who can apply",
+  "headings": {
+    "h2": [
+      "Eligibility",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Eligibility",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "You can apply as a Quebec-selected skilled worker if you"
+      ],
+      "bullets": [
+        "hold a Quebec Selection Certificate ( Certificat de sélection du Québec ) from the Government of Quebec",
+        "submit a complete permanent residence application, including police certificates"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [
+    "police certificates"
+  ],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates.html"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "page_title": "Link an application to your IRCC secure account - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account/link-paper-online.html",
+  "h1": "Link an application to your IRCC secure account",
+  "headings": {
+    "h2": [
+      "Applications that can be linked",
+      "How to link an application to your IRCC secure account",
+      "Top questions about linking your application to an online account",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Applications that can be linked",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Not all applications can be linked. Check if you can link your application before proceeding."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "How to link an application to your IRCC secure account",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "To link an application:",
+        "You can try to link an application 5 times. If it doesn’t work after 5 tries, you’ll be locked out for 24 hours.",
+        "After you link your application, you won’t receive paper letters about your application. We’ll send messages about your application to your account.",
+        "If you’re using a representative, they’ll lose access when you link the application to your account.",
+        "Find out how to change or cancel your representative."
+      ],
+      "bullets": [
+        "Follow the steps to sign into your online account or create a new one .",
+        "In your account, under “View the applications you submitted”, click on “Add (link) your application to your account to check your status”.",
+        "Enter the information exactly as you did on your original application. If you made updates after you applied, enter the most recent information."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Top questions about linking your application to an online account",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1221&top=3",
+    "http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1222&top=3",
+    "http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1226&top=23",
+    "http://www.cic.gc.ca/english/helpcentre/answer.asp?qnum=1227&top=23",
+    "http://www.cic.gc.ca/english/helpcentre/results-by-topic.asp?st=23.3",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/web-form.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/change-cancel.html"
+  ]
+}

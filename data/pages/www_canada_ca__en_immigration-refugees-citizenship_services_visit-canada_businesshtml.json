@@ -1,0 +1,146 @@
+{
+  "page_title": "Business visitors: Attend conferences, events and meetings in Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business.html",
+  "h1": "Business visitors: Attend conferences, events and meetings in Canada",
+  "headings": {
+    "h2": [
+      "Services and information",
+      "Features",
+      "Page details"
+    ],
+    "h3": [
+      "Business visitor",
+      "Canadian business or event organizer",
+      "Before you arrive"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Business visitor",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "Find out if you qualify as a business visitor, if you need a visa or an electronic travel authorization, about letters of invitation and other documents you may need, and how to plan for your visit to Canada"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Canadian business or event organizer",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "Find out how to bring business guests to Canada, how to register your event with us, how to prepare a letter of invitation, what you need to know about protocol and border requirements, and more"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Before you arrive",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Find out what you can bring to Canada when you cross the border."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "Services and information",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Business visitor",
+          "level": "h3",
+          "items": [
+            "Find out if you qualify as a business visitor, if you need a visa or an electronic travel authorization, about letters of invitation and other documents you may need, and how to plan for your visit to Canada"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Services and information"
+        },
+        {
+          "heading": "Canadian business or event organizer",
+          "level": "h3",
+          "items": [
+            "Find out how to bring business guests to Canada, how to register your event with us, how to prepare a letter of invitation, what you need to know about protocol and border requirements, and more"
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Services and information"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Features",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Before you arrive",
+          "level": "h3",
+          "items": [
+            "Find out what you can bring to Canada when you cross the border."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Features"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/video/before-you-arrive-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/organizers-events-conferences.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/visitors-events-conferences.html"
+  ]
+}

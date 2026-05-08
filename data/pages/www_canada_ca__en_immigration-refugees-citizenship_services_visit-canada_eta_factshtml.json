@@ -1,0 +1,185 @@
+{
+  "page_title": "Find out about electronic travel authorization (eTA) - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts.html",
+  "h1": "Find out about electronic travel authorization (eTA)",
+  "headings": {
+    "h2": [
+      "What is an Electronic Travel Authorization?",
+      "Who needs an eTA to travel to Canada?",
+      "How do I apply for an eTA for travel to Canada?",
+      "Page details"
+    ],
+    "h3": [
+      "Avoid this common mistake when you apply",
+      "What to bring to the airport",
+      "Confirm passport number is correct"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "What is an Electronic Travel Authorization?",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Who needs an eTA to travel to Canada?",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "How do I apply for an eTA for travel to Canada?",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Avoid this common mistake when you apply",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "What to bring to the airport",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Confirm passport number is correct",
+      "heading_level": "h3",
+      "category": "travel_requirements",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "What is an Electronic Travel Authorization?",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Who needs an eTA to travel to Canada?",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "How do I apply for an eTA for travel to Canada?",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Avoid this common mistake when you apply",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "How do I apply for an eTA for travel to Canada?"
+        },
+        {
+          "heading": "What to bring to the airport",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "How do I apply for an eTA for travel to Canada?"
+        },
+        {
+          "heading": "Confirm passport number is correct",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "How do I apply for an eTA for travel to Canada?"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [
+    "https://www.canada.ca/content/dam/ircc/documents/pdf/english/eta/english.pdf"
+  ],
+  "related_links": [
+    "http://www.cbsa.gc.ca/travel-voyage/td-dv-eng.html",
+    "https://ircc.canada.ca/english/visit/apply-eta-after.asp#basic",
+    "https://ircc.canada.ca/english/visit/visas.asp",
+    "https://www.canada.ca/content/canadasite/en/immigration-refugees-citizenship/services/permanent-residents/status/previous-permanent-residents",
+    "https://www.canada.ca/content/canadasite/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-zh-cantonese",
+    "https://www.canada.ca/content/dam/ircc/documents/pdf/english/eta/english.pdf",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/status.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/travel-document.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/dual-canadian-citizens-visit-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#eta-exemptions",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#visarequired",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/eligibility/eta-x.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-ar.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-bg.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-br.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-de.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-el.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-es.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-fil.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-hu.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-it.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-ja.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-ko.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-nl.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-pl.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-pt.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-ro.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-th.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/facts-zh-mandarin.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/ave/faits.html"
+  ]
+}

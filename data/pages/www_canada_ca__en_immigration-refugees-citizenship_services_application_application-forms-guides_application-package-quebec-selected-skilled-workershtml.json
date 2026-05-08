@@ -1,0 +1,50 @@
+{
+  "page_title": "Quebec-selected skilled workers: About the process - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/application-package-quebec-selected-skilled-workers.html",
+  "h1": "Quebec-selected skilled workers",
+  "headings": {
+    "h2": [
+      "Processing time",
+      "Fees",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Processing time",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "We couldn’t load the data. Try again."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Fees",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "From Error loading fee. Check the fee list ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/english/information/fees/fees.asp",
+    "https://www.quebec.ca/en/immigration/work-quebec/skilled-workers"
+  ]
+}

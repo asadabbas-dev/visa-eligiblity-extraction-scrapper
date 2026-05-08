@@ -1,0 +1,1352 @@
+[
+  {
+    "concept": "passport",
+    "confidence": 0.7,
+    "source_heading": "Gather your required documents",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "source_type": "bullet",
+    "category": "travel_requirements",
+    "evidence": "a digital copy of your valid (not expired) passport or travel document"
+  },
+  {
+    "concept": "imm_5645",
+    "confidence": 0.7,
+    "source_heading": "Gather the rest of the documents you might need",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "source_type": "bullet",
+    "category": "supporting_documents",
+    "evidence": "Family Information (IMM 5645) form"
+  },
+  {
+    "concept": "imm_5476",
+    "confidence": 0.7,
+    "source_heading": "Gather the rest of the documents you might need",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "source_type": "bullet",
+    "category": "supporting_documents",
+    "evidence": "Use of a representative (IMM 5476) (opens in a new tab) (if using an authorized representative)"
+  },
+  {
+    "concept": "imm_5475",
+    "confidence": 0.7,
+    "source_heading": "Gather the rest of the documents you might need",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "source_type": "bullet",
+    "category": "supporting_documents",
+    "evidence": "Authority to Release Personal Information to a Designated Individual (IMM 5475) form (opens in a new tab) (if authorizing information from your case file to be released to someone other than yourself)"
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.72,
+    "source_heading": "Pay your fees",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "source_type": "paragraph",
+    "category": "biometrics",
+    "evidence": "We’ll ask you to pay your fees at the end of your application. You’ll need a valid credit or debit card."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.6,
+    "source_heading": "Pay your fees",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "source_type": "paragraph",
+    "category": "biometrics",
+    "evidence": "In most cases, your fees will include processing fees and biometrics fees for you and for anyone you included on your application."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.72,
+    "source_heading": "Give your biometrics after you apply (if applicable)",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "Wait for your biometrics instruction letter, and then book your biometrics collection appointment as soon as possible to avoid processing delays."
+  },
+  {
+    "concept": "possible_medical_exam",
+    "confidence": 0.4,
+    "source_heading": "Who can get a visa",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "You may also need a medical exam and letter of invitation from someone who lives in Canada."
+  },
+  {
+    "concept": "invitation_letter",
+    "confidence": 0.4,
+    "source_heading": "Who can get a visa",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "You may also need a medical exam and letter of invitation from someone who lives in Canada."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.7,
+    "source_heading": "Who can get a visa",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "have a valid travel document , like a passport"
+  },
+  {
+    "concept": "good_health",
+    "confidence": 0.841,
+    "source_heading": "Who can get a visa",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "be in good health"
+  },
+  {
+    "concept": "no_criminal_convictions",
+    "confidence": 0.5,
+    "source_heading": "Who can get a visa",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "have no criminal or immigration-related convictions"
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.5,
+    "source_heading": "Who can get a visa",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "convince an immigration officer that you will leave Canada at the end of your visit"
+  },
+  {
+    "concept": "proof_of_funds",
+    "confidence": 0.5,
+    "source_heading": "Who can get a visa",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "have enough money for your stay The amount of money you will need depends on how long you will stay and if you will stay in a hotel, or with friends or relatives."
+  },
+  {
+    "concept": "no_criminal_convictions",
+    "confidence": 0.52,
+    "source_heading": "Some people are not allowed to enter Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html",
+    "source_type": "paragraph",
+    "category": "inadmissibility",
+    "evidence": "Some people are inadmissible to Canada, which means they are not allowed to enter the country. You can be inadmissible for several reasons, including being involved in:"
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.6,
+    "source_heading": "Processing times",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "You may need to give biometrics with your application. This processing time doesn’t include the time you need to give biometrics."
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.52,
+    "source_heading": "Fees",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html",
+    "source_type": "paragraph",
+    "category": "processing_information",
+    "evidence": "Starting from: $CAN 100"
+  },
+  {
+    "concept": "police_certificates",
+    "confidence": 0.4,
+    "source_heading": "How to tell us you can’t get a document",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/common-supporting-documents.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "You’re responsible for showing us why you can’t get a police certificate you need. Sending us a letter and proof of your efforts does not guarantee we’ll accept them."
+  },
+  {
+    "concept": "police_certificates",
+    "confidence": 0.5,
+    "source_heading": "How to tell us you can’t get a document",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/common-supporting-documents.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "Your letter must also explain all the efforts you took to get the police certificate."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.7,
+    "source_heading": "On this page",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "biometrics",
+    "evidence": "Your fingerprints and photo (biometrics)"
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.72,
+    "source_heading": "Your fingerprints and photo (biometrics)",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "biometrics",
+    "evidence": "Book your biometrics collection appointment as soon as you can to avoid processing delays."
+  },
+  {
+    "concept": "possible_medical_exam",
+    "confidence": 0.644,
+    "source_heading": "Processing your visitor visa application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "get a medical exam"
+  },
+  {
+    "concept": "police_certificates",
+    "confidence": 0.654,
+    "source_heading": "Processing your visitor visa application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "get a police certificate"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "Apply online for an eTA",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "To apply, you must have a valid passport, a credit or a debit card and an email address, and you must answer a few questions in the online application."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.72,
+    "source_heading": "Dual Canadian citizens need a Canadian passport",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "How to apply for a passport, and why you need a passport and not an eTA for travel to or through Canada"
+  },
+  {
+    "concept": "possible_medical_exam",
+    "confidence": 0.4,
+    "source_heading": "Are there medical requirements?",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "You usually do not need a medical exam."
+  },
+  {
+    "concept": "possible_medical_exam",
+    "confidence": 0.5,
+    "source_heading": "Are there medical requirements?",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "have an upfront medical exam by contacting a Panel Physician; or"
+  },
+  {
+    "concept": "imm_5476",
+    "confidence": 0.82,
+    "source_heading": "Use of a Representative (IMM 5476)",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+    "source_type": "bullet",
+    "category": "required_forms",
+    "evidence": "you have appointed by completing the IMM 5476 form;"
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.72,
+    "source_heading": "How to pay the fees for your application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+    "source_type": "paragraph",
+    "category": "supporting_documents",
+    "evidence": "To pay your fees for your application you’ll need:"
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.6,
+    "source_heading": "Incorrect fee payment",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+    "source_type": "paragraph",
+    "category": "financial_requirements",
+    "evidence": "Note: We will start processing your application after you return your application with the fees."
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.5,
+    "source_heading": "Incorrect fee payment",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+    "source_type": "bullet",
+    "category": "financial_requirements",
+    "evidence": "tell you the fee amount and how to pay it."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.4,
+    "source_heading": "If I need to give my biometric fingerprints and photo, where do I go?",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+    "source_type": "paragraph",
+    "category": "biometrics",
+    "evidence": "Consult the list of biometric collection service points ."
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.7,
+    "source_heading": "What you can do to help processing",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "pay your application and biometric fees (if required)"
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.7,
+    "source_heading": "What you can do to help processing",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "provide your biometrics as soon as possible (if required)"
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.4,
+    "source_heading": "Protecting your information",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5256-applying-visitor-visa-temporary-resident-visa.html",
+    "source_type": "paragraph",
+    "category": "required_forms",
+    "evidence": "Your personal information, including biometric fingerprints and photograph, if given:"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "How long you can stay",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html",
+    "source_type": "paragraph",
+    "category": "biometrics",
+    "evidence": "At the port of entry, the border services officer may allow you to stay for less or more than 6 months. If that’s the case, they’ll put the date you need to leave by in your passport. They might also give you a document, called a visitor record , which will show the date you need to leave by."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.6,
+    "source_heading": "How long you can stay",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html",
+    "source_type": "paragraph",
+    "category": "biometrics",
+    "evidence": "If you do not get a stamp in your passport, you can stay for 6 months from the day you entered Canada or until the expiry of your biometrics or your passport expires, whichever comes first. Super visa holders who enter Canada after June 22, 2023 can stay for 5 years. If you need a stamp, you can ask a border services officer for one. If you arrive at an airport that uses primary inspection kiosks "
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.5,
+    "source_heading": "Make sure you need a visitor visa before you apply",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "the type of travel document you plan to travel with"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.4,
+    "source_heading": "Your arrival in Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "A valid visa and travel document don’t guarantee that you can enter Canada."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.5,
+    "source_heading": "We determine if you meet all entry requirements",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "If you enter Canada at one of 4 major Canadian airports Your fingerprints will be checked automatically at a primary inspection kiosk . The system will check your identity against the information collected when your application was submitted."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "When you enter Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "If you pass the identity check, health assessment, and meet the entry requirements , the border services officer may stamp your passport or let you know how long you can stay in Canada. You’re normally allowed to stay in Canada for up to 6 months."
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.5,
+    "source_heading": "When you enter Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/prepare-arrival.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "you’ll leave Canada at the end of your approved length of stay"
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.6,
+    "source_heading": "Processing times",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "You may need to give biometrics with your application. This processing time doesn’t include the time you need to give biometrics."
+  },
+  {
+    "concept": "proof_of_funds",
+    "confidence": 0.5,
+    "source_heading": "Step 1: Find out if you’re a business visitor or if you need to apply for a work permit instead",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/visitors-events-conferences.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "you meet Canada’s basic entry requirements, because you have a valid travel document, such as a passport have enough money for your stay and to return home plan to leave Canada at the end of your visit are not a criminal, security or health risk to Canadians"
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.5,
+    "source_heading": "Step 1: Find out if you’re a business visitor or if you need to apply for a work permit instead",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/visitors-events-conferences.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "you meet Canada’s basic entry requirements, because you have a valid travel document, such as a passport have enough money for your stay and to return home plan to leave Canada at the end of your visit are not a criminal, security or health risk to Canadians"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.7,
+    "source_heading": "Step 1: Find out if you’re a business visitor or if you need to apply for a work permit instead",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/visitors-events-conferences.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "you meet Canada’s basic entry requirements, because you have a valid travel document, such as a passport have enough money for your stay and to return home plan to leave Canada at the end of your visit are not a criminal, security or health risk to Canadians"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.7,
+    "source_heading": "Step 5: Find out what you need to bring when you travel to Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/visitors-events-conferences.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "a passport or travel document that is valid for your entire stay"
+  },
+  {
+    "concept": "invitation_letter",
+    "confidence": 0.5,
+    "source_heading": "Step 5: Find out what you need to bring when you travel to Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/visitors-events-conferences.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "letters of support from your parent company, and a letter of invitation from the Canadian host business or a letter of recognition from the Canada Border Services Agency"
+  },
+  {
+    "concept": "proof_of_funds",
+    "confidence": 0.5,
+    "source_heading": "Step 5: Find out what you need to bring when you travel to Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/visitors-events-conferences.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "proof that you have enough money to cover both your stay in Canada and your return home"
+  },
+  {
+    "concept": "invitation_letter",
+    "confidence": 0.5,
+    "source_heading": "On this page",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html",
+    "source_type": "bullet",
+    "category": "required_forms",
+    "evidence": "Letter of invitation from your child or grandchild"
+  },
+  {
+    "concept": "possible_medical_exam",
+    "confidence": 0.5,
+    "source_heading": "On this page",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html",
+    "source_type": "bullet",
+    "category": "required_forms",
+    "evidence": "Proof of completing a medical exam"
+  },
+  {
+    "concept": "invitation_letter",
+    "confidence": 0.4,
+    "source_heading": "Using a co-signer",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html",
+    "source_type": "paragraph",
+    "category": "supporting_documents",
+    "evidence": "Your host child’s or grandchild’s spouse or common-law partner may co-sign the letter of invitation and provide proof of income, if required, to meet the minimum necessary income. Other family members of your host, such as siblings, can’t co-sign."
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.4,
+    "source_heading": "Proof of health insurance",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "You must have proof of a health insurance policy on each entry to Canada. If your health insurance will expire before you leave Canada, you should renew your policy to maintain coverage during your stay."
+  },
+  {
+    "concept": "possible_medical_exam",
+    "confidence": 0.4,
+    "source_heading": "Proof of completing a medical exam",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html",
+    "source_type": "paragraph",
+    "category": "medical_requirements",
+    "evidence": "You must provide proof that you had a medical exam with an approved panel physician ."
+  },
+  {
+    "concept": "imm_5476",
+    "confidence": 0.6,
+    "source_heading": "Use of a representative form not always needed",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html",
+    "source_type": "paragraph",
+    "category": "required_forms",
+    "evidence": "You must also fill out the Use of a Representative (IMM 5476) form ."
+  },
+  {
+    "concept": "no_criminal_convictions",
+    "confidence": 0.4,
+    "source_heading": "Inadmissibility",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/minor-children-travelling-canada.html",
+    "source_type": "paragraph",
+    "category": "inadmissibility",
+    "evidence": "Some people are inadmissible—they are not allowed to come to Canada. Several things can make you inadmissible, including involvement in criminal activity, in human rights violations or in organized crime."
+  },
+  {
+    "concept": "invitation_letter",
+    "confidence": 0.52,
+    "source_heading": "Information for the person writing the letter of invitation",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/letter-invitation.html",
+    "source_type": "paragraph",
+    "category": "required_forms",
+    "evidence": "Writing a letter of invitation doesn’t mean you’re legally responsible for the visitor once they enter Canada. You should still write the letter in good faith. You must tell the truth and plan to keep the promises you make in the letter."
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.5,
+    "source_heading": "Information for the person writing the letter of invitation",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/letter-invitation.html",
+    "source_type": "bullet",
+    "category": "required_forms",
+    "evidence": "when the person plans to leave Canada"
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.4,
+    "source_heading": "Download the application package",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa/paper-application.html",
+    "source_type": "paragraph",
+    "category": "required_forms",
+    "evidence": "Read the guide carefully before you complete your application. We won’t refund your application fee, so make sure you need a visitor visa before you apply."
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.72,
+    "source_heading": "Pay your application fees",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa/paper-application.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "In most cases, your fees will include processing fees for you and for anyone you include on your application."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.6,
+    "source_heading": "Pay your application fees",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa/paper-application.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "If you’re applying for the first time, you must pay the biometrics fee when you submit your application (unless you’re exempt). Otherwise, you may experience delays."
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.72,
+    "source_heading": "Third-party fees",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa/paper-application.html",
+    "source_type": "paragraph",
+    "category": "supporting_documents",
+    "evidence": "Our instruction guides (opens in a new tab) can help you understand which fees apply to you."
+  },
+  {
+    "concept": "possible_medical_exam",
+    "confidence": 0.649,
+    "source_heading": "Third-party fees",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa/paper-application.html",
+    "source_type": "bullet",
+    "category": "supporting_documents",
+    "evidence": "your medical exam"
+  },
+  {
+    "concept": "police_certificates",
+    "confidence": 0.671,
+    "source_heading": "Third-party fees",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa/paper-application.html",
+    "source_type": "bullet",
+    "category": "supporting_documents",
+    "evidence": "a police certificate"
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.6,
+    "source_heading": "Submit your application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa/paper-application.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "If you need to give biometrics (fingerprints and photograph), and you’re applying on paper, submit your application in person . Veterans Affairs Canada staff will check that it’s complete and will confirm that you have paid the correct fees before you can give your biometrics."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.6,
+    "source_heading": "Submit your application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa/paper-application.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "If you need to give biometrics (fingerprints and photograph), and you’re applying on paper, submit your application in person . Veterans Affairs Canada staff will check that it’s complete and will confirm that you have paid the correct fees before you can give your biometrics."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.4,
+    "source_heading": "eTA",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "You don’t need an eTA if you’re transiting through Canada and you enter by train, bus, boat or cruise ship. You do need to bring the right travel documents ."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.4,
+    "source_heading": "Citizens and permanent residents of the United States",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "You just need to bring the right travel documents ."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.72,
+    "source_heading": "Passport holders of certain countries or territories",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "You may be able to transit without a visa if you hold a passport from one of the following countries or territories and you meet certain conditions:"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.82,
+    "source_heading": "Passport holders of certain countries or territories",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "Taiwan (holder of passport without an personal identification number)"
+  },
+  {
+    "concept": "possible_medical_exam",
+    "confidence": 0.5,
+    "source_heading": "Applicant requirements",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/eligibility.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "take an immigration medical exam (opens in a new tab)"
+  },
+  {
+    "concept": "proof_of_ties",
+    "confidence": 0.644,
+    "source_heading": "General requirements for visiting Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/eligibility.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "your ties to your home country"
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.7,
+    "source_heading": "Step 4: Create your online account or sign in",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "pay your fees"
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.5,
+    "source_heading": "On this page",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "When to apply for your new visitor visa (in Canada) If you leave Canada before you get your new visitor visa If you must leave Canada for exceptional reasons before you get your new visitor visa If you applied online to extend your work or study permit"
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.4,
+    "source_heading": "When to apply for your new visitor visa (in Canada)",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "Complete this web form before you leave Canada ."
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.5,
+    "source_heading": "When to apply for your new visitor visa (in Canada)",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "apply at least 2 months before you plan to leave Canada"
+  },
+  {
+    "concept": "possible_medical_exam",
+    "confidence": 0.5,
+    "source_heading": "When to apply for your new visitor visa (in Canada)",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "additional requirements, like biometrics (if not already on file) and/or a medical exam"
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.7,
+    "source_heading": "When to apply for your new visitor visa (in Canada)",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "additional requirements, like biometrics (if not already on file) and/or a medical exam"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.7,
+    "source_heading": "When to apply for your new visitor visa (in Canada)",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "a delay in your return to Canada You’ll only be able to travel back to Canada once you get your new visitor visa in your passport. There’s no guarantee that you’ll be approved."
+  },
+  {
+    "concept": "imm_5257",
+    "confidence": 0.6,
+    "source_heading": "Get the right application form",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+    "source_type": "paragraph",
+    "category": "required_forms",
+    "evidence": "The application form listed in your document checklist will be called Application for Visitor Visa (Temporary Resident Visa) Made Outside of Canada (IMM 5257) . This is the form you need to fill out, even when you apply from inside Canada."
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.6,
+    "source_heading": "Get the right application form",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+    "source_type": "paragraph",
+    "category": "required_forms",
+    "evidence": "Use your account to pay your fees and check your application status."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "Get the right application form",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-new-temporary-resident-visa-within-canada.html",
+    "source_type": "paragraph",
+    "category": "required_forms",
+    "evidence": "If you can’t apply online because of a disability, an exceptional circumstance beyond your control or a specific situation that is not included in the IRCC secure account questionnaire, such as travelling with an alien’s passport, you can apply on paper ."
+  },
+  {
+    "concept": "invitation_letter",
+    "confidence": 0.5,
+    "source_heading": "On this page",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/organizers-events-conferences.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "Step 4: Prepare a letter of invitation for the person you’re inviting"
+  },
+  {
+    "concept": "invitation_letter",
+    "confidence": 0.5,
+    "source_heading": "Step 1: Carry out your responsibilities",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/organizers-events-conferences.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "Provide your potential visiting business partner with 2 copies of a letter of invitation ."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.5,
+    "source_heading": "Step 3: Find out if the person you’re inviting needs a visa or an electronic travel authorization (eTA)",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/organizers-events-conferences.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "carry proper travel documents and identification for themselves and any children travelling with them"
+  },
+  {
+    "concept": "invitation_letter",
+    "confidence": 0.62,
+    "source_heading": "Step 4: Prepare a letter of invitation for the person you are inviting",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/organizers-events-conferences.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "Find out what to include in a letter of invitation to a business visitor."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.6,
+    "source_heading": "Visitor visa",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business/organizers-events-conferences.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "If they’re applying for the first time , your visitor needs to give their fingerprints and photo (biometrics ), unless they’re exempt."
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.674,
+    "source_heading": "Fees",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa.html",
+    "source_type": "paragraph",
+    "category": "processing_information",
+    "evidence": "Free"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "When you board your flight",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "Your eTA is linked to the passport you used to apply. You need to present this passport when you check-in to your flight to Canada. You don’t need to print out any special document."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.4,
+    "source_heading": "You arrive in Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "A valid eTA and travel document don’t guarantee that you can enter Canada."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "We determine if you meet all entry requirements",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "When you arrive, a border services officer will ask to see your passport and other travel documents. They’ll check your identity to make sure that you’re the same person who was approved to travel to Canada."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.5,
+    "source_heading": "We determine if you meet all entry requirements",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "If you enter Canada at one of 10 major Canadian airports Your fingerprints will be checked automatically at a primary inspection kiosk . The system will check your identity against the information collected when your application was submitted."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "You enter Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "If you pass the identity check, health assessment, and meet the entry requirements , the border services officer may stamp your passport or let you know how long you can stay in Canada. You’re normally allowed to stay in Canada for up to 6 months."
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.4,
+    "source_heading": "You enter Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "If you don’t obey the conditions of your temporary resident status, we’ll ask you to leave Canada. Most people asked to leave Canada have the right to a fair hearing to review the decision."
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.5,
+    "source_heading": "You enter Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "you’ll leave Canada at the end of your approved stay"
+  },
+  {
+    "concept": "no_criminal_convictions",
+    "confidence": 0.4,
+    "source_heading": "Inadmissibility",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "inadmissibility",
+    "evidence": "Some people are inadmissible—they are not allowed to come to Canada. Several things can make you inadmissible, including involvement in criminal activity, in human rights violations or in organized crime."
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.5,
+    "source_heading": "You entered Canada before June 22, 2023",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/length-stay-canada.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "leave Canada before the end of your authorized stay and re-enter Canada, or"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "You entered Canada on or after June 22, 2023",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/length-stay-canada.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "You’re eligible to stay for 5 years at a time. If a border officer grants you entry to Canada, you can stay for 5 years, even if the border officer doesn’t stamp your passport."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "Canadian-American dual citizens",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/dual-canadian-citizens-visit-canada.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "If you travel with just your valid U.S. passport, you"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.7,
+    "source_heading": "Canadian-American dual citizens",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/dual-canadian-citizens-visit-canada.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "either your valid U.S. passport or your valid Canadian passport"
+  },
+  {
+    "concept": "invitation_letter",
+    "confidence": 0.4,
+    "source_heading": "Canadian business or event organizer",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/business.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "Find out how to bring business guests to Canada, how to register your event with us, how to prepare a letter of invitation, what you need to know about protocol and border requirements, and more"
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.7,
+    "source_heading": "On this page",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/apply.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "Pay the fees"
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.7,
+    "source_heading": "On this page",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/apply.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "Give your biometrics after you apply"
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.72,
+    "source_heading": "Step 4: Pay the fees",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/apply.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "We’ll ask you to pay your fees at the end of your application. To pay your fees, you’ll need:"
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.6,
+    "source_heading": "Step 4: Pay the fees",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/apply.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "In most cases, your fees will include processing fees. If you need to give biometrics, pay the fee when you apply to avoid processing delays."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.72,
+    "source_heading": "Step 6: Give your biometrics after you apply If applicable",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/apply.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "Wait for your biometrics instructions letter (BIL), and then book your biometrics collection appointment as soon as you can to avoid processing delays."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.72,
+    "source_heading": "If you’ve already given your biometrics before",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/apply.html",
+    "source_type": "paragraph",
+    "category": "biometrics",
+    "evidence": "We can’t issue you a super visa that’s valid for a period longer than your biometrics."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.5,
+    "source_heading": "Make sure you need a transit visa",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/who-needs-transit-visa.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "the type of travel document you plan to travel with"
+  },
+  {
+    "concept": "invitation_letter",
+    "confidence": 0.5,
+    "source_heading": "Step 1: Calculate family size to find your host’s minimum income requirements",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents/host-financial-support.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "previously approved super visa applicants These are super visa holders who were in another letter of invitation (that is still applicable) signed by the host or the host’s spouse or common-law partner."
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.6,
+    "source_heading": "Processing your super visa application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "We’ll check your application to make sure you have all the documents you need and that you paid the fees."
+  },
+  {
+    "concept": "possible_medical_exam",
+    "confidence": 0.5,
+    "source_heading": "Processing your super visa application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "get a medical exam valid medical exams are required for all applicants"
+  },
+  {
+    "concept": "police_certificates",
+    "confidence": 0.654,
+    "source_heading": "Processing your super visa application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "get a police certificate"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "If your application is approved",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "You’ll receive a letter with instructions to submit your passport to a visa application centre (VAC) to receive a visa. You cannot have your visa printed in Canada. If you’re from a visa-exempt country , we’ll issue you a letter to give to a border services officer when you arrive in Canada."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.5,
+    "source_heading": "Identity check",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "required_forms",
+    "evidence": "If you enter Canada at 1 of 10 major Canadian airports Your fingerprints will be checked automatically at a primary inspection kiosk . The system will check your identity against the information collected when your application was submitted."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "Have your documents ready",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "The officer will ask to see your passport or travel documents. You should also bring the documents you used for your super visa application (opens in a new tab) . Make sure these documents aren’t packed in your luggage."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "When you enter Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "If you pass the identity check and meet the entry requirements , the border services officer will stamp your passport, allowing you to stay in Canada for 5 years."
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.5,
+    "source_heading": "When you enter Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "you’ll leave Canada at the end of your approved stay"
+  },
+  {
+    "concept": "no_criminal_convictions",
+    "confidence": 0.4,
+    "source_heading": "Entry requirements",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "Some people are inadmissible. This means they’re not allowed to enter Canada. Some reasons you may be inadmissible to Canada include involvement in:"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.7,
+    "source_heading": "Entry requirements",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "have a valid travel document, such as a passport"
+  },
+  {
+    "concept": "good_health",
+    "confidence": 0.841,
+    "source_heading": "Entry requirements",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "be in good health"
+  },
+  {
+    "concept": "no_criminal_convictions",
+    "confidence": 0.5,
+    "source_heading": "Entry requirements",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "have no criminal or immigration-related convictions"
+  },
+  {
+    "concept": "leave_canada_after_visit",
+    "confidence": 0.5,
+    "source_heading": "Entry requirements",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "convince an immigration officer that you’ll leave Canada at the end of your visit"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.7,
+    "source_heading": "While you’re in Canada and when re-entering",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "travel_requirements",
+    "evidence": "make sure your passport is valid while you’re in Canada"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "American citizens",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "In most cases, you must travel with your valid US passport."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "US lawful permanent residents",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "You don’t need to provide your passport."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.7,
+    "source_heading": "US lawful permanent residents",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "a valid passport from your country of nationality (or an equivalent acceptable travel document )"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "American-Canadian citizens",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "You can enter Canada as an American-Canadian dual citizen with a valid Canadian or US passport."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "Travellers who need a visa",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "If you’re a citizen of any of the countries listed below, you need a valid visitor visa and a valid passport to visit or transit through Canada."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "Travellers who need an electronic travel authorization (eTA)",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "You may need an eTA to visit or transit through Canada if you’re a citizen with a passport from any of the eTA-required countries listed below."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "If you’re travelling by air",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "You need an eTA and a valid passport to board your flight to Canada if you’re a citizen of any of the countries listed below. You don’t need a visitor visa."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "If you’re travelling by land or sea",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "source_type": "paragraph",
+    "category": "eligibility_criteria",
+    "evidence": "If you’re from an eTA-required country listed above and arriving by car, bus, train or boat (including a cruise ship), you don’t need an eTA to enter Canada. You still need a valid passport."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.72,
+    "source_heading": "You need to give your biometrics",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "source_type": "paragraph",
+    "category": "biometrics",
+    "evidence": "In most cases, you need to give your fingerprints and photo (biometrics) after you apply for a visitor visa."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "Canadian citizens",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "Canadian citizens, including dual citizens, need a valid Canadian passport . American-Canadians can travel with a valid Canadian or US passport."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.4,
+    "source_heading": "Canadian permanent residents",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "Canadian permanent residents need a valid permanent resident card or permanent resident travel document ."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.7,
+    "source_heading": "Top questions about entering Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html",
+    "source_type": "bullet",
+    "category": "eligibility_criteria",
+    "evidence": "What happens if I get a new passport after I have received an eTA?"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.7,
+    "source_heading": "When to apply",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/eligibility.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "the stamp in your passport (This is not the date included on your visitor visa .) If you don’t have a stamp in your passport, the expiry date is 6 months from the day you entered Canada."
+  },
+  {
+    "concept": "imm_5409",
+    "confidence": 0.7,
+    "source_heading": "Documents",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply/alternate-format.html",
+    "source_type": "bullet",
+    "category": "required_forms",
+    "evidence": "Statutory Declaration of Common-Law Union [IMM 5409] (opens in a new tab)"
+  },
+  {
+    "concept": "imm_5476",
+    "confidence": 0.7,
+    "source_heading": "Documents",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply/alternate-format.html",
+    "source_type": "bullet",
+    "category": "required_forms",
+    "evidence": "Use of a Representative [IMM 5476] (opens in a new tab)"
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.72,
+    "source_heading": "Step 3: Pay your application fees",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply/alternate-format.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "In most cases, your fees will include processing fees for you and anyone you include on your application."
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.4,
+    "source_heading": "Step 4: Submit your application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply/alternate-format.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "Submit your completed application to the address given in the application package. Make sure you include the fee receipt and all the necessary documents."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "US citizens",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/return.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "You normally need a valid passport or travel document."
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "Travelling to or from the United States",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/eligibility.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "You may be able to transit without a visa if you hold a passport from one of the countries below and you meet certain conditions:"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.7,
+    "source_heading": "Travelling to or from the United States",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/eligibility.html",
+    "source_type": "bullet",
+    "category": "travel_requirements",
+    "evidence": "Taiwan (holder of passport without an personal identification number)"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "Carry valid travel documents",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/eligibility.html",
+    "source_type": "paragraph",
+    "category": "travel_requirements",
+    "evidence": "When travelling to Canada, you must have a valid passport for yourself and any children travelling with you. Passports are the only reliable and universally accepted identification document for travelling."
+  },
+  {
+    "concept": "no_criminal_convictions",
+    "confidence": 0.4,
+    "source_heading": "Some people aren’t allowed to enter Canada",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/eligibility.html",
+    "source_type": "paragraph",
+    "category": "inadmissibility",
+    "evidence": "Some people are not admissible to Canada, which means they’re not allowed to enter the country. You can be inadmissible for several reasons, including being involved in:"
+  },
+  {
+    "concept": "possible_medical_exam",
+    "confidence": 0.644,
+    "source_heading": "We process your transit visa application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "get a medical exam"
+  },
+  {
+    "concept": "police_certificates",
+    "confidence": 0.654,
+    "source_heading": "We process your transit visa application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/after-apply-next-steps.html",
+    "source_type": "bullet",
+    "category": "application_steps",
+    "evidence": "get a police certificate"
+  },
+  {
+    "concept": "passport",
+    "confidence": 0.6,
+    "source_heading": "Approving or refusing your application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "required_forms",
+    "evidence": "If your application is approved, the transit visa will be put in your passport."
+  },
+  {
+    "concept": "biometrics",
+    "confidence": 0.6,
+    "source_heading": "Processing time ?",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/after-apply-next-steps.html",
+    "source_type": "paragraph",
+    "category": "application_steps",
+    "evidence": "You may need to give biometrics with your application. This processing time doesn’t include the time you need to give biometrics."
+  },
+  {
+    "concept": "fees",
+    "confidence": 0.6,
+    "source_heading": "Complete your application",
+    "source_url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/transit-visa/apply.html",
+    "source_type": "paragraph",
+    "category": "processing_information",
+    "evidence": "You’ll then be taken to the Pay your fees page. There are no fees associated with the transit visa, so you can simply click on “Save and Continue.”"
+  }
+]

@@ -1,0 +1,211 @@
+{
+  "page_title": "Visitor record: How to apply - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply.html",
+  "h1": "How to apply",
+  "headings": {
+    "h2": [
+      "Applying online",
+      "If you can’t apply online",
+      "Page details"
+    ],
+    "h3": [
+      "Step 1: Make sure you have what you need",
+      "Step 2: Read the instruction guide",
+      "Step 3: Prepare your answers for the online tool",
+      "Step 4: Create your online account or sign in"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Applying online",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "When you apply online, we get your application instantly, which can help us process your application faster. If you already applied on paper, you don’t have to resubmit your application online."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Step 1: Make sure you have what you need",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "To apply online, you’ll need"
+      ],
+      "bullets": [
+        "a scanner or camera to create electronic copies of your documents",
+        "a valid credit or debit card"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Step 2: Read the instruction guide",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Even if you apply online, you should read the instruction guide before you complete your application. The guide will explain how to complete each field on the form."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Step 3: Prepare your answers for the online tool",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Before you can upload your forms, you must answer some questions. We use your answers to create a personalized document checklist for you. To apply for a visitor record, you must provide these answers in the online tool:"
+      ],
+      "bullets": [
+        "For the first question, “What would you like to do in Canada?”, select “Visit.”",
+        "When asked, “What is your current country/territory of residence?”, select “Canada.”"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Step 4: Create your online account or sign in",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "You need an account to apply online. You can use your account to"
+      ],
+      "bullets": [
+        "pay your fees",
+        "submit your application",
+        "check your status"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "If you can’t apply online",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "You can submit a paper application in any of these situations:",
+        "What to do if you can’t apply online"
+      ],
+      "bullets": [
+        "You can’t apply online because of a disability.",
+        "There’s a problem with the online application."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "Applying online",
+      "level": "h2",
+      "items": [
+        "When you apply online, we get your application instantly, which can help us process your application faster. If you already applied on paper, you don’t have to resubmit your application online."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "Step 1: Make sure you have what you need",
+          "level": "h3",
+          "items": [
+            "To apply online, you’ll need"
+          ],
+          "bullets": [
+            "a scanner or camera to create electronic copies of your documents",
+            "a valid credit or debit card"
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Applying online"
+        },
+        {
+          "heading": "Step 2: Read the instruction guide",
+          "level": "h3",
+          "items": [
+            "Even if you apply online, you should read the instruction guide before you complete your application. The guide will explain how to complete each field on the form."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Applying online"
+        },
+        {
+          "heading": "Step 3: Prepare your answers for the online tool",
+          "level": "h3",
+          "items": [
+            "Before you can upload your forms, you must answer some questions. We use your answers to create a personalized document checklist for you. To apply for a visitor record, you must provide these answers in the online tool:"
+          ],
+          "bullets": [
+            "For the first question, “What would you like to do in Canada?”, select “Visit.”",
+            "When asked, “What is your current country/territory of residence?”, select “Canada.”"
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Applying online"
+        },
+        {
+          "heading": "Step 4: Create your online account or sign in",
+          "level": "h3",
+          "items": [
+            "You need an account to apply online. You can use your account to"
+          ],
+          "bullets": [
+            "pay your fees",
+            "submit your application",
+            "check your status"
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "Applying online"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "If you can’t apply online",
+      "level": "h2",
+      "items": [
+        "You can submit a paper application in any of these situations:",
+        "What to do if you can’t apply online"
+      ],
+      "bullets": [
+        "You can’t apply online because of a disability.",
+        "There’s a problem with the online application."
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.interac.ca/en/interac-online-consumer.html",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1215&top=4",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5551-applying-change-conditions-extend-your-stay-canada.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/study-permit-tool.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply.html#centred-popup1",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply.html#centred-popup2",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply.html#tr-venezuela-popup",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/apply/alternate-format.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay/return.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/need-permit.html"
+  ]
+}

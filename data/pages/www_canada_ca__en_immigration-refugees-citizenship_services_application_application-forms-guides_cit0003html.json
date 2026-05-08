@@ -1,0 +1,211 @@
+{
+  "page_title": "Application for Canadian Citizenship – Minors (CIT 0003) - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/cit0003.html",
+  "h1": "Application for Canadian Citizenship – Minors (CIT 0003)",
+  "headings": {
+    "h2": [
+      "Download the form",
+      "Complete the form",
+      "Page details"
+    ],
+    "h3": [
+      "How to download, save and open this form",
+      "Minor’s personal information",
+      "Contact information",
+      "Home address in Canada",
+      "Mailing address",
+      "Phone number(s)",
+      "Email Address",
+      "Details of minor’s parents",
+      "Residency and prohibitions",
+      "Citizenship Certificate Type",
+      "Oath of Citizenship",
+      "Appointment of a Representative",
+      "Signature and validation barcodes"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Download the form",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "How to download, save and open this form",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Complete the form",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "Read the step by step instructions on how to complete the form."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Minor’s personal information",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Contact information",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Home address in Canada",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Enter the minor’s current home address (where the minor lives)."
+      ],
+      "bullets": [
+        "Apartment (Apt.) or Unit, if it applies",
+        "Street Number (No.)",
+        "Street Name. Do not abbreviate words (Street, Avenue, Boulevard, Drive etc.) except for directions (NW, SE, W, etc.)",
+        "City or Town",
+        "Country or Territory",
+        "Province or State",
+        "Postal Code",
+        "District, if it applies."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Mailing address",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Indicate if the minor’s current home address is the same as your mailing address. If you select “No”, enter the following:"
+      ],
+      "bullets": [
+        "Apartment (Apt.) or Unit, if it applies",
+        "Street Number (No.)",
+        "Street Name. Do not abbreviate words (Street, Avenue, Boulevard, Drive etc.) except for directions (NW, SE, W, etc.)",
+        "City or Town",
+        "Country or Territory",
+        "Province or State",
+        "Postal Code",
+        "District, if it applies."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Phone number(s)",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Check the correct box to tell us if your other telephone number is from Canada, the United States or Other (any other country).",
+        "Choose the type of telephone:",
+        "Enter your telephone number including the country code, area or regional codes, etc.",
+        "If you have an extension number, write it after your phone number under “Ext.”"
+      ],
+      "bullets": [
+        "Residence (home)",
+        "Cellular (cell or mobile)",
+        "Business (work)"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Email Address",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "If you have one, type your e-mail address using a format similar to the following: name@provider.net, in both spaces.",
+        "Please add these to your “safe senders” list in your email program and check the junk mail folder in case important emails get filtered. If we find that your email address does not work or no longer exists, we will communicate with you by mail.",
+        "By giving us your e-mail address, you are hereby authorizing us to send your correspondence, including file and personal information electronically to this address."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Details of minor’s parents",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Residency and prohibitions",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Citizenship Certificate Type",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Oath of Citizenship",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Appointment of a Representative",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Signature and validation barcodes",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [
+    "https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/cit0003/01-02-2026/cit0003e.pdf"
+  ],
+  "related_links": [
+    "https://get.adobe.com/reader/",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1523&top=4",
+    "https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/cit0003/01-02-2026/cit0003e.pdf",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/cit0547.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/cit0554.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-0003-application-canadian-citizenship-minors-under-18-years.html#appendixa",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-0003-application-canadian-citizenship-minors-under-18-years.html#appendixb",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-0003-application-canadian-citizenship-minors-under-18-years.html#appendixc",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5476.html",
+    "https://www.canadapost.ca/cpc/en/personal/receiving/manage-mail/mail-forwarding.page"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "page_title": "Immigrate as a provincial nominee - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html",
+  "h1": "Immigrate as a provincial nominee",
+  "headings": {
+    "h2": [
+      "Check if you qualify",
+      "Find out how to apply",
+      "Page details"
+    ],
+    "h3": [
+      "Apply through Express Entry",
+      "Processing time ?",
+      "Apply through the non-Express Entry process",
+      "Processing time ?"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Check if you qualify",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "Choose a province or territory to know its PNP streams:"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Find out how to apply",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "There are 2 ways to apply for permanent residence through the PNP. The option you use depends on the province or territory you choose to immigrate to. The province or territory will also let you know whether you must apply through the Express Entry process or through the non-Express Entry process."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Apply through Express Entry",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "This option applies to you if you qualify for both the province or territory’s PNP stream and a federal program under Express Entry .",
+        "If you’re nominated, create your Express Entry profile. You’ll get 600 extra points , which helps you get invited to apply for permanent residence."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Processing time ?",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "We couldn’t load the data. Try again."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Apply through the non-Express Entry process",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "This option applies to you if you qualify for the province or territory’s PNP stream, but don’t quality for the federal program under Express Entry .",
+        "Start your application (non-Express Entry)"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Processing time ?",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "We couldn’t load the data. Try again."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://immigratemanitoba.com/immigrate/",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=068&top=3",
+    "https://liveinnovascotia.com/",
+    "https://www.alberta.ca/alberta-advantage-immigration-program",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/corporate-initiatives/levels.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees.html#questionmark-pr",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/express-entry.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/provincial-nominees/non-express-entry.html",
+    "https://www.gov.nl.ca/immigration/immigrating-to-newfoundland-and-labrador/provincial-nominee-program/overview/",
+    "https://www.gov.nu.ca/en/immigration/immigrate-nunavut",
+    "https://www.immigratenwt.ca/immigrate-here",
+    "https://www.ontario.ca/page/ontario-immigrant-nominee-program-oinp",
+    "https://www.princeedwardisland.ca/en/topic/immigrate-to-pei-as-a-worker",
+    "https://www.quebec.ca/en/immigration",
+    "https://www.saskatchewan.ca/residents/moving-to-saskatchewan/live-in-saskatchewan/by-immigrating/saskatchewan-immigrant-nominee-program",
+    "https://www.welcomebc.ca/immigrate-to-b-c/about-the-bc-provincial-nominee-program",
+    "https://www2.gnb.ca/content/gnb/en/corporate/promo/immigration/immigrating-to-nb/nb-immigration-program-streams.html",
+    "https://yukon.ca/en/immigration/apply-immigrate-yukon/immigrate-yukon"
+  ]
+}

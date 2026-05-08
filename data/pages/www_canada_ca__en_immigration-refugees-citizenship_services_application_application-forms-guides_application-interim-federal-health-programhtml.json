@@ -1,0 +1,64 @@
+{
+  "page_title": "Application for Interim Federal Health Program (IFHP) - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/application-interim-federal-health-program.html",
+  "h1": "Application for Interim Federal Health Program (IFHP)",
+  "headings": {
+    "h2": [
+      "Apply online:",
+      "Apply on paper:",
+      "Features",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Apply online:",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Apply on paper:",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [
+    "https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm5564e.pdf"
+  ],
+  "related_links": [
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=660&top=18",
+    "http://www.ircc.canada.ca/english/helpcentre/results-by-topic.asp?st=4.2",
+    "https://ircc.canada.ca/english/helpcentre/index-featured-can.asp#tab1",
+    "https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm5564e.pdf",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/video/save-time-send-complete-application.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5568-application-interim-federal-health-program-coverage.html#5568E2",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5568-application-interim-federal-health-program-coverage.html#appendixA",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool.html"
+  ]
+}

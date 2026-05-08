@@ -1,0 +1,54 @@
+{
+  "page_title": "Applying to Voluntarily Renounce Permanent Resident Status - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/application-voluntarily-renounce-permanent-resident-status.html",
+  "h1": "Applying to Voluntarily Renounce Permanent Resident Status",
+  "headings": {
+    "h2": [
+      "How to use this application package",
+      "Features",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "How to use this application package",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=660&top=18",
+    "http://www.ircc.canada.ca/english/helpcentre/results-by-topic.asp?st=4.2",
+    "https://ircc.canada.ca/english/helpcentre/index-featured-can.asp#tab1",
+    "https://ircc.canada.ca/english/information/applications/guides/5781ETOC.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/video/save-time-send-complete-application.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5451.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5476.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5782.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5783.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool.html"
+  ]
+}

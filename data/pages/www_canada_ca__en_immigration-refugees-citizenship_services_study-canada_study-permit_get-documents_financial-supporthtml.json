@@ -1,0 +1,75 @@
+{
+  "page_title": "Study permit: Get the right documents - Proof of financial support - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html",
+  "h1": "Proof of financial support",
+  "headings": {
+    "h2": [
+      "How to show you meet the financial support requirements",
+      "Page details"
+    ],
+    "h3": [
+      "How much money you need for living expenses"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "How to show you meet the financial support requirements",
+      "heading_level": "h2",
+      "category": "financial_requirements",
+      "items": [
+        "You must provide us with documents that prove you have the required funds available for all the costs listed above. This means that",
+        "Common documents that can be used to show proof of funds:",
+        "Other documents may also be required. Check the visa office instructions for your country or region for local requirements.",
+        "If your country uses foreign exchange controls, you must prove that you’ll be allowed to export funds for all of your expenses."
+      ],
+      "bullets": [
+        "you must show you have enough financial resources for the first year of your studies",
+        "for programs more than a year long, you must also tell us how you plan to pay for the full duration of your studies For example: You can show proof that your scholarship is more than a year long, proof that your parents are employed, etc.",
+        "For example: You can show proof that your scholarship is more than a year long, proof that your parents are employed, etc.",
+        "proof you paid for the first year of your tuition and housing fees This must be accompanied by other documents proving you have sufficient funds to cover living expenses and transportation costs.",
+        "This must be accompanied by other documents proving you have sufficient funds to cover living expenses and transportation costs.",
+        "proof of a Canadian bank account in your name, if you’ve transferred money to Canada",
+        "a guaranteed investment certificate from a participating Canadian financial institution",
+        "proof of a student or education loan from a bank",
+        "your bank statements (for your Canadian or foreign bank account) for the past 4 months",
+        "a bank draft that can be converted to Canadian dollars",
+        "a letter from the person or institution giving you money This must be accompanied by other documents showing proof of funds.",
+        "This must be accompanied by other documents showing proof of funds.",
+        "proof of financial support within Canada, if you have a scholarship or are in a Canadian-funded educational program"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "How much money you need for living expenses",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "This chart tells you how much money you will need to support yourself and your family members in Canada for the first year of your program of studies. These amounts are updated each year.",
+        "These amounts do not include tuition and transportation costs."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "sufficient funds"
+  ],
+  "supporting_document_signals": [
+    "bank statements"
+  ],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/financial-consumer-agency/services/rights-responsibilities/rights-investing/rights-guaranteed-investment-certificates.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/financial-support.html#expenses",
+    "https://www.quebec.ca/en/education/study-quebec/required-conditions/costs-studies"
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "page_title": "Use of a Representative Form (IMM 5476) - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5476.html",
+  "h1": "Use of a Representative Form (IMM 5476)",
+  "headings": {
+    "h2": [
+      "Download the form",
+      "Complete the form",
+      "Page details"
+    ],
+    "h3": [
+      "How to download, save and open this form",
+      "When to use this form",
+      "Release of information to other individuals",
+      "General application information",
+      "Section A – Applicant Information",
+      "Section B – Appointment of Representative",
+      "Section C – Cancel the Appointment of a Representative",
+      "Section D – Withdrawing Role as a Representative",
+      "Section E – Your Declaration",
+      "Release of information to other individuals",
+      "How to submit this form"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Download the form",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "How to download, save and open this form",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Complete the form",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "Read the step by step instructions on how to complete the form."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "When to use this form",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Complete this form only if you are:",
+        "If you have dependent children aged 18 years or older, they are required to complete their own copy of this form if a representative is also conducting business on their behalf."
+      ],
+      "bullets": [
+        "appointing a representative;",
+        "updating contact information for your previously appointed representative;",
+        "cancelling a representative’s appointment;",
+        "cancelling the appointment of a representative and appointing a new representative; or",
+        "withdrawing your role as a representative"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Release of information to other individuals",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "To authorize IRCC to release information from your application to someone other than a representative, you will need to complete the form Authority to Release Personal Information to a Designated Individual (IMM 5475) (opens in new tab) .",
+        "The person you designate under that form (IMM 5475) will be able to obtain information on your application, such as the status. However, they will not be able to conduct business on your behalf with IRCC."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "General application information",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Section A – Applicant Information",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Section B – Appointment of Representative",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Section C – Cancel the Appointment of a Representative",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Section D – Withdrawing Role as a Representative",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Section E – Your Declaration",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Release of information to other individuals",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "To authorize IRCC to release information from your application to someone other than a representative, you will need to complete the form Authority to Release Personal Information to a Designated Individual (IMM 5475) (opens in new tab) .",
+        "The person you designate under that form (IMM 5475) will be able to obtain information on your application, such as the status of your application. However, they will not be able to conduct business on your behalf with IRCC."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "How to submit this form",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [
+    "https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/imm5476/01-11-2025/imm5476e.pdf"
+  ],
+  "related_links": [
+    "http://college-ic.ca/",
+    "https://get.adobe.com/reader/",
+    "https://secure.cic.gc.ca/ClientContact/en/Application/Form/71",
+    "https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/imm5476/01-11-2025/imm5476e.pdf",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/offices.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5475.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose/authorized.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose/authorized.html#law-societies",
+    "https://www.cnq.org/en/"
+  ]
+}

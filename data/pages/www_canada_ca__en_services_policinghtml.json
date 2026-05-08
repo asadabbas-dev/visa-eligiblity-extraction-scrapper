@@ -1,0 +1,158 @@
+{
+  "page_title": "Policing, justice and emergencies - Canada.ca",
+  "url": "https://www.canada.ca/en/services/policing.html",
+  "h1": "Policing, justice and emergencies",
+  "headings": {
+    "h2": [
+      "On social media",
+      "Most requested",
+      "Services and information",
+      "Page details"
+    ],
+    "h3": [
+      "Policing",
+      "Justice",
+      "Emergencies",
+      "Corrections",
+      "Parole, record suspension, expungement and clemency",
+      "Victims of crime",
+      "Crime and justice statistics"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "On social media",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Youtube: Safety in Canada"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Most requested",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [],
+      "bullets": [
+        "Wildfire Response",
+        "Apply/Renew a firearms licence",
+        "Get a criminal records check",
+        "Apply for a criminal record suspension",
+        "What to do during an emergency",
+        "Know the law on impaired driving",
+        "Help solve a crime"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Policing",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Learn how we are keeping Canadians safe."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Justice",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "Access information about family law, Canada's youth justice system, criminal conviction reviews, and extradition and mutual legal assistance."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Emergencies",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Canadians and communities are encouraged to learn about the specific risks and hazards in their regions and the actions they can take to help minimize risks, reduce the impact of a disaster and recover following an incident."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Corrections",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Learn about the correctional system in Canada and how we assist with the rehabilitation and the safe reintegration of offenders, serving two years or more, into the community."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Parole, record suspension, expungement and clemency",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [
+        "Find information on parole, how to apply for a record suspension or for an expungement order, and the exercise of clemency (Royal Prerogative of Mercy) in Canada."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Victims of crime",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Access victim services and resources, and information on corrections and parole concerning federal offenders."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Crime and justice statistics",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Data, tools and reports providing information on Canada’s crime and justice statistics."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "no criminal convictions"
+  ],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.rcmp-grc.gc.ca/cfp-pcaf/online_en-ligne/index-eng.htm",
+    "http://www.rcmp-grc.gc.ca/en/criminal-record-checks",
+    "http://www.youtube.com/channel/UCOY1X4VeHhjYe0V44hZowMQ",
+    "https://www.canada.ca/en/parole-board/services/record-suspensions/official-pbc-application-guide-and-forms.html",
+    "https://www.canada.ca/en/public-safety-canada/campaigns/wildfires.html?utm_source=psweb&utm_medium=features&utm_campaign=wildfires",
+    "https://www.canada.ca/en/services/policing/corrections.html",
+    "https://www.canada.ca/en/services/policing/emergencies.html",
+    "https://www.canada.ca/en/services/policing/justice.html",
+    "https://www.canada.ca/en/services/policing/parole.html",
+    "https://www.canada.ca/en/services/policing/police/community-safety-policing/impaired-driving.html",
+    "https://www.canada.ca/en/services/policing/police/help-solve-crime.html",
+    "https://www.canada.ca/en/services/policing/police/index.html",
+    "https://www.canada.ca/en/services/policing/victims.html",
+    "https://www.getprepared.gc.ca/cnt/hzd/drng-en.aspx",
+    "https://www.statcan.gc.ca/en/subjects-start/crime_and_justice"
+  ]
+}

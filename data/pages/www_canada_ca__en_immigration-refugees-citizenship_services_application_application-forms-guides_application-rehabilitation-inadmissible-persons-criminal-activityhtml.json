@@ -1,0 +1,61 @@
+{
+  "page_title": "Application for Rehabilitation for Persons Who Are Inadmissible to Canada Because of Past Criminal Activity - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/application-rehabilitation-inadmissible-persons-criminal-activity.html",
+  "h1": "Application for Rehabilitation for Persons Who Are Inadmissible to Canada Because of Past Criminal Activity",
+  "headings": {
+    "h2": [
+      "Read the Instruction Guide to fill out your application forms.",
+      "Features",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Read the Instruction Guide to fill out your application forms.",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "no criminal convictions"
+  ],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=660&top=18",
+    "http://www.ircc.canada.ca/english/helpcentre/results-by-topic.asp?st=4.2",
+    "http://www.npb-cnlc.gc.ca/prdons/servic-eng.shtml",
+    "https://ircc.canada.ca/english/helpcentre/index-featured-can.asp#tab1",
+    "https://ircc.canada.ca/english/information/inadmissibility/apply-where.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/client-support-centre.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/contact-ircc/offices/international-visa-offices.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/news/video/save-time-send-complete-application.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/guide-5312-rehabilitation-persons-inadmissible-canada-past-criminal-activity.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm1444.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5476.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5507.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5939.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/imm5940.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/come-canada-tool.html"
+  ]
+}

@@ -1,0 +1,341 @@
+{
+  "page_title": "Home - Canada.ca",
+  "url": "https://www.canada.ca/en.html",
+  "h1": "Canada.ca",
+  "headings": {
+    "h2": [
+      "Most requested",
+      "Services and information",
+      "Features",
+      "Page details"
+    ],
+    "h3": [
+      "Jobs",
+      "Immigration and citizenship",
+      "Travel and tourism",
+      "Business and industry",
+      "Benefits",
+      "Taxes",
+      "Health",
+      "Environment and natural resources",
+      "Money and finances",
+      "The 2026 Census is underway",
+      "Conflict in the Middle East",
+      "Spring Economic Update 2026",
+      "Emergency Preparedness Week 2026",
+      "Celebrate Asian Heritage Month",
+      "Your Canadian summer starts here",
+      "Your voice matters: #HealthyMen",
+      "Document imaging solutions",
+      "Renew your CDCP coverage",
+      "Canada and Ukraine",
+      "Stay safe from spam",
+      "Learn how to spot disinformation"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Most requested",
+      "heading_level": "h2",
+      "category": "travel_requirements",
+      "items": [],
+      "bullets": [
+        "Sign in to an account",
+        "Employment Insurance and leave",
+        "Public pensions ( CPP and OAS )",
+        "Get a passport",
+        "File your 2025 taxes",
+        "Visit Canada",
+        "Disability Benefit",
+        "Canadian Dental Care Plan"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "All services"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Jobs",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Find a job, training, hiring programs, work permits, Social Insurance Number (SIN)"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Immigration and citizenship",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Visit, work, study, immigrate, refugees, permanent residents, apply, check status"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Travel and tourism",
+      "heading_level": "h3",
+      "category": "travel_requirements",
+      "items": [
+        "In Canada or abroad, advice, advisories, passports, visit Canada, events, attractions"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Business and industry",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Starting a business, permits, copyright, business support, selling to government"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Benefits",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "EI, family and sickness leave, pensions, housing, student aid, disabilities"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Taxes",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Income tax, payroll, GST/HST, contribution limits, tax credits, charities"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Health",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Food, nutrition, diseases, vaccines, drugs, product safety and recalls"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Environment and natural resources",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Weather, climate, agriculture, wildlife, pollution, conservation, fisheries"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Money and finances",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Personal finance, credit reports, fraud protection, paying for education"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Features",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [
+        "The 2026 Census is underway",
+        "Conflict in the Middle East",
+        "Spring Economic Update 2026",
+        "Celebrate Asian Heritage Month",
+        "Emergency Preparedness Week 2026",
+        "Your Canadian summer starts here",
+        "Your voice matters: #HealthyMen",
+        "Document imaging solutions",
+        "Renew your CDCP coverage",
+        "Canada and Ukraine",
+        "Stay safe from spam",
+        "Learn how to spot disinformation"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "The 2026 Census is underway",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Check your mail and complete your census online. It’s quick, secure, and confidential"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Conflict in the Middle East",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Information for Canadians in the region and worldwide"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Spring Economic Update 2026",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "The government’s plan to build, protect, and empower Canada amid global uncertainty."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Emergency Preparedness Week 2026",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Be prepared for emergencies by understanding the risks in your area."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Celebrate Asian Heritage Month",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "May is Asian Heritage Month and an opportunity to recognize the outstanding contributions of people of Asian origin in Canada"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Your Canadian summer starts here",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Free or discounted museums, parks, campsites and trains from June 19 to September 7. Plan your adventure now."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Your voice matters: #HealthyMen",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Help shape the first Men and Boys’ Health Strategy. Questionnaire closes June 1, 2026."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Document imaging solutions",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Transform your records with tailored digitization services that help your organization work cleaner, faster and more efficiently."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Renew your CDCP coverage",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Canadian Dental Care Plan members have until June 1, 2026 to renew their coverage."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Canada and Ukraine",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Learn about Canada’s response to the Russian invasion of Ukraine."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Stay safe from spam",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Learn how to recognize and report suspicious text messages."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Learn how to spot disinformation",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "If it raises your eyebrows, it should raise questions. Get tips on how to spot disinformation."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "pdf_links": [],
+  "related_links": [
+    "https://budget.canada.ca/update-miseajour/2026/home-accueil-en.html?utm_campaign=fin-fin-update-miseajour-26-27",
+    "https://ised-isde.canada.ca/site/canada-anti-spam-legislation/en/hung-mobile-spam?utm_campaign=ised-isde-casl-25-26&utm_medium=web&utm_source=web-button&utm_content=canadaca-homepage-en-260128",
+    "https://travel.gc.ca",
+    "https://www.canada.ca/en/campaign/online-disinformation.html",
+    "https://www.canada.ca/en/canadian-heritage/campaigns/asian-heritage-month.html?utm_campaign=pch-pch-ahm---mpa-26-27&utm_medium=pog&utm_source=canada&utm_content=ahm2026-en-260501",
+    "https://www.canada.ca/en/canadian-heritage/campaigns/canada-pass.html?utm_campaign=pch-pch-csp-lpcf-phase3-25-26&utm_medium=canada-ca&utm_source=homepage&utm_content=featured-en-260116",
+    "https://www.canada.ca/en/government/sign-in-online-account.html",
+    "https://www.canada.ca/en/health-canada/services/healthy-living/improving-health-men-canada.html#j",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html",
+    "https://www.canada.ca/en/public-services-procurement/services/communication/digitizing-records.html?utm_campaign=pspc-spac-disc-25-26&utm_medium=vanity-url&utm_source=canada-ca_homepage-feature_en",
+    "https://www.canada.ca/en/services.html",
+    "https://www.canada.ca/en/services/benefits.html",
+    "https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html",
+    "https://www.canada.ca/en/services/benefits/dental/dental-care-plan.html?utm_source=health-theme-canada-ca&utm_medium=feature&utm_campaign=hc-sc-2026-renewal",
+    "https://www.canada.ca/en/services/benefits/disability/canada-disability-benefit.html",
+    "https://www.canada.ca/en/services/benefits/ei.html",
+    "https://www.canada.ca/en/services/benefits/publicpensions.html",
+    "https://www.canada.ca/en/services/business.html",
+    "https://www.canada.ca/en/services/environment.html",
+    "https://www.canada.ca/en/services/finance.html",
+    "https://www.canada.ca/en/services/health.html",
+    "https://www.canada.ca/en/services/immigration-citizenship.html",
+    "https://www.canada.ca/en/services/jobs.html",
+    "https://www.canada.ca/en/services/policing/emergencies/preparedness/get-prepared/emergency-preparedness-week.html",
+    "https://www.canada.ca/en/services/taxes.html",
+    "https://www.canada.ca/en/services/taxes/income-tax/personal-income-tax/get-ready-taxes.html",
+    "https://www.census.gc.ca/en/index?utm_source=canada-ca-web-tile&utm_medium=pog&utm_campaign=statcan-statcan-2026-genpop-collection-26-27&utm_content=gr-094-en-census-wrapper",
+    "https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/middle-east-moyen-orient.aspx?lang=eng",
+    "https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/ukraine.aspx?lang=eng&utm_campaign=gac-amc-ukraine-21-22&utm_source=canadahome&utm_medium=feat&utm_content=en"
+  ]
+}

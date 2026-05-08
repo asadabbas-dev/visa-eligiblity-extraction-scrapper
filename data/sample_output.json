@@ -1,0 +1,81 @@
+{
+  "page_title": "Visitor visa: About the document",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html",
+  "h1": "Visitor visa",
+  "headings": {
+    "h2": [
+      "Who can apply",
+      "Before you apply",
+      "How to apply"
+    ],
+    "h3": [
+      "Eligibility requirements",
+      "Documents you should prepare"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Eligibility requirements",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "You must have a valid passport or travel document.",
+        "You must be in good health.",
+        "You must not have criminal or immigration-related convictions.",
+        "You must convince an officer that you have ties to your home country.",
+        "You must show that you will leave Canada at the end of your authorized stay.",
+        "You must show that you have enough money for your stay."
+      ],
+      "bullets": [
+        "You may need a medical exam.",
+        "A letter of invitation from someone in Canada can support your application."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Documents you should prepare",
+      "heading_level": "h3",
+      "category": "supporting_documents",
+      "items": [],
+      "bullets": [
+        "Passport",
+        "Recent bank statements",
+        "Invitation letter",
+        "Employment proof",
+        "Marriage certificate",
+        "Proof of relationship",
+        "Police certificates",
+        "Medical documents"
+      ],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "good health",
+    "invitation letter",
+    "no criminal convictions",
+    "possible medical exam",
+    "proof applicant will leave Canada",
+    "proof of ties to home country",
+    "sufficient funds",
+    "valid passport/travel document"
+  ],
+  "supporting_document_signals": [
+    "bank statements",
+    "employment proof",
+    "invitation letter",
+    "marriage certificate",
+    "medical documents",
+    "passport",
+    "police certificates",
+    "proof of relationship"
+  ],
+  "pdf_links": [
+    "https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/kits/forms/imm5257e.pdf"
+  ],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/application-visitor-visa-temporary-resident-visa.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/common-supporting-documents.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eligibility.html"
+  ]
+}

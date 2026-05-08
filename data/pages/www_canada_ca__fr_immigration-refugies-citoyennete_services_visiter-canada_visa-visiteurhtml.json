@@ -1,0 +1,76 @@
+{
+  "page_title": "Visa de visiteur (visa de résident temporaire) - Canada.ca",
+  "url": "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/visiter-canada/visa-visiteur.html",
+  "h1": "Visa de visiteur (visa de résident temporaire)",
+  "headings": {
+    "h2": [
+      "Délai de traitement",
+      "Frais",
+      "En vedette",
+      "Détails de la page"
+    ],
+    "h3": [
+      "Vérifiez si votre représentant est autorisé"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Délai de traitement",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Varie selon le pays",
+        "Vérifier les délais de traitement",
+        "Il se peut que vous deviez fournir vos données biométriques avec votre demande. Ce délai de traitement ne tient pas compte du temps dont vous avez besoin pour fournir vos données biométriques."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Frais",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "À partir de : 100 $"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "En vedette",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Vérifiez si votre représentant est autorisé",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Si vous faites appel aux services d’un intermédiaire autorisé (un consultant, un avocat ou un notaire de la Chambre des notaires du Québec), il doit être autorisé à vous représenter ou à vous donner des conseils."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://ircc.canada.ca/content/canadasite/francais/centre-aide/resultats-par-sujet.asp?st=3.2",
+    "https://ircc.canada.ca/francais/visiter/biometrie.asp",
+    "https://www.canada.ca/content/canadasite/fr/immigration-refugies-citoyennete/services/visiter-canada/ave.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/demande/verifier-delais-traitement.html",
+    "https://www.canada.ca/fr/immigration-refugies-citoyennete/services/representant-immigration-citoyennete/choisir/autorise.html"
+  ]
+}

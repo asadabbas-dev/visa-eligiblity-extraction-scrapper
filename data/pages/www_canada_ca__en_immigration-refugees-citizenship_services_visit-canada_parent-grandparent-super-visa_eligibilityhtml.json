@@ -1,0 +1,192 @@
+{
+  "page_title": "Super visa for parents and grandparents: Who can apply - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/eligibility.html",
+  "h1": "Who can apply",
+  "headings": {
+    "h2": [
+      "On this page",
+      "Host requirements",
+      "Applicant requirements",
+      "General requirements for visiting Canada",
+      "Visa-exempt applicants",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "On this page",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [],
+      "bullets": [
+        "Host requirements",
+        "Applicant requirements",
+        "General requirements for visiting Canada",
+        "Visa-exempt applicants"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Host requirements",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Applicant requirements",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "To be eligible, you ( the applicant ) must"
+      ],
+      "bullets": [
+        "be outside Canada when you submit your application",
+        "have your visa printed by a visa office outside Canada (wait for visa office instructions)",
+        "be allowed to enter Canada",
+        "show proof that you have private health insurance valid for a minimum of 1 year from the date of entry from a Canadian insurance company or from a company outside Canada that has been approved by the minister",
+        "from a Canadian insurance company or",
+        "from a company outside Canada that has been approved by the minister",
+        "take an immigration medical exam (opens in a new tab)",
+        "meet certain other conditions"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "General requirements for visiting Canada",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "There are some general conditions you must meet to come to Canada as a visitor. Before we make a decision on your application, we’ll also consider"
+      ],
+      "bullets": [
+        "whether you’re a genuine visitor to Canada who will leave by choice at the end of your visit",
+        "your ties to your home country",
+        "the purpose of your visit",
+        "your family and finances"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Visa-exempt applicants",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "possible medical exam",
+    "proof of ties to home country"
+  ],
+  "supporting_document_signals": [
+    "medical documents"
+  ],
+  "hierarchy": [
+    {
+      "heading": "On this page",
+      "level": "h2",
+      "items": [],
+      "bullets": [
+        "Host requirements",
+        "Applicant requirements",
+        "General requirements for visiting Canada",
+        "Visa-exempt applicants"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Host requirements",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Applicant requirements",
+      "level": "h2",
+      "items": [
+        "To be eligible, you ( the applicant ) must"
+      ],
+      "bullets": [
+        "be outside Canada when you submit your application",
+        "have your visa printed by a visa office outside Canada (wait for visa office instructions)",
+        "be allowed to enter Canada",
+        "show proof that you have private health insurance valid for a minimum of 1 year from the date of entry from a Canadian insurance company or from a company outside Canada that has been approved by the minister",
+        "from a Canadian insurance company or",
+        "from a company outside Canada that has been approved by the minister",
+        "take an immigration medical exam (opens in a new tab)",
+        "meet certain other conditions"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "General requirements for visiting Canada",
+      "level": "h2",
+      "items": [
+        "There are some general conditions you must meet to come to Canada as a visitor. Before we make a decision on your application, we’ll also consider"
+      ],
+      "bullets": [
+        "whether you’re a genuine visitor to Canada who will leave by choice at the end of your visit",
+        "your ties to your home country",
+        "the purpose of your visit",
+        "your family and finances"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Visa-exempt applicants",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/medical-exams/requirements-temporary-residents.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html#no-visa-eta",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/apply.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/letter-invitation.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/eligibility.html#applicant-requirements",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/eligibility.html#general-requirements",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/eligibility.html#host-requirements",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/eligibility.html#visa-exempt",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html#health-insurance",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/forms-documents.html#income"
+  ]
+}

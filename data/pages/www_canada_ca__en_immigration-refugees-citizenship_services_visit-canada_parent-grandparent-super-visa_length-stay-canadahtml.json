@@ -1,0 +1,145 @@
+{
+  "page_title": "Super visa for parents and grandparents – How long you can stay in Canada - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa/length-stay-canada.html",
+  "h1": "How long you can stay in Canada",
+  "headings": {
+    "h2": [
+      "If you applied on or after June 22, 2023",
+      "If you applied before June 22, 2023",
+      "Page details"
+    ],
+    "h3": [
+      "You entered Canada before June 22, 2023",
+      "You entered Canada on or after June 22, 2023"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "If you applied on or after June 22, 2023",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "You’re eligible to stay for 5 years at a time."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If you applied before June 22, 2023",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "The date you enter Canada with a valid super visa may also affect how long you can stay."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "You entered Canada before June 22, 2023",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "You can only stay in Canada for the length of time the border officer granted you when you entered Canada.",
+        "For example, if you were granted 2 years, you can stay in Canada for 2 years.",
+        "However, if you want a longer stay, you have 2 options. You can either",
+        "The border officer may let you stay for 5 years if you still meet all the eligibility requirements for a super visa."
+      ],
+      "bullets": [
+        "leave Canada before the end of your authorized stay and re-enter Canada, or",
+        "apply to extend your stay in Canada and be approved for an extension of up to 2 years"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "You entered Canada on or after June 22, 2023",
+      "heading_level": "h3",
+      "category": "travel_requirements",
+      "items": [
+        "You’re eligible to stay for 5 years at a time. If a border officer grants you entry to Canada, you can stay for 5 years, even if the border officer doesn’t stamp your passport."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "proof applicant will leave Canada"
+  ],
+  "supporting_document_signals": [
+    "passport"
+  ],
+  "hierarchy": [
+    {
+      "heading": "If you applied on or after June 22, 2023",
+      "level": "h2",
+      "items": [
+        "You’re eligible to stay for 5 years at a time."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "If you applied before June 22, 2023",
+      "level": "h2",
+      "items": [
+        "The date you enter Canada with a valid super visa may also affect how long you can stay."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "You entered Canada before June 22, 2023",
+          "level": "h3",
+          "items": [
+            "You can only stay in Canada for the length of time the border officer granted you when you entered Canada.",
+            "For example, if you were granted 2 years, you can stay in Canada for 2 years.",
+            "However, if you want a longer stay, you have 2 options. You can either",
+            "The border officer may let you stay for 5 years if you still meet all the eligibility requirements for a super visa."
+          ],
+          "bullets": [
+            "leave Canada before the end of your authorized stay and re-enter Canada, or",
+            "apply to extend your stay in Canada and be approved for an extension of up to 2 years"
+          ],
+          "tables": [],
+          "children": [],
+          "parent_heading": "If you applied before June 22, 2023"
+        },
+        {
+          "heading": "You entered Canada on or after June 22, 2023",
+          "level": "h3",
+          "items": [
+            "You’re eligible to stay for 5 years at a time. If a border officer grants you entry to Canada, you can stay for 5 years, even if the border officer doesn’t stamp your passport."
+          ],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "If you applied before June 22, 2023"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay.html"
+  ]
+}

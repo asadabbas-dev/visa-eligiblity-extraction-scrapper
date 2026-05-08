@@ -1,0 +1,74 @@
+{
+  "page_title": "Application for a Citizenship Certificate (CIT 0001) - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/cit0001.html",
+  "h1": "Application for a Citizenship Certificate (CIT 0001)",
+  "headings": {
+    "h2": [
+      "Download the form",
+      "Complete the form",
+      "Page details"
+    ],
+    "h3": [
+      "How to download, save and open this form",
+      "Tips to help you complete the form"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Download the form",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "How to download, save and open this form",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Complete the form",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [
+        "Read the instructions on pages 9 to 13 of the application form for details on how to complete it."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Tips to help you complete the form",
+      "heading_level": "h3",
+      "category": "application_steps",
+      "items": [],
+      "bullets": [
+        "If a section does not apply to you, write “Not Applicable” or “NA”. If your application is incomplete it may be returned to you and this will delay processing.",
+        "If you’re completing this application for a minor under 18 years of age, remember all questions are about the minor and you should answer as though you are the minor .",
+        "If you need more space to answer any questions, use an extra sheet of paper and indicate the number and/or letter of the question you’re answering.",
+        "All of your answers must be complete and true ."
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [
+    "https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/cit0001/01-01-2026/cit0001e.pdf"
+  ],
+  "related_links": [
+    "https://get.adobe.com/reader/",
+    "https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/cit0001/01-01-2026/cit0001e.pdf"
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "page_title": "Express Entry: Job offer - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/job-offer.html",
+  "h1": "Job offer",
+  "headings": {
+    "h2": [
+      "On this page",
+      "Job offer basics",
+      "Other requirements by program",
+      "Who needs an LMIA",
+      "Ability to do the work",
+      "Page details"
+    ],
+    "h3": [
+      "Federal Skilled Workers Program",
+      "Federal Skilled Trades Program",
+      "Canadian Experience Class",
+      "Provincial Nominee Program",
+      "Who doesn't need an LMIA"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "On this page",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [],
+      "bullets": [
+        "Job offer basics",
+        "Other requirements by program",
+        "Who needs an LMIA",
+        "Ability to do the work"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Job offer basics",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Other requirements by program",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Federal Skilled Workers Program",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Federal Skilled Trades Program",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Canadian Experience Class",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Provincial Nominee Program",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Who needs an LMIA",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "In most cases, your employer needs a Labour Market Impact Assessment (LMIA) to support your job offer for Express Entry.",
+        "Your future employer is responsible for getting you an LMIA if you need one.",
+        "Your employer must get a new LMIA if:",
+        "There are only 2 reasons the employer making you the offer doesn’t need to get a new LMIA:"
+      ],
+      "bullets": [
+        "you don't already have a work permit",
+        "your work permit has expired",
+        "you’re working on an open work permit",
+        "you have a job offer from an employer not listed on your work permit",
+        "if you’ve already been working full-time (or an equal amount of part-time) for them with a work permit based on an LMIA, and you have a valid job offer",
+        "if you work in a job that doesn’t need an LMIA"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Who doesn't need an LMIA",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Ability to do the work",
+      "heading_level": "h2",
+      "category": "eligibility_criteria",
+      "items": [
+        "You must convince our officers that you will:",
+        "Each province and territory designates their professions and trades in their jurisdiction. Requirements to be designated or certified vary by province.",
+        "Get more information on licensing and regulatory requirements for specific professions or contact the relevant body in the province/territory where you plan to live."
+      ],
+      "bullets": [
+        "be capable of doing the work you’re offered",
+        "likely qualify to be licensed or certified by the relevant regulatory body once you’re in Canada (if the job is regulated in Canada)"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/public-policies/physicians-4-2023.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/account.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessment.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/job-offer.html#ability",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/job-offer.html#basics",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/job-offer.html#exempt",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/job-offer.html#lmia",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/job-offer.html#other",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/federal-skilled-trades.html#job-offer",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/federal-skilled-workers.html#employment",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/who-can-apply/federal-skilled-workers.html#selection",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/find-national-occupation-code.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/international-mobility-program.html",
+    "https://www.red-seal.ca/eng/contact/c.4nt.1ct.shtml"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "page_title": "Extend your stay in Canada (visitor record) - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay.html",
+  "h1": "Extend your stay in Canada (visitor record)",
+  "headings": {
+    "h2": [
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=1452&top=16",
+    "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=068&top=3",
+    "https://ircc.canada.ca/english/information/fees/fees.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay.html#questionmark-pr",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/extend-stay.html#visitor-record"
+  ]
+}

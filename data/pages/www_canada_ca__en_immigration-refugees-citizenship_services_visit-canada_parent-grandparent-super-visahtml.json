@@ -1,0 +1,90 @@
+{
+  "page_title": "Super visa for parents and grandparents - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/parent-grandparent-super-visa.html",
+  "h1": "Super visa for parents and grandparents",
+  "headings": {
+    "h2": [
+      "Processing times",
+      "Fees",
+      "Page details"
+    ],
+    "h3": []
+  },
+  "sections": [
+    {
+      "heading": "Processing times",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "Varies by country",
+        "Check processing times",
+        "You may need to give biometrics with your application. This processing time doesn’t include the time you need to give biometrics."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Fees",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Starting from: Can$100"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "hierarchy": [
+    {
+      "heading": "Processing times",
+      "level": "h2",
+      "items": [
+        "Varies by country",
+        "Check processing times",
+        "You may need to give biometrics with your application. This processing time doesn’t include the time you need to give biometrics."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Fees",
+      "level": "h2",
+      "items": [
+        "Starting from: Can$100"
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://www.ircc.canada.ca/english/helpcentre/answer.asp?qnum=068&top=3",
+    "https://ircc.canada.ca/english/visit/biometrics.asp",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/about-visitor-visa.html"
+  ]
+}

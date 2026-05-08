@@ -1,0 +1,305 @@
+{
+  "page_title": "After you apply for a visitor visa - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html",
+  "h1": "After you apply",
+  "headings": {
+    "h2": [
+      "On this page",
+      "Your fingerprints and photo (biometrics)",
+      "Processing your visitor visa application",
+      "Check your application status",
+      "If we approve your application",
+      "If we refuse your application",
+      "Help us improve our services",
+      "Page details"
+    ],
+    "h3": [
+      "If you applied online",
+      "If you applied on paper",
+      "If you applied online",
+      "If you applied on paper"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "On this page",
+      "heading_level": "h2",
+      "category": "biometrics",
+      "items": [],
+      "bullets": [
+        "Your fingerprints and photo (biometrics)",
+        "Processing your visitor visa application",
+        "Check your application status",
+        "If we approve your application",
+        "If we refuse your application"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Your fingerprints and photo (biometrics)",
+      "heading_level": "h2",
+      "category": "biometrics",
+      "items": [
+        "Book your biometrics collection appointment as soon as you can to avoid processing delays.",
+        "Find out how to give biometrics"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Processing your visitor visa application",
+      "heading_level": "h2",
+      "category": "application_steps",
+      "items": [
+        "We’ll check your application to make sure you have all the documents you need.",
+        "If it's incomplete, your application may be refused.",
+        "We may also ask you to",
+        "We’ll tell you what to do if you need to do any of these.",
+        "We process most applications in a few weeks or less. Processing times depend on the visa office and if you need to do any extra steps (listed above)."
+      ],
+      "bullets": [
+        "go to an interview with our officials in your country",
+        "send more information",
+        "get a medical exam",
+        "get a police certificate"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Check your application status",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "The way to check your application status depends on how you applied. Find out how to check your application status ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If we approve your application",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If you applied online",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If you applied on paper",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If we refuse your application",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If you applied online",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "If you applied on paper",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Help us improve our services",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "We’re looking for people to try out our products. Find out how you can participate ."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [
+    "possible medical exam"
+  ],
+  "supporting_document_signals": [
+    "medical documents",
+    "police certificates"
+  ],
+  "hierarchy": [
+    {
+      "heading": "On this page",
+      "level": "h2",
+      "items": [],
+      "bullets": [
+        "Your fingerprints and photo (biometrics)",
+        "Processing your visitor visa application",
+        "Check your application status",
+        "If we approve your application",
+        "If we refuse your application"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Your fingerprints and photo (biometrics)",
+      "level": "h2",
+      "items": [
+        "Book your biometrics collection appointment as soon as you can to avoid processing delays.",
+        "Find out how to give biometrics"
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Processing your visitor visa application",
+      "level": "h2",
+      "items": [
+        "We’ll check your application to make sure you have all the documents you need.",
+        "If it's incomplete, your application may be refused.",
+        "We may also ask you to",
+        "We’ll tell you what to do if you need to do any of these.",
+        "We process most applications in a few weeks or less. Processing times depend on the visa office and if you need to do any extra steps (listed above)."
+      ],
+      "bullets": [
+        "go to an interview with our officials in your country",
+        "send more information",
+        "get a medical exam",
+        "get a police certificate"
+      ],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Check your application status",
+      "level": "h2",
+      "items": [
+        "The way to check your application status depends on how you applied. Find out how to check your application status ."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "If we approve your application",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "If you applied online",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "If we approve your application"
+        },
+        {
+          "heading": "If you applied on paper",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "If we approve your application"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "If we refuse your application",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [
+        {
+          "heading": "If you applied online",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "If we refuse your application"
+        },
+        {
+          "heading": "If you applied on paper",
+          "level": "h3",
+          "items": [],
+          "bullets": [],
+          "tables": [],
+          "children": [],
+          "parent_heading": "If we refuse your application"
+        }
+      ],
+      "parent_heading": null
+    },
+    {
+      "heading": "Help us improve our services",
+      "level": "h2",
+      "items": [
+        "We’re looking for people to try out our products. Find out how you can participate ."
+      ],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    },
+    {
+      "heading": "Page details",
+      "level": "h2",
+      "items": [],
+      "bullets": [],
+      "tables": [],
+      "children": [],
+      "parent_heading": null
+    }
+  ],
+  "pdf_semantic_insights": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/biometrics/how-to-give-biometrics.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/campaigns/improve-services.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-processing-times.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/check-status.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/medical-exams.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/medical-police/police-certificates.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/inadmissibility.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html#approve",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html#biometrics-h2",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html#check",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html#refuse",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/after-apply-next-steps.html#sec2",
+    "https://www.cbsa-asfc.gc.ca/travel-voyage/pik-bip-eng.html"
+  ]
+}

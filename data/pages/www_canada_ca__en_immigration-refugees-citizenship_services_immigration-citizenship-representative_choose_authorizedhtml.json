@@ -1,0 +1,96 @@
+{
+  "page_title": "Find out if your representative is authorized - Canada.ca",
+  "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose/authorized.html",
+  "h1": "Find out if your representative is authorized",
+  "headings": {
+    "h2": [
+      "Law societies in each province and territory",
+      "Page details"
+    ],
+    "h3": [
+      "Other contacts"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Law societies in each province and territory",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [
+        "Chambre des notaires du Québec (French only)"
+      ],
+      "bullets": [
+        "Law Society of British Columbia",
+        "Law Society of Alberta",
+        "Law Society of Saskatchewan",
+        "Law Society of Manitoba",
+        "Law Society of Ontario",
+        "Barreau du Québec",
+        "Law Society of New Brunswick",
+        "Nova Scotia Barristers’ Society",
+        "Law Society of Prince Edward Island",
+        "Law Society of Newfoundland and Labrador",
+        "Law Society of Yukon",
+        "Law Society of the Northwest Territories",
+        "Law Society of Nunavut"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Other contacts",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [
+        "Canada Border Services Agency",
+        "Canadian Council of Better Business Bureaus",
+        "Immigration and Refugee Board of Canada",
+        "Office of Consumer Affairs",
+        "Royal Canadian Mounted Police",
+        "The Canadian Bar Association"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "http://lawsocietypei.ca/find-a-lawyer",
+    "http://lsnl.memberpro.net/main/body.cfm",
+    "http://www.bbb.org/",
+    "http://www.cba.org/For-The-Public/Find-A-Lawyer?lang=en-ca",
+    "http://www.cbsa-asfc.gc.ca/menu-eng.html",
+    "http://www.ic.gc.ca/eic/site/oca-bc.nsf/eng/h_ca00000.html",
+    "http://www.irb-cisr.gc.ca/Eng/Pages/index.aspx",
+    "http://www.lawsociety.bc.ca/apps/lkup/mbrsearch.cfm",
+    "http://www.lawsociety.mb.ca/for-the-public/lawyer-lookup/",
+    "http://www.lawsociety.nt.ca/member-directory",
+    "http://www.rcmp-grc.gc.ca/en",
+    "https://lawsociety-barreau.nb.ca/en",
+    "https://lawsocietyyukon.com/find-a-lawyer/",
+    "https://lsa.memberpro.net/main/body.cfm",
+    "https://lso.ca/home",
+    "https://lso.ca/public-resources/finding-a-lawyer-or-paralegal/lawyer-and-paralegal-directory",
+    "https://lss.alinityapp.com/client/publicdirectory",
+    "https://members.nsbs.org/LawyerSearch",
+    "https://trouverunnotaire.cnq.org/",
+    "https://www.barreau.qc.ca/en/find-a-lawyer/",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/application-access.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/change-cancel.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/choose/authorized.html#law-societies",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/file-complaint-against-representative.html",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigration-citizenship-representative/learn-about-representatives.html",
+    "https://www.college-ic.ca/protecting-the-public/find-an-immigration-consultant",
+    "https://www.lawsociety.nu.ca/en/for-the-public/membership-directory"
+  ]
+}

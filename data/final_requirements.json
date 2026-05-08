@@ -1,0 +1,50 @@
+{
+  "eligibility_criteria": [
+    "Good health",
+    "No criminal or immigration-related convictions",
+    "Proof applicant will leave Canada after visit",
+    "Valid passport or travel document"
+  ],
+  "supporting_documents": [
+    "Employment proof",
+    "Medical documents",
+    "Passport / travel document",
+    "Police certificates",
+    "Proof of relationship",
+    "Bank statements",
+    "Marriage certificate"
+  ],
+  "required_forms": [
+    "IMM5476",
+    "IMM5257",
+    "IMM5645",
+    "IMM5409",
+    "IMM5475"
+  ],
+  "financial_requirements": [
+    "Sufficient funds for your stay",
+    "Proof of funds / sufficient funds"
+  ],
+  "medical_requirements": [
+    "Medical exam (if required)"
+  ],
+  "biometrics_requirements": [
+    "Biometrics"
+  ],
+  "invitation_requirements": [
+    "Invitation letter (if applicable)"
+  ],
+  "proof_of_ties_requirements": [
+    "Proof of ties to home country"
+  ],
+  "_meta": {
+    "verification_issues": [],
+    "verification_passed": true,
+    "sources": {
+      "entities_count": 150,
+      "pages_count": 45,
+      "canonical_rows": 18,
+      "graph_edges": 35
+    }
+  }
+}

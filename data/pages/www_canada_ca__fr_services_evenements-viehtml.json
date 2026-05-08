@@ -1,0 +1,131 @@
+{
+  "page_title": "Gérer les événements de la vie - Canada.ca",
+  "url": "https://www.canada.ca/fr/services/evenements-vie.html",
+  "h1": "Gérer les événements de la vie",
+  "headings": {
+    "h2": [
+      "En demande",
+      "Services and information",
+      "En vedette",
+      "Détails de la page"
+    ],
+    "h3": [
+      "Accueillir un enfant",
+      "Apprendre et planifier pour votre retraite",
+      "Que faire lors d’un décès",
+      "Chercheur de prestations",
+      "Les événements de la vie et les impôts"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "En demande",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Se connecter à un dossier ou un compte du gouvernement du Canada",
+        "Dates de paiement des prestations",
+        "Calculatrice du revenu de retraite canadienne",
+        "Obtenir un certificat de naissance",
+        "Montants des prestations du RPC",
+        "Changement d'adresse",
+        "Faire les impôts d'une personne décédée",
+        "Présenter une demande de NAS"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Accueillir un enfant",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Devenir parent, aide financière, options de congés, enregistrer la naissance de votre enfant, garderies, les plans d’épargne-études, santé et bien-être."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Apprendre et planifier pour votre retraite",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Options et conseils de retraite, pensions publiques, Régime de pensions du Canada (RPC), Sécurité de vieillesse (SV), Supplément de revenu garanti (SRG), quand prendre sa retraite."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Que faire lors d’un décès",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Que faire, qui informer, se préparer à la fin de vie, représenter une personne décédée, présenter une demande ou modifier des prestations."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Chercheur de prestations",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Trouvez des programmes et des prestations fédéraux comme l’aide financière, les soins de santé, et d’autres soutiens gouvernementaux."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "En vedette",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Les événements de la vie et les impôts",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Quand la vie rencontre la fiscalité, avancez en toute sérénité."
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Détails de la page",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/fr/agence-revenu/campagnes/evenements-de-vie.html",
+    "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/evenements-vie/faire-impots-personne-decedee.html",
+    "https://www.canada.ca/fr/emploi-developpement-social/services/numero-assurance-sociale.html",
+    "https://www.canada.ca/fr/gouvernement/changement-adresse.html",
+    "https://www.canada.ca/fr/gouvernement/ouvrir-session-dossier-compte-en-ligne.html",
+    "https://www.canada.ca/fr/services/evenements-vie/deces.html",
+    "https://www.canada.ca/fr/services/evenements-vie/enfant.html",
+    "https://www.canada.ca/fr/services/evenements-vie/enfant/enregistrer-naissance.html",
+    "https://www.canada.ca/fr/services/evenements-vie/retraite.html",
+    "https://www.canada.ca/fr/services/prestations/calendrier.html",
+    "https://www.canada.ca/fr/services/prestations/chercheur.html",
+    "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/calculatrice-revenu-retraite.html",
+    "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/montants-paiement.html"
+  ]
+}

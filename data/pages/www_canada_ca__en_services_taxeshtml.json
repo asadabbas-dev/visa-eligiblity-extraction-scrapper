@@ -1,0 +1,206 @@
+{
+  "page_title": "Taxes - Canada.ca",
+  "url": "https://www.canada.ca/en/services/taxes.html",
+  "h1": "",
+  "headings": {
+    "h2": [
+      "Services and information",
+      "From:",
+      "Page details"
+    ],
+    "h3": [
+      "Income tax",
+      "Payments",
+      "Tax credits and benefits for individuals",
+      "GST/HST",
+      "Payroll",
+      "Business registration",
+      "Charities and giving",
+      "Savings and pension plans",
+      "Excise and specialty taxes",
+      "Scams and fraud",
+      "Support in difficult situations",
+      "Compliance and enforcement",
+      "CRA Service feedback"
+    ]
+  },
+  "sections": [
+    {
+      "heading": "Services and information",
+      "heading_level": "h2",
+      "category": "required_forms",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Income tax",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Personal, business, corporation, trust, and non-resident income tax, taxes for someone who died"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Payments",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "How to send money to the CRA, receive your payments, options if you are unable to pay a debt"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Tax credits and benefits for individuals",
+      "heading_level": "h3",
+      "category": "eligibility_criteria",
+      "items": [
+        "Payment dates, eligibility for children, caregivers, people with disabilities, workers and others"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "GST/HST",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "GST/HST accounts, collect and remit the tax, file a return, claim rebates, search the GST/HST registry"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Payroll",
+      "heading_level": "h3",
+      "category": "required_forms",
+      "items": [
+        "Payroll accounts, deductions and contributions, information returns, and benefits and allowances"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Business registration",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Get a business number (BN) or program accounts, find an existing BN, changes to a business"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Charities and giving",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "How to register and run a charity, charities listings, and charitable tax credits"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Savings and pension plans",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Tax-free savings accounts, registered savings plans, pooled pension plans, and plan administration"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Excise and specialty taxes",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Duties, customs, charges, tax on underused housing, luxury items, digital services revenue"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Scams and fraud",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Protect yourself against scams, how to report scams, identity theft, or tax cheating"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Support in difficult situations",
+      "heading_level": "h3",
+      "category": "financial_requirements",
+      "items": [
+        "Support in situations of abuse or disaster, CRA debts during financial hardship, past COVID-19 payments"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "Compliance and enforcement",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Reporting obligations, debt collection, audits, tax relief, objections or appeals"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "CRA Service feedback",
+      "heading_level": "h3",
+      "category": "processing_information",
+      "items": [
+        "Send feedback to the CRA about a service experience"
+      ],
+      "bullets": [],
+      "tables": []
+    },
+    {
+      "heading": "From:",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [
+        "Canada Revenue Agency",
+        "Canada Border Services Agency"
+      ],
+      "tables": []
+    },
+    {
+      "heading": "Page details",
+      "heading_level": "h2",
+      "category": "processing_information",
+      "items": [],
+      "bullets": [],
+      "tables": []
+    }
+  ],
+  "eligibility_signals": [],
+  "supporting_document_signals": [],
+  "pdf_links": [],
+  "related_links": [
+    "https://www.canada.ca/en/revenue-agency.html",
+    "https://www.canada.ca/en/revenue-agency/corporate/scams-fraud.html",
+    "https://www.canada.ca/en/revenue-agency/programs/about-canada-revenue-agency-cra/compliance.html",
+    "https://www.canada.ca/en/revenue-agency/services/make-a-service-complaint.html",
+    "https://www.canada.ca/en/revenue-agency/services/payments.html",
+    "https://www.canada.ca/en/revenue-agency/services/support-difficult-situations.html",
+    "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html",
+    "https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll.html",
+    "https://www.canada.ca/en/services/taxes/business-registration.html",
+    "https://www.canada.ca/en/services/taxes/charities.html",
+    "https://www.canada.ca/en/services/taxes/child-and-family-benefits.html",
+    "https://www.canada.ca/en/services/taxes/excise-taxes-duties-and-levies.html",
+    "https://www.canada.ca/en/services/taxes/income-tax.html",
+    "https://www.canada.ca/en/services/taxes/savings-and-pension-plans.html",
+    "https://www.cbsa-asfc.gc.ca/menu-eng.html"
+  ]
+}
